@@ -1,0 +1,839 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="theo.tei.P5.xsl" type="text/xsl"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xml:id="theo.dps.003" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">De Pauperie Salvatoris</title>
+        <title level="m" type="sub">Libri I II III IIII</title>
+        <author n="FitzRalph, Richard, d. 1360" sameAs="#RF1" key="RF">Richard FitzRalph</author>
+        <author n="FitzRalph, Richard, d. 1360" sameAs="#RF" key="RF1">Ricardi Filii Radulphi</author>
+                <respStmt>
+                    <resp>Project Director</resp>
+                    <name n="Lahey, Stephen E.">Stephen Lahey</name>
+                </respStmt>
+        <respStmt>
+          <resp>Text scanning and OCR by</resp>
+          <name>Kyle Drake, University of Nebraska-Lincoln</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoding by</resp>
+          <name n="Weakly, Laura Smith">Laura Weakly, University of Nebraska-Lincoln</name>
+        </respStmt>
+	<respStmt>
+          <resp>Text encoding by</resp>
+          <name>Jaclyn Cruikshank Vogt, University of Nebraska-Lincoln</name>
+        </respStmt>
+      </titleStmt>
+            <publicationStmt>
+                <publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability><p><!-- ? (copyright) --></p></availability>
+            </publicationStmt>
+      <sourceDesc>
+<bibl>
+<author n="FitzRalph, Richard, d. 1360">Richard FitzRalph</author>
+<title level="m">De Pauperie Salvatoris</title>
+<title level="m" type="sub">Libri I II III IIII</title>
+  <note>Originally published as an Appendix to De Dominio Divino Libri Tres</note>
+<publisher>Published for the Wyclif Society by Trubner &amp; Co.</publisher>
+<date when="1890">1890</date>
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+<profileDesc>
+<!-- <handList>
+<hand scribe="Richardus" xml:xml:xml:id="ric"/>
+<hand scribe="Iohannes" xml:xml:xml:id="ioh"/>
+</handList> -->
+</profileDesc>
+    <revisionDesc>
+              <change>
+        <date when="2010-09-23"/>
+        <name>Laura Weakly</name> Initial encoding</change>
+    </revisionDesc>
+
+
+  </teiHeader>
+
+
+    <text>
+<body>
+
+
+
+<div1>
+
+<pb xml:id="dps.liber4.Image174" n="434" />
+
+<head>LIBER QUARTUS.</head>
+<div2>
+
+<p><hi rend="italic">Incipit quartus liber tractans de proprietate seu civili dominio et possessione et lure utendi civilibus et de simplici usu facti.</hi></p>
+<p>1. PRIMUM capitulum de proprietate inquirens ostendit quod non est originale dominium neque possessio, obiciens de nostro primo parente atque dissolvens.</p>
+<p>2. Secundum capitulum  patefacit quod rerum proprietas non est aliquid compositum ex originali dominio et possessione, nec potest haberi ex solis titulis naturalibus, licet sic possit haberi possesionis proprietas; et adicit distinccionem de proprietate notabilem.</p>
+<p>3. Tercium capitulum describit humanum, positivum, sive  civile dominium, descripcionem declarans in genere, circa  verbum acquisicionis obiciens, et solvendo ostendens quod nullus habet vere civile dominium gracia denudatus.</p>
+<p>4. Quartum capitulum nititur fulcire racionibus questionem capituli precedentis.</p>
+<p>5. Quintum capitulum obicit contra precedens, et solvendo declarat aliud esse<ref target="n0001">1</ref> heredem et aliud esse dominum hereditatis paterne, Scripturam dissolvens contrariam apparenter que dicit, <hi rend="italic">Alius natus iu regno</hi>etc., et <hi rend="italic">Nichil </hi><hi rend="italic">differt </hi><hi rend="italic">a servo, cum sit dominus omninm.</hi></p>
+<p>6. Sextum capitulum obiectum de subversione legum absolvens ostendit<ref target="n0002">2</ref> per iudicia dominia<ref target="n0003">3</ref> non conferri, set ita posse proferri sentenciam iuste pro impio ut pro iusto; unde necessitatem legis superioris concludit iudicantis occulta, causam adiciens cur mali aut<ref target="n0004">4</ref> boni ab hominibus domini appellantur.</p>
+<p>7. Septimum capitulum contra precedens obiciens non solum iudicem talem set legem esse iniustam, dissolvit, atque ostendit racionibus et scripturis iudicem scienter pro impio ferentem sentenciam esse inexcusabilem a peccato et excusabilem cum ignorat.</p>
+<p>8. Octavum capitulum legem quoad conscienciam iudicis in tali casu excusat,  que nullum * ad iudicandum contra conscienciam potest artare; et dat consequenter doctrinam quam in casu consciencie index infei ior,  medii, ac suppremus<ref target="#n0005">5</ref> habent servare.</p>
+<p>9. Nonum capitulum legem eo casu absolute excusat post obiectus et responsiones  multiplices atque difficiles, illum qui conscienciam sibi fabricat propter legis aut iudicis aut iudicii prolati iusticiam apercius condempnando.</p>
+<p>10. Decimum capitulum iuquirit de civili dominio, et ostendit in quem
+
+<pb xml:id="dps.liber4.Image175" n="435" />
+
+transit cum pater iustus decedit aut impius, et quod aliquando penitus evanescit, dominium a titulo ymaginis divine distinguens.</p>
+<p>11. Undecimum capitulum differenciam et convenienciam inter possessionem naturalem et civilem ostendit, et civilem describit atque distinguit.</p>
+<p>12. Duodecimum capitulum patefacit quod civilis  possessio non est ius, et quod est titulus aliquando communis et aliquando proprius, semper distinctus a dominio cui correspondet<ref target="n0006">6</ref>; ad quanta eciam se extendit; et alias particulas descripcionis possessionis civilis declarat.</p>
+<p>13. Tercium decimum capitulum, de usu procedente a civili rerum dominio disputans, patefacit quod donacio potest fieri per  communicacionem civilis dominii, non per communicacionem possessionis solius; et quod translacio civilis dominii non est actus dominii nisi per accidens; obiciens ac dissolvens qualiter donaciones magnifice sunt actus virtutis, licet non sint actus dominii: et consequenter explanat que translacio dominii seu possessionis proprie, que minus proprie, appellatur donacio sen actus dominii.</p>
+<p>14. Quartum decimum capitulum de permutacione et vendicione pertractans consequenter inquirit nunquid sola communicacione sive translacione civilis dominii potest fieri una civilis donacio, permutacio, sive vendicio, affirmativam ostendens, obiciens difficulter et multipliciter, ac dissolvens.</p>
+<p>15. Quintum decimum capitulum prolixe disputat et inquirit numquid leges ecclesie per leges iustas hominum possunt restringi, aut iuste per eas ad facienda iudicia  prohiberi, negativam racionibus et scripturis affirmans.</p>
+<p>16. Sextum decimum capitulum patefacit quod omne civile dominium libere potest respui cum offertur.</p>
+<p>17. Decimum septimum capitulum de proprietate  pertractans, ostendit quid est, et qualiter non cst cum dominio idem omnino.</p>
+<p>18. Decimum octavum capitulum, pertractans de iure utendi civili, ostendit qualiter a dominio et a proprictate distinguitur; et obicit, ac dissolvit ostendens  quod plenum ius utendi potest in aliquo esse sine dominio.</p>
+<p>19. Decimum nonum capitulum obicit de actu consumpcionis, et solvit multiplici racione, suadens quod potest non iuste<ref target="n0007">7</ref> domino convenire.</p>
+<p>20. Vicesimum capitulum pariter de eodem obicit, et dissolvit, idem ostendens racione et eciam decretali.</p>
+<p>21. Vicesimum primum capitulum investigat qualiter * ex verbis donatoris et voluntate ipsius agnoscitur quando donacio exercetur, et de modis adhibitis in donando diffuse obicit ct dissolvit.</p>
+<p>22. Vicesimum secundum capitulum specialius investigat numquit consumpcionis unus potest concedi sine abdicacione dominii.</p>
+<p>23. Vicesimum tercium de lure utendi et de simplici usu facti inquirit<ref target="n0008">8</ref> et tractat, finem quarto libro imponens.</p>
+</div2>
+
+<div2>
+<head>I.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Iam de proprietate rerum primo volo ut tractes, quia proprietas videtur quoddam esse dominium: ecce enim, 
+
+<pb xml:id="dps.liber4.Image176" n="436" />
+
+cum ex originali dominio aliqua occupantur, videtur michi in sic occupatis acquiri proprietas, quoniam res taliter occupate michi videntur eas occupanti taliter propriate<ref target="n0009">9</ref> quod ab aliis per illam occupacionem excluditur usus ipsarum; vellem igitur  suaderi quid sit hoc casu illa proprietas.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Contrarium habes in tercio huius superius declaratum<ref target="n0010">10</ref>, scilicet, quod propter occupacionem solam rei cum originali dominio nullus iustus a iure utendi re illa iuste potest exciudi: si vero ab usu scu iure utendi rei illius iustus aliquis excludatur, non est hoc propter illud dominium  aut possessionem rei ita possesse, set propter legem positivam que alios a possidente ab usu exciudit, qua lege sic possidens non vult uti, licet ceteri ea utantur. Causa vero cur alii re illa uti non possunt est quia ab illis sciri non potest quod possidens in re ita possessa non habet civile dominium, quia potest (ut infra cito patebit<ref target="n0011">11</ref>) tale dominium libere pro voto efficere in se ipso: unde rei iilius ab eo possesse est in ipso possessionis de facto proprietas, nulla rei possesse  proprietas nisi per accidens. Set nos de vera proprietate rerum inquirimus que dominium rei reddit cuiquam proprium suo iure: dic ergo quid tibi vera proprietas esse videtur.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Dominus Nicholaus papa, in Decretali <hi rend="italic">Exiit<ref target="n0012">12</ref>, </hi>dominium et proprietatem accipit pro eodem, quoniam in illa decretali­premisso hoc modo, <hi rend="italic">Porro cum regula ipsa expressa contineat quod fratres nichil sibi approprient, nec domum nec locum nec aliquam rem, sitque<ref target="n0013">13</ref> declaratum per eundem predecessorem nostrum<ref target="n0014">14</ref> Gregorium IX et nonnullos  alios hoc servari debere tam in speciali quam eciam in communi; quam sic artam  abdicacionem venenosis obtrectacionibus aliquorum insensata dampnavit  astucia, ne fratrum eorundem perfeccionis claritas<ref target="n0015">15</ref> talium<ref target="n0016">16</ref> imperitis sermonibus laceretur: dicimus quod abdicacio proprietatis rerum omnium tam<ref target="n0017">17</ref> in speciali quam  eciam in communi propter Deum meritoria est et sancta, </hi>etc.—consequenter  de eadem materia ita subiungit: <hi rend="italic">Verum condecens fuit ei professioni que  sponte devovit Christum pauperem in tanta pau*pertate sectari, omnium abdicare  dominium et rerum sibi concessarum necessario usu fore contentam; nec per hoc quod proprietatem usus et rei cuiusque dominium a se abdicasse videtur, simplici usui rei renunciatum esse convincitur, </hi>etc. Et ibi cito post: Que<hi rend="italic"> et quorum usum facti<ref target="n0018">18</ref>, scilicet, ordini vel  fratribus ipsis licet habere proprietaten vel dominium, </hi>etc. Et adhuc cito  inferius post: <hi rend="italic">In omnibus appareat eis quoad dominium omnimoda abdicacio. </hi>In quibus locis proprietatem et dominium pro eodem vicissim tanquam synonyma videtur 
+
+<pb xml:id="dps.liber4.Image177" n="437" />
+
+accipere: unde consequitur quod dominium  dici debet esse talis proprietas qua aliqua res peculiariter seu proprie  obtinetur.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Cum constet omnes iustos equaliter habere originale dominium rerum omnium ab omnibus possessarum, per tale dominium nulla res elongatur a quoquam, nec cuiquam appropinquat; ac per hanc proprietatem, qua  res proprie unius efficitur, hoc modo res illa ad votum illi appropinquat et ab aliis elongatur: non est igitur proprietas originale dominium. Cum insuper originale dominium iustis omnibus sit commune, et proprietas ideo dicatur proprietas,  quia aut uni aut paucis peculiariter aut communiter applicatur sive inheret ad  votum, nequaquam potest tale dominium <hi rend="italic">proprietas </hi>nisi improprie appellari, scilicet, preter regulam; et trahitur iste sensus <hi rend="italic">a </hi><hi rend="italic">prope, </hi>et sic improprie dicitur, quod a grammaticali regula remote profertur.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Intelligo quod originale dominium super rebus nullius  potest apte dici vera proprietas, nisi forte in nostro primo parente, cum solus  erat creatus: tunc enim videtur quod  dominium eius, illi soli conveniens, proprietas dici debebat.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Alia est proprietas naturalis, que ob hoc vocatur proprietas quia nectitur condicioni  nature; et alia est rerum subiectarum homini seu usualium rerum proprietas, que  ob hoc proprietas appellatur quia est condicio qua res aliqua usualis ad votum  unius aut certorum habetur, inde dicta proprietas quia prope votum, sicuti  prima vocatur proprietas quia iuxta aut prope naturam. Set amplius habet in  sensu, scilicet, exclusionem usus seu iuris utendi in aliis; quoniam a tempore  primi peccati nostri parentis sic extat corrupta humana voluntas, quod a se non habet  nisi quod illud  est ad votum ipsius quod est a voto aliorum semotum, quia semper ex cupiditate illi  impressa conatur res usuales sibi peculiariter seu singulariter retinere: unde  si de facto nullus communicator existat, tunc per accidens, scilicet, propter  sociorum absenciam, rerum talium potest in uno dici proprietas; si vero iure  aliquo certo dominium tale uni aut certis conveniat, tunc per se in illa  persona seu illis potest illud dominium dici proprietas, qualis rerum  proprietas in Adam non erat in sua creacione primaria, licet tune propter  solitudinem illud dominium originale po&quot;terat per accidens dici in eo  rerum proprietas. Set de ilia que per se appellatur usualium rerum proprietas  materie nostre congruit profundius<ref target="n0019">19</ref> perscrutari.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Quid ergo si dixero quod ipsa rei possessio proprietas est dicenda?</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Vera proprictas rei appropriate cuiquam dici non solet 
+
+<pb xml:id="dps.liber4.Image178" n="438" />
+
+nisi auctoritatem contineat ad omnem usum rei illius; quoniam, si alius a possidente haberet rei ab eo possesse dominium, et ipse possidens dominium non haberet, cum ille dominus rei pocius ius haberet quam possidens, nequaquam diceretur vere proprietatem sic possidens habere super re huiusmodi aliena: quoniam cum proprietas<hi rend="italic"> a proprie, </hi>et proprie<hi rend="italic"> a trope, </hi>dicatur, scilicet, quia res propriata sit prope,  non potest illud recte intelligi de sola propinquitate in loco per  possessionem, set per propinquitatem rem ad votum habentis; que non est vera  propinquitas quoad votum, nisi cum per illam propinquitatem potest quis sua  propria auctoritate et pro voto iuste ac libere uti re ipsa; quod sine  dominio aut iure utendi nullus potest: et ob hoc proprietas necessario ex sensu grammaticali includit ius utendi sive dominium cuilibet rei usus dcbetur; et  ita proprietas non potest dici esse sola possessio.</p></sp>
+</div2>
+
+<div2>
+<head>>II.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Sic sequitur.  Si ergo nec dominium est dicendum proprietas neque possessio, simul utrumque,  scilicet, dominium cum possessione, dici debet proprietas.</p></sp>
+
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Si compositum ex dominio et possessione, si quod sit tale, sit vere proprictas, dominium quod est pars illius  compositi non est proprietas: cuius tu supra<ref target="n0020">20</ref> a domino Nicholao contrarium allegasti. Item, possessio est effectus dominii ac proprietatis, nec est ius aliquod, et ob hoc non potest apte dici dominium; omnis autem pars  dominii non solum est ius dicendum, set dici debet dominium; non est ergo  possessio pars alicuius dominii. Item, habens proprietatem, sicut habens  dominium, potest possessione privari proprietate in ipso manente; non est ergo  pars aliqua proprictatis possessio, cum nulla res sine omnibus suis partibus  possit existere. Item, felicis  recordacionis dominus Nicholaus III. in Decretalibus <hi rend="italic">Exiit qui </hi><hi rend="italic">seminat, </hi>proprietatem a possessione aperte distinguit hoc modo<ref target="n0021">21</ref>: <hi rend="italic">Nam, cum in rebus temporalibus sit considerare precipuum, proprietatem,  possessionem, usumfructum, ius utendi, et simplicem facti usum, et ultimo tanquam  necessario egeat, </hi>licet primis<hi rend="italic"> carere possit </hi><hi rend="italic">vita mortalium, nulla prorsus  potest esse professio que a se usum necessarie sustentacionis excludit. </hi>Unde consequitur manifeste quod possessio nequaquam pars proprietatis existit.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Ex hiis sequi videtur quod nullus habens sola naturalia iura habet veram proprietatem rei cuiusquam.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Racionabiliter illud infers. Unde proprietas rei, secundum  suum sensum primevum<ref target="n0022">22</ref>, non est nisi acquisitum dominium unius aut plurium, quod <hi rend="italic">civile </hi>sive <hi rend="italic">politicum a  polis, </hi>
+
+<pb xml:id="dps.liber4.Image179" n="439" />
+
+<hi rend="italic">civitas, </hi>vel <hi rend="italic">a </hi><hi rend="italic">polis </hi>quod est <hi rend="italic">pluralitas</hi>appel*latur; et sic habes grammaticalem sensum termini illius <hi rend="italic">proprietas, </hi>quem sensum termini de Decretalibus allegasti.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Nondum in isto quietor, quoniam, cum quis rem possidet cum primo originali dominio, potest re uti ad votum; et ita res illa sibi quodammodo appropriatur, quod fieri sine proprietate non potest; et ita omnino videtur quod possidens naturaliter  proprietatem rei habeat et vere habere dicatur.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Iam diximus tibi quod aliud est rei  possesse<ref target="n0023">23</ref>, aliud possessionis proprietas<ref target="n0024">24</ref>; quamvis enim possidens appropriate(ut supra tractavimus propriam sibi habeat possessionem, et ob hoc sit in ipso possessionis vel possidendi proprietas, non tamen propter hoc statim consequitur quod sit in ipso rei ab eo possesse vera proprietas; ex quo illius rei alius quiscunque iustus ita vere ut ipse<ref target="n0025">25</ref> possidens habet dominium: unde sic non<ref target="n0026">26</ref> propriatur possidenti nisi proprietate possessionis, non proprietate rei possesse; sic quod vera proprietas rei dominate ex iuribus naturalibus non  habetur. Set semper dicenda est vera<ref target="n0027">27</ref> proprietas respectu rei dominate esse<ref target="n0028">28</ref> dominium acquisitum, quia est ex sensu grammaticali iuris utendi in aliis  exclusivum; quod nunquam efficit, eciam  cum sua naturali possessione, originale  dominium (iuxta superius cum de possessione naturali egimus declarata<ref target="n0029">29</ref>).  Debes tamen attendere quod non omnes de ista materia disputantes puritatem  gramaticalis sensus terminorum attendunt, set magis modo loquendi vulgari  plurimi se conformant: et ob hoc, ne nostri maiores tractantes de ista materia  sibi afrmare contraria videantur, apte iuxta premissa potes proprietatem ita distinguere: quod est proprietas vera simpliciter sive per se et proprie, scilicet, prope regulam gramatice. ita dicta, et illa semper (iuxta nunc ostensa superius) est civile dominium  unius aut plurium; et est proprietas sic dicta per accidens improprie, non per se, scilicet, non ex peculiari seu singulari iure persone eam habentis. Et talis est duplex: una que ideo sic per accidens vocatur alicuius rei proprietas, quia est dominium in una persona, de facto dumtaxat, sicut originale dominium in Adam, cum solus erat, poterat dici tocius inferioris mundi  proprietas, non vera sive simpliciter; ex quo, Eva creata, eciam filiis ab eis progenitis, illud dominium fuit de iure et de facto commune<ref target="n0030">30</ref>.  Alia est que proprietas appellatur et non est proprietas nisi facti atque per  accidens; immo, vcrius proprietas estimata quia propter legem prohibitivam<ref target="n0031">31</ref> in aliis uni soli aut paucis de facto convenit, quo modo in possidente rem  aliquam qua<ref target="n0032">32</ref> eciam reicit omne civile dominium, quia lex positiva, ex causa quam supra expressimus, 
+
+<pb xml:id="dps.liber4.Image180" n="440" />
+
+usum rei ita ab uno seu pluribus peculiariter de facto possesse refrenat in aliis ac si possessor haberet in * re illa civile dominium. Ideo dici potest in taliter possidente quod suum originale dominium est in eo proprietas rei illius, set solum per accidens; immo verius (ut supra expressimus et infra magis clarescet<ref target="n0033">33</ref>) proprietas estimata, non vere neque simpliciter aut per se, set solum propter restriccionem usus aut iuris utendi re illa in aliis.</p></sp>
+</div2>
+
+<div2>
+<head>III.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Iam peto ut illa michi dominia positiva que in primi libri<ref target="n0034">34</ref> principio nominasti in genere michi describas.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Omnium dominorum adventiciorum generalis descripcio patet esse racionalis creature mortalis ius sive radicalis auctoritas acquisita civiliter possidendi res illi lege positiva subiectas et eis plene utendi conformiter racioni. Posui autem hec verba racionaliset <hi rend="italic">ius sive auctoritas possidendi et utendi </hi>ac conformiter<hi rend="italic"> racioni </hi>propter easdem raciones et causas propter quas eadem posui in descripcione originalis dominii humani<ref target="n0035">35</ref>.  Verba vero lege<hi rend="italic"> positiva illi subiectas </hi>posui, loco verborum in descripcione originalis dominii natura<hi rend="italic"> subiectas, quia</hi> tale positivum dominium non se extendit ad alia quam ad subiecta homini lege positiva sive civili; et verbum acquisita posui, loco originalis in descripcione predicta, quia hec auctoritas civilis non provenit a natura iusta specifica, set ab acquisicione propria seu parentum provenit in quocunque. Tu dic quid contra hec tibi occurrit.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Cur ponis hec verba satis intelligo, quoniam ob causas easdem propter quas eadem verba posueras in descripcione originalis dominii; et verbum civiliter,loco verbi naturaliter ibi positi, cerno adhibitum; et puto quod verbum  radicale<hi rend="italic"> ponebas</hi> ad differenciam iuris derivati, quale habent usuarii non habentes verum dominium; et quia dominium rerum corporalium corruptibilium in  hoc mundo inferius non est datum a Deo hominibus nisi propter suam mortalitatem  naturalem fovendam ne cadat (ut supra, cum de hac materia egimus, est probatum<ref target="n0036">36</ref>), ideo verbum mortalis hic, ut ibi, ponebas. Set non plene attendo cur verbum  acquisita hic ponis, cum acquisitum dici non soleat nisi quod per laborem  accipitur, et multi sunt domini sine labore in inicio concepcionis sue iure  paterno, patribus eorum ante de hac luce subtractis. Unde Eccl. iv. 13,  Melior<hi rend="italic"> est puer pauper et sapiens rege sene et stulto, qui nescit previdere in posterum; quod de carcere cathenisque interdum quis egrediatur ad regnum, et alius natus in regno inopia consumatur: </hi>ubi attendo quod dicit aliquem natum<hi rend="italic"> in regno.</hi></p></sp>
+
+<pb xml:id="dps.liber4.Image181" n="441" />
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Priora bene advertis; set in hoc ultimo non est ita ut fingis, * quoniam secundum purum sensum huius verbi <hi rend="italic">dominus </hi>(ut supra probavimus<ref target="n0037">37</ref>) dominus rerum non est aliquis nisi gracia iustificante sit iustus, quales non sunt in sua concepcione filii Eve, set <hi rend="italic">omnes  nascimur<ref target="n0038">38</ref></hi><hi rend="italic">filii ire </hi>secundum apostolum ad Eph. ii. 3.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Hoc supra ostenderas de originali dominio; set ex quo leges hominum statuunt primogenitos dominos sue paterne hereditatis debere existere, tale dominium nondum nato, dum tamen sit primogenitus patris sui, in utero matris acquiritur.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Si que leges humane sic statuunt, tyrannorum  aut vulgi, qui puritatem sensuum terminorum non capiunt, sensibus se conformant (ut supra expressimus<ref target="n0039">39</ref>); cum veraciter nullus sine gracia gratificante sit dominus.</p></sp>
+</div2>
+
+<div2>
+<head>IV.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Hoc, si placet, fige robustius.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Num dices quod aliquis in India homo iustus, esto Iohannes, ius pocius habet atque preclarius in hereditate tali quam dominus iste, quem ponis vocetur Robertus?</p></sp>
+
+<sp who="ioh"><speaker>IOH.</speaker> <p>Nequaquam sum ita protervus ut extraneum in iure  rerum earum domino anteponam.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Originale dominium in his rebus, sicut in aliis, ius pocius est atque preclarius quam  aliquod civile dominium; hoc enim habes supra probatum<ref target="n0040">40</ref>.  Iohannes<ref target="n0041">41</ref> vero in India graciam optinens habet originale harum rerum dominium, quo caret  tuus Robertus habens solum (secundum te) civile dominium in hiis rebus: igitur Iohannes iustus existens in India ius pocius habet in eis atque preclarius quam  tuus dominus impius fictus Robertus existens in patria; et si uterque eorum  usu earum egeret equaliter, Iohannes, tanquam habens titulum pociorem ad usum, deberet tuo Roberto preferri.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Econtra affirmo, quoniam quilibet iudex iustus, inter eos hoc casu iusticiam faciendo, Robertum preferret.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Deus iudex  iustissimus nequaquam sic ageret, nec homo iustus aliquis qui hec sciret,  quoniam contra conscienciam iudicaret; licet iudex condicionum ipsorum dominorum  ignarus, supponens graciam in utroque ut debet (ut tu astruis) per ignoranciam  e contrario iudicaret.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Perge quo tendis.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Civile dominium, sicut originale dominium, (non dubium) datum est a Deo hominibus pro prestando debito Deo obsequio ab eo cui est datum; igitur, cum quis peccat mortaliter, per hoc perdens ac forefaciens originale dominium, pariter et pari racione  forefacit civile dominium. Item, cum <hi rend="italic">dominus </hi><hi rend="italic">a </hi><hi rend="italic">demo </hi>dicatur<ref target="n0042">42</ref>, eo quod presit aut preesse debet domui, nec peccans 
+
+<pb xml:id="dps.liber4.Image182" n="442" />
+
+mortaliter domui potest  preesse, quin verius subesse per cupiditatem domui est censendus et aliis rebus ab eo detentis, non est vere dominus appellandus, set servus. Item, (ut in secundo huius expressimus<ref target="n0043">43</ref>) non convenit divine prudencie neque sue iusticie ut permittat pium et impium, aman*tem et contempnentem, parem auctoritatem habere super rebus suis pleno  iure sibi subiectis, cum possit in momento quocunque congruum adhibere remedium; quoniam homo sapiens, cum posset adhibere remedium, illud nullatenus sustineret.</p></sp>
+</div2>
+
+<div2>
+<head>V.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Istud michi  videtur mirabile, quoniam primogenitus hominis (esto<ref target="n0044">44</ref>)  modo defuncti, antequam baptizetur, est heres ipsius defuncti; et per consequens habet idem dominium quod pater suus habuit ante mortem, adhuc gracia denudatus: unde non videtur gracia necessaria ad civile dominium, quia per consequens esset necessario illi coniunctum origina]e dominium, quod (iuxta prius ostensa<ref target="n0045">45</ref>) graciam presupponit.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>De coniunccione originalis dominii cum civili vere concludis. Primum tamen (scilicet, dominium) ex hereditate minus provide intulisti; quoniam, etsi sufficit iuxta leges humanas filio sine gracia quod sit primogenitus legitimus patris sui, cum  condicionibus in lege adiectis, ad hoc ut sit heres ipsius, non tamen ad hoc  quod sit hereditatis eius dominus (ut iam dixi<ref target="n0046">46</ref>), quoniam sine hoc quod sit Deo acceptus bonorum Dei nequaquam dominus potest  veraciter appellari aut esse. Illud vero quod de Ecclesiaste adduxeras, quod  alius<hi rend="italic"> natus </hi><hi rend="italic">in regno,</hi>etc., non oportet ita accipere ut primogenitus cum  nascitur vere sit dominus hereditatis paterne, nec quod natus statim sit rex, set quod in regno sive ad regnum ius habet cum nascitur; quoniam apostolus  ponit verba magis urgencia ad Gal. iv. i, 2 isto modo: Quanto<hi rend="italic"> tempore</hi><hi rend="italic"> heres parvulus est, nichil differt a</hi><hi rend="italic"> servo, cum sit </hi><hi rend="italic">dominus omnium, set</hi><hi rend="italic"> sub </hi><hi rend="italic">tutoribus et</hi><hi rend="italic"> actoribus </hi><hi rend="italic"> est usque ad</hi><hi rend="italic"> tempus</hi><hi rend="italic"> prefinitum </hi><hi rend="italic">a &quot;patre. </hi>Ubi  parvulum <hi rend="italic">dominum </hi>aperte appellat, quod puto pariter debere intelligi,  scilicet, quod habet titulum legalem seu causam ad dominium optinendum; quoniam hoc dicit de parvulo patre eius vivente, prefiniente (scilicet) tempus tutele:  unde, cum non sit vere dominus, tunc constat quod non eo modo apostolus  intellexit. Nec mirum si sacra Scriptura, parvulis se conformans, dominium aut regnum interdum appellet titulum sive causam, quo secundum leges positivas  potest pri­mogenitus dominium optinere; cum angelos bonos et malos et homines  Deos interdum  appellet: <hi rend="italic">Omnes</hi>,inquit<ref target="n0047">47</ref>, <hi rend="italic">dii gencium </hi><hi rend="italic"></hi><hi rend="italic">demonia, </hi>et <hi rend="italic">Non </hi><hi rend="italic">est alia nacio tam</hi><hi rend="italic">grandis que habebat deos</hi>
+
+<pb xml:id="dps.liber4.Image183" n="443" />
+
+<hi rend="italic">apropinquantes sibi, </hi>etc., Deut. iv. 7, et Ex. xxii. <hi rend="italic">28, </hi><hi rend="italic">Diis non detrahes, </hi>ubi homines presidentes <hi rend="italic">dii </hi>vocantur. Angelos vero bonos  Paulus <hi rend="italic">deos </hi>appellat, cum dicat, <hi rend="italic">Etsi sint qui vocantur dii sive in celo sive in terra, siquidem sunt multi dii  et multi domini, </hi>prima ad Cor. viii. 5.</p></sp>
+</div2>
+
+<div2>
+<head>VI.</head>
+
+<sp who="ioh"><speaker>* IOHANNES.</speaker> <p>Ex premissis (ut  michi videtur) consequitur quod heredes dominia non habent in bonis paternis, cum patribus suis in peccato mortali succedunt, nec donatarii peccatores in eis donatis, nec stipendiarii. in stipendiis per eos receptis, nec  legatarii peccatores in sibi legatis; et ita videtur michi, si ista sit vera dominii descripcio, quod subvertuntur omnes leges humane de rerum dominiis que indistincte fiunt pro malis et bonis, ut possint petere ac recuperare per iudicium legata, donata, hereditaria, et pro laboribus sibi promissa.</p></sp>
+
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Recte concludis nullum in peccato mortali rerum habere dominium, set pocius ieprobatam a Deo  tirannidem, et alia consequenter: non tamen rite infers ulterius quod sic subvertantur  leges humane, quoniam nulla lex iusta per ea que infers subvertitur, set  quelibet congruum locum habet tam in probis quam in<ref target="n0048">48</ref> improbis; quoniam lex adiudicans legatario sibi legatum seu filio cuiusquam hereditatem paternam, stipendiariis promissa seu pacta stipendia, donatariis  eis donata, sive sint boni sive sint mali, non illis confert rerum illarum  dominium nec ius aliquod, cum contra aliquos super rebus huiusmodi per legis  ministrum profertur, set nude (iuxta probata) res tales Iex aut iudex<ref target="n0049">49</ref> eisdem adiudicat ut eas, si velint, retineant quoad legem humanam impune, non propter hoc eos dominos faciendo seu ius in eis aliquod statucndo, set  patentes probaciones sectando, licet illis in casu veritas non subsistat, quod  ex multis casibus potes advertere. Si enim per tercium contra ilium pro quo profertur sentencia simili agatur iudicio et per probaciones optinuerit, illi tercio contra secundum, sicuti secundo contra primum, adiudicabit iudex rem  illam; et pariter in simili casu, si quartus contra tercium figuraret iudicium, eveniret, et ita de pluribus: unde liquide nobis constat quod talis sentencia nulli confert dominium, set rem illi de alterius retencione restituit, si velit eam admittere. Item, si per testes falsos contra aliquem talis sentencia ferreretur, ita ut ipse, non dominus rei illius super qua esset contencio, rem  illam per sentenciam optineret, nequaquam per hoc fieret ille impius dominus  rei illius, set male fidei (sicud sunt plurimi), si sciret, possessor  existeret. Et multa possent pro hoc adduci similia, scilicet, quod leges humane non eos quibus bona adiudicant dominos rerum adiudicatarum eis<ref target="n0050">50</ref> efficiunt; set 
+
+<pb xml:id="dps.liber4.Image184" n="444" />
+
+potest esse quod post tale iudicium res adiudicate iniuste et nequiter detinentur, licet quoad leges  humanas impune, ita quod leges sunt iuste facientes; quod possunt, quoniam non possunt  leges humane aut iudices investigare * consciencias hominum, renes scrutando et corda, quod facere solius est Dei. Quibus ob hoc necessaria est lex alia illis legibus humanis superior,  quia<ref target="n0051">51</ref> renum ac cordium scrutator, per sue ecclesie presidentes, quibus in secreto utitur iudicando, aut per se ipsum in morte cuiusque, aut per inferiores iudices, angelos, scilicet, suos ministros conscienciarum rectores ad vitam optinendam eternam, ut sic distorta rectificet, pandit occulta, suppleat diminuta, et infringibilis iusticie irrevocabilem sentenciam proferat contra malos<ref target="n0052">52</ref>.  Quod autem existentes in peccato mortali heredes, donatarii, aut nominibus aliis similibus que dominium iustum videntur includere, ab hominibus appellantur, est quia tales esse merito supponuntur, quia iusti esse deberent; nec de contrario nobis  constat: unde ex nominacione tali vulgari nequaquam natura dominii potent  variari, quod nunquam reperitur in aliquo nisi sit ad Dei ymaginem et similitudinem reformatus.</p></sp>
+</div2>
+
+<div2>
+<head>VII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Videre non  possum quin lex ilia sit iniqua aut fatua, que bona cuiusquam veri domini ea  possidentis aut ea forsitan non habentis, in eis iustum titulum non habenti  adiudicat; quoniam conditor talis legis, aut iudex, si taliter iudicaret, impius si scienter, aut fatuus si ignoranter id ageret, merito censeretur:  quoniam, si scienter id faceret de perversa consciencia a Deo et hominibus posset aut deberet redargui; si vero ignoranter taliter iudicaret, posset atque  deberet de carencia sciencie, quam iudex omnis debet et tenetur habere, merito  increpari.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>De reprehensione ignorancie in iudice, ubi est vincibilis, verum dicis: de invincibili ignorancia, qualis est ista in  casu pretacto, quia est respectu consciencie alterius, que alieno patere non potest, iudicem esse reprehensibilem, minus  caute affirmas. Set iudicem veritatem negocii agnoscentem, bona cuiusque veri domini alteri non domino per iudicium applicantem, impium esse negare non possum, cum contra conscienciam rectam sentenciet; nec posset esse lex iusta que iudicem aliquem sic sentenciare compelleret, quoniam nunquam posset lex iusta quemquam ad peccandum artare. Nec dubium quin omne quod non est ex fide, scilicet, contra conscienciam, est peccatum, quoniam ad Rom. xiv. 23, scribitur, <hi rend="italic">Qui </hi><hi rend="italic">autem </hi><hi rend="italic">discernit, </hi><hi rend="italic">si </hi><hi rend="italic">manducaverit, dampnatus est, </hi><hi rend="italic">quid non  ex fide; omne autem quod non  est ex fide peccatum est: </hi>ubi apostolus intendit osten-
+
+<pb xml:id="dps.liber4.Image185" n="445" />
+
+dere quod qui iuxta ceremonias legis antique reputat aliquos alios esse immundos et ita cibum mundum ab immundo discernit, si de immundo manducet, dampnatus est, quia non est factum  suum ex fide, scilicet, ex consciencia; <hi rend="italic">Omne autem quod non est ex fide, </hi>scilicet, contra conscienciam quam * quis habet, <hi rend="italic">est  peccatum. </hi>Item, videtur iudex talis esse in casu Iosaphat regis, qui Acab regi prebebat auxilium; <hi rend="italic">cui </hi><hi rend="italic">occurrit Ieu filius, videns, et ait ad eum, Impio prebes auxilium, et hiis qui oderunt  Dominum amicicia iungeris; et idcirco iram quidem Domini merebaris (2 </hi>Paralip<ref target="n0053">53</ref>.  xix. 2). Videtur  enim quod iudex proferens talem pro iniquo sentenciam prebet illi auxilium eciam in impietatis notam, et ei amicicia iungitur quoquomodo; et videtur iniquitati sue in sua consciencia consentire (eam aggravando, scilicet), ut  impius actu alterius bona recipiat, qui solo appetitu iniquo ante ea habere  volebat; et ita continetur sub decreto apostoli, ad Rom. i. 32, ubi, enumeratis  fornicacione, malicia, dolo, et aliis generibus  peccatorum, ita diffinit, <hi rend="italic">Quoniam </hi><hi rend="italic">qui talia agunt digni sunt morte, non solum qui faciunt ea, set qui consentiunt facientibus. </hi>Hoc autem manifeste racio patefacit; quoniam racio ad hoc data est homini, ut sciat discernere bonum a malo et bonum eligere et malum  vitare <hi rend="italic">(apposuit, </hi>inquit, <hi rend="italic">tibi aquam et ignem; ad quod volueris  porrige manum tuam: ante hominem vita et mors, bonum et malum, quod placuerit ei dabitur illi, Eccli. xv. </hi>17, 18); ordinem ergo nature et legem eius dissolvit, qui contra conscienciam sive racionis suae iudicium quicquam agit: fateor igitur  iudicem scienter taliter iudicantem esse iniustum.</p></sp>
+</div2>
+
+<div2>
+<head>VIII.</head>
+
+<sp who="ric"><p>Non tamen propter hoc sequitur quod lex ilia qua iudex sic iudicat sit iniusta que (secundum allegata et probata) statuit iudicandum,  quoniam hec lex iudicem nullum artat ut iudicet, et ob hoc ad peccandum non artatur iudex a lege; set lex iudicem ad hoc artat quod, si iudicaverit, debet taliter iudicare. Nec ab homine debet artacionem suscipere ut faciat aliquid  contra legem Dei, eciam si debeat mortem corporis suscipere, quia non est  parendum homini contra Deum; unde suus superior debet eum excusatum habere. Et  ob hoc in casu quo iudex novit de certo testes singulariter iuxta iura  ecclesie aut communiter iuxta iura quorundam regnorum examinatos falsa affirmasse  pro veris, aut instrumenta fortassis producta fabricata existere, aut  processum previum fuisse confictum, iudicium proferre non debet, set causam suo superiori referre: et sic gradatim debent inferiores, si ita sint conscii,  ad superiores causam deducere, donec ad summum iudicem veniatur, qui habet super 
+
+<pb xml:id="dps.liber4.Image186" n="446" />
+
+eo casu congruum remedium adhibere, si potest, scilicet, falsitatem seu fraudulenciam detegendo sub penis quas comminare poterit ac cautelis adhibitis; sicut Salomon  doctus egit rimando caucius cuius duarum mulierum<ref target="n0054">54</ref>,  circa unicum filium coram eo contendencium, filius unius erat, et sicud sanctus  Daniel egit in causa Su*sanne, et sicuti de quodam iusto rege atque prudente  gestum audivi quod tres testes subornatos ita de falsitate convicit: primum  examinatum secrete dicere fecit oracionem dominicam secrecius coram eo; secundo  vero vocato ei expressit quod primus examinatus sibi retulit solidam veritatem sicud eam  habet dominicalis oracio, et nisi ipse pariter veritatem exprimeret illi per  coronam suam quam gessit asseruit quod  antequam cibum gustaret supplicium sustineret;  quibus auditis ille secundus claram veritatem negocii de quo agebatur  expressit; et tercius ex eadem comminacione perterritus<ref target="n0055">55</ref> cum secundo veritatem per omnia propalavit; et sic primum falsidicum  condempnavit et innocentem quendam simplicem qui super bonis per quendam potentem  fuerat impetitus mediante iusticia liberavit. Verum si iudex suppremus, si ad  eum negocium sit deductum, nullo modo poterit falsitatem detegere, sive sit  ecclesiasticus sive laicus, et pariter sicud primus fraudem agnoscit, debet omnino differre iudicium (ut michi videtur) propter raciones predictas, quoniam  minus<ref target="n00556">56</ref> est iniquum actorem carere eo quod fraudulenter et impie conatur acquirere quam iustum  defensorem bonis suis contra legem Dei ab impio spoliari.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Quid si iuramento sit ille suppremus ad observanciam legis astrictus? tunc, si iudicare omittit, incurrit periurium.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Tacita condicio  in omni intelligitur iuramento, scilicet, ut legem Dei eius observancia non  offendat; que condicio locum habet in casu presenti, et ideo in eo casu iuramentmn non obligat. Poterat enim Iepte, post votum emissum in genere quod primum de suis quod ei occurreret  victori redeunti de prelio Domino immolaret, quoad filiam suam unicam occurrentem  sancte rescindere; et ita potuisset Herodes iuramentum emissum in genere rescidisse, ne Iohannem in carcere decollasset. Sic videtur agendum, quando omnes superiores iudices habent scienciam certam de fraude. Si vero solus  primus habet scienciam fraudis, tunc aut immediatus illi ad quem defertur negocium habet de falsitate conscienciam propter informacionem solam acceptam a primo, aut non habet. Si non habet, potest iuste proferre sentenciam; si  habet, hoc potest evenire dupliciter, aut nimis leviter aut prudenter. Si nimis  leviter, ut in casu in quo non satis discutit condicionem testium, quot stint et qualis sunt fame, qui forte tot sunt ac talis fame 
+
+<pb xml:id="dps.liber4.Image187" n="447" />
+
+existunt quod eorum concors testificacio esset secundum racionem primi iudicis testimonio preferenda: in quo casu conscien- ciam  suam minus prudentem de consilio sapientum debe abicere, et extunc potest sine peccato secundum probata proferre sentenciam, quia ipse eo casu debet reputari invincibileir conscienciam * in facto habere; et si nullo modo potest  conscienciam illam abicere, superiori suo debet negocium tradere finiendum. Si vero prudenter, conscienciam sibi adduceret, scilicet, ex eo quod ille primus tante fidei ab omnibus estimatur quod  eius testificacio eo casu testificacioni testium productorum preponderat, pariter debet causam ad superiorem deducere; et si tunc forte nullus reperiri possit qui fidei primi iudicis acquiesceret, ita ut non nisi contra conscienciam possit secundum probata proferre sentenciam, unum de tribus  facere oportebit suppremum Aut omnino (sicud supra expressimus, in casu sciencie) debet  perpetuo dissimulare iudicium; aut aliquem inferiorem compellere per congruas sue legi penas quascunque secundum iura proferre sentenciam; aut debet id agere per se ipsum, eciam si nullus velit compelli, set penas quascunque pocius sustinere. De quibus tribus viis secunda stare non potest, propter raciones premissas, quibus ostenditur quod nullus iustus nec aliqua lex  iusta ad agendum contra conscienciam suam potest quemquam compellere, quin pocius non parendum  est cuique sic iubenti; ex eisdem michi videtur via  tercia stare  non posse, quoniam sic ille suppremus contra conscienciam proferret sentenciam. Unde non video quin tenetur ad tempus dissimulare iudicium et oracionibus communibus implorare super hoc divinum oraculum, sicud de colligente ligna in sabbato fuit actum iuxta historiam Num. xv. 32-36, et sicud legitur esse actum in sacris litteris in casibus satis multis: et si non poterit miraculum impetrari, debet dissimulare iudicium donec actor ille iudicem poterit reperire; quod si nunquam fecerit, secrete est sibi  dicendum a iudice quod falsam causam prosequitur: et ob hoc nullus vult eo casu sibi assumere officium iudicandi et tolleranda est eius detraccio qualiscunque.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Cur primus iudex aut alius eo superior, non habens scienciam fraudis set estimacionem  solam ex informacione prioris, non potest causam uni ignoranti fraudem sine deteccione fraudis illi facienda committere, ita ut  ille sana consciencia ferat sentenciam, iuxta probata?</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Quia, iuxta raciones predictas, eo modo veritatem tacendo impio in facto suo iniquo preberet auxilium, informacionem super  suo scelere supprimendo.</p></sp>
+</div2>
+
+<pb xml:id="dps.liber4.Image188" n="448" />
+
+<div2>
+<head>IX.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>In premissis casibus per ignoranciam invincibilem iudicem  video excusatum: iam legem excusa; quoniam michi lex illa impia et iniusta que prebet auctoritatem seu causam impio, pro quo fertur sentencia, in hoc casu bona non sua set bona alterius  veri domini sibi et fortassis suis heredibus in perpetuum retinendi.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Lex non prebet  auctoritatem seu causam aut possessionem nisi per accidens, ex hoc quod iudex propter  probaciones, * licet falsas, estimat non vere illud esse legi conforme: nec causa prestita iniquitati hoc modo per accidens legem iuculpat; quoniam sic Deum auctorem legis posses legitime inculpare, sicud et legem eius que dicit, <hi rend="italic">In ore duorum aut trium peribit qui interficietur </hi>(Deut. xvii. 6), ex quo in casu iudex iustus ex ignorancia invincibili iustum falsorum testimonio condempnaret; quoniam Deus sic causa esset per accidens  illius iudicii. Hoc tamen non vales nec audes astrucre, quoniam Deus non simpliciter precipit ut sic fiat, set quando veritas subest facto; et ob hoc sensus ]egis est  condicionatus, scilicet, quod veritas sit in facto. Unde illi legi premisit hoc<ref target="n0057">57</ref> modo, Cum<hi rend="italic"> reperti fuerint apud te vir aut mulier qui faciant  malum in conspectu Domini<ref target="n0058">58</ref>, </hi>etc., <hi rend="italic">et hoc </hi><hi rend="italic">tibi  fuerit nunciatum, audi­ensque inquisieris  diligenter et verum esse repereris, </hi>etc., <hi rend="italic">in ore </hi><hi rend="italic">duorum  aut trium<ref target="n0059">59</ref>, </hi>etc.:  ubi constat quod lex intelligenda est, cum veritas subest facto (ut diximus), cum dicat, <hi rend="italic">cum </hi><hi rend="italic">verum  esse repereris. </hi>Unde constat legem  istam sicud et Deum excusabilem semper esse, cum nunquam prebeat causam  iniquitati nisi per accidens.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Si lex prebens causam, eciam per accidens, impio talia retinendi sit excusabilis apud Deum, consequitur quod ille qui utitur  tali lege, bona alterius sibi per tale iudicium acquirendo, apud Deum debeat excusari.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Non sequitur, quia ille non per se set solum per accidens utitur lege illa, quia non legis intencione set solum verbis illius; et apud Deum taliter acquirentem alia lex condempnat, que precipit testes et instrumenta solummodo fidelia litigantes debere producere: hoc eciam ipsorum  iuramento de vitanda calumpnia eos lex  precipit observare, cuius contrarium iste agit; sic quod, lege ista inferiore inculpabili existente, iste taliter retinens vel acquirens bona alterius secundum  legem eandem, modo predicto, per accidens et preter intencionem legis, a lege alia apud Deum iustissime condempnatur.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Titulum iustum per tale iudicium iste sibi acquirit: igitur condempnari non debet, sicud nec ab homine, pariter nec a Deo.</p></sp>
+
+<pb xml:id="dps.liber4.Image189" n="449" />
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Superius tibi dixi quod lex, iudicando rem sibi, non ei confert dominium nec aliquem titulum illi prestat: set ipse mediante lege per accidens (ut diximus) possessionem acquirit civilem, si possessione ante caruerat; que ita potest esse iniusta ut iusta (sicud est in proposito nostro): unde in hoc casu quia scienter titulum ilium iniquum admittit, scilicet, possessionem iniquam, a sua consciencia et a lege alia (ut diximus) condempnatur.</p></sp>
+
+  <sp who="ioh"><speaker>Ioh.</speaker> <p><ref target="n0060">60</ref>Risus michi videtur affirmare possessionem illam esse
+iniustam que iusto iudicio sibi confertur; quoniam hec michi videtur repugnanciam continere, scilicet, possessionem esse iniustam et iustam.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Risus tuus dolore miscebitur et extrema gaudii tui* luctus (ut estimo) occupabit; quoniam iudicium tripliciter iustum asseritur, quoad agens tantum, quoad paciens tantum, et quoad utrumque: et sic est iudicium iustum simpliciter primo modo, ac secundo iudicium secundum quid sive secundum aliquid non iustum simpliciter dici potest. Constat autem<ref target="n0061">61</ref> istud iudicium quoad agens (puta, quoad iudicem) esse iustum, nequaquam quoad passum, quoniam nec est iustum quoad actorem iniquum, qui per ipsum iudicium infert reo  iniuriam, nec est iustum reo qui patitur per iudicium ab actore iniuriam. Unde  contrarietas non est absoluta ut fingis, quoniam non est possessio iusta  simpliciter neque eciam quoad passum, etsi sit iusta secundum aliquid, scilicet, quoad iudicem iudicantem. Et si intimius perscruteris, nullo horum  modorum est titulus ille iustus seu possessio iusta, quamvis iusto iudicio  quoad agens habeatur ab impio; quoniam titulus per iudicium acquisitus ab  aliquo racione iudicii iustus dici non potest, nisi iusto quoad passum iudicio acquiratur; quoniam agentis iusticia ne­quaquam in passo titulum iustum reddit.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Adhuc istis  recalcitro, quoniam michi videtur quod iste habet hunc titulum sive possessionem ex auctoritate legis, mediante  isto iudicio; et habens auctoritatem legis habet iusticiam; et ita per istud iudicium  efficitur in isto passo una legis iusticia qua iuste possidet seu detinet illud quod sibi est  adiudicatum a lege. </p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker>  <p>Constat clarius ex premissis quod iste non habet possessionem nec rem ipsam auctoritate legis, nisi per accidens et contra intencionem legis que in eo casu locum non habet; set forte auctoritate iudicis per se possessionem acquirit: set quia hoc 
+
+<pb xml:id="dps.liber4.Image190" n="450" />
+
+non  est nisi propter ignoranciam invincibilem, et ideo excusatam in iudice apud Deum, non est illa possessio per hoc iusta.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Adhuc contra hoc dictum cum viris mundanis exclamo quod iste conformans se ac conscienciam suam isti legi iuste, isti iusto iudicio, et consciencie iudicis iusti istius, iuste eciam iudicantis, habens tot innocencie sue presidia, nec a Deo nec ab homine poterit condempnari, set innocens ac sane consciencie debet pocius reputari.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Non sunt ista, ut fingis, innocencie presidia, set vulpine consciencie sunt commenta; quoniam  nec legi, quia non nisi verbis legis (ut diximus<ref target="n0062">62</ref>), contra intencionem legis, nec iusto iudicio,  quatenus est iustum (scilicet, quoad agens) set quatenus est iniustum (scilicet, quoad passum), nec iudicis consciencie, quatenus est iusta (scilicet, in hoc quod cupit intencioni legis conformiter proferre iudicium) set quatenus est erronea (scilicet, in hoc quod credit probaciones esse veridicas, cum sint false), ista vulpina consciencia se conformat. Unde clarescit quod consciencia ista nec a lege nec a iusto iudice aut ab eius  iusto iudicio tali iniusto actori inprimitur, set a cupiditate terrena confingitur; quoniam, sicud lex talis, quatenus in ea est, tribuit cuique quod est suum, * nullatenus alienum, quoniam non est hoc legis officium, sic omnis iudex iustus et omne iustum iudicium id idem intendit: contra quam intencionem iste iniquus acceptat non  sua; ac  contra legem Dei dicentem, <hi rend="italic">Fraudem </hi><hi rend="italic">ne feceris, </hi>Marc. x. 19, et Exod. xx. 17, <hi rend="italic">Non  concupisces rem proximi tui; </hi>et  contra legem nature que dicit, <hi rend="italic">Omnia quecunque vultis ut faciant vobis homines et vos facite illis; hec est enim lex et prophete, </hi>Mat. vii. <hi rend="bold">I2, </hi>cum non sit quisquam qui alterum vellet iudicio aliquo ab eo sua recipere. Item, eciam  contra legem humanam recipit bona non sua aut detinet, affirmantem, iuxta tenorem iuramenti calumpnie, quod nullus litigans falsidicis probacionibus uti debet; contra quam legem cum perversa, immo subversa, consciencia iste aut detinet aut recipit ista bona. <hi rend="italic">Quicunque </hi>enim <hi rend="italic">totam legem servaverit  offendat autem in uno factus est  omnium reus, </hi>Iac. ii. io. Unde istum transgressorem simpliciter legis  Dei et hominum esse constat: et quod frustra sibi ipsi blanditur de consciencia quam habet conformem uni legi, immo non legi set verbis legis dumtaxat, aliam impugnando super facto quod lex reprobat et iudex ignorat, ut ponitur; quod factum si legi  aut iudici ministro legis constaret, nequaquam pro illo talem proferret sentenciam.</p></sp>
+</div2>
+
+<div2>
+<head>X.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Et legem et iudicem habeo excusatos et <hi rend="italic">risum meum reputo iam errorem, et dico gaudio, Quid frustra deci-
+
+<pb xml:id="dps.liber4.Image191" n="451" />
+
+peris<ref target="n0063">63</ref>? </hi>et nichilominus satis attendo quod heredes non sunt semper domini: set cur primogenito cuiusquam existente in peccato mortali, cum pater discedat,secundogenitus, si sit iustus, in hereditate non succedat paterna, cur insuper iustus quilibet indistincte non possit bona temporalia peccatorum recipere tanquam sua, ex quo possidentes carent illorum bonorum omni dominio et boni habent in illis bonis originale dominium, a te racionem expecto.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>De secundogenito racionem multiplicem facile potes advertere; quoniam, lege iusta  statuente quod primogenitus in hereditate patri debet succedere, non  potest secundogenitus hereditatem paternam sibi auctoritate propria usurpare: insuper, quia de primogeniti penitencia vere apparere non potest atque de eius permanencia in peccato; unde non debet ab  aliquo harum condicionum inscio temere spoliari:  item, etsi non penitet in presenti, tamen potest in proximo penitere, sicud et secundus nunc iustus potest peccare, si velit, continuo et ius perdere si quod eo modo acquireret;  unde non videtur equum quod primogenitus statim iure hereditatis seu titulo perpetuo  privaretur, nec quod alius qui facile peccare posset in iure hereditatis  statim perpetuo firmaretur.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Lento gressu  mecum hic perge, quoniam videris in premisso dicto ius hereditarium sive  titulum a dominio separare, si peccans non statim iure privatur; quia constat quod dominium cum  admisso peccato amittitur.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Superius * habes ostensum quod, sicud dominium  sequitur ymaginem reformatam<ref target="n0064">64</ref>, ita nudam Dei ymaginem in homine mortali sequitur aliquis titulus seu condicio naturalis minor dominio; preter hoc quod in peccante titulus et ius dominii acquisiti remanent sublato vel non remanente dominio, quoniam <hi rend="italic">ius </hi><hi rend="italic">a iubeo </hi>derivatur. Quamdiu igitur ex lege aliqua iusta possent aut debent filii hereditatem paternam habere, tamdiu habent ius et  per consequens titulum, scilicet, signum et causam, in ipsa hereditate paterna; et si ex pluribus legibus iustis id habent, iura tot habent ac titulos ad hereditatem paternam habendam sive tenendam: dominium tamen sive dominia similitudine per caritatem seu graciam omnino non habent. Hoc ius seu titulum hunc<ref target="n0065">65</ref> ius seu titulum dominii sive ad dominium optinendum nequaquam debes vocare, set ius seu titulum ad rem aliquam civiliter optinendam congrue poteris appellare, quoniam, sicud nullus potest ius habere ad graciam optinendam, sic nec ad dominium quod gracie est annexum.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Nescio quo me ducis. Estne titulus iste aut ius istud sufficiens ad dominum optinendum?</p></sp>
+
+<pb xml:id="dps.liber4.Image192" n="452" />
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Constat quod non, iuxta premissa; set est quoad leges humanas suficiens, quia continet radicem sufficientem, secundum leges humanas, que de solis iudicant manifestis ad hereditatem iudicialiter et iusto iudicio  optinendam, quamvis sic optinendo titulum dominii sive dominium non acquirat:  unde, lege iusta obstante, non potest  secundogenitus iustus, primogenito impio existente, hereditatem paternam adire; nec possunt iusti impiorum possessiones diripere sive recipere, nisi indigencia exi­gente, legibus  eciam iustis obstantibus et racionibus supradictis.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Adhuc quod dicis plene non capio<ref target="n0066">66</ref>; quoniam ex quo primogenitus peccando perdit hereditatis paterne si quod habeat dominium, et peccans mortaliter perdit dominium omnium<ref target="n0067">67</ref> ab eo antea habitorum, illorum dominium in aliquos derivatur sive transfunditur: nec video in primo casu in quem transiret, nisi in propinquiorem in sanguine; nec in secundo casu in quos, nisi in iustos.</p></sp>
+
+<sp who="ioh"><speaker>Ric.</speaker> <p>Terge oculos tue mentis, et vide quod originale dominium in nullum potest transire cum ab alio quoquam amittitur; quoniam nunquam transit in  malum, cum non sit cum peccato mortali quis capax illius, nec transit in bonum, quoniam quilibet bonus optinet ipsum ante. Set cum quis peccat mortaliter, dominium originale ipsius quoad ipsum, sicud paternitas in patre filio moriente, penitus  evanescit, licet integrum in omnibus iustis remaneat; sicud eciam in primis nostris parentibus, cum tunc non fuerant in quos posset transire, eorum dominium, cum peccabant, omnino  evanuit. Dominium vero adventicium, quia originale * dominium in  quocunque ipsum habente supponit, pariter peccando mortaliter evanescit; nec transit illo peccatore superstite in alium lege iusta obstante (ut dixi): per mortem tamen illius, nulla lege obstante, transit in proximum si sit iustus cui secundum legem  debetur, si in iusticia moriatur; si vero moriatur in scelere, cum tunc dominium nullum optineat, non potest in alium dominium derivare, set dominium  per titulum legis in proximo gracia illustrato oritur de novo seu gignitur, et dominio originali adicitur.</p></sp>
+</div2>
+
+<div2>
+<head>XI.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Intelligamne  possessionem istam hic positam esse eam quam supra in tercio huius descripseras <ref target="n0068">68</ref>?</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Possessio facti naturalis et civilis, ipso termino sumpto iuxta usum communem, nullatenus  distinguntur; quoniam utraque nichil habet amplius nisi occupacionem rerum, voluntariam, sive iusta fuerit possessio sive iniusta: possessio vere  naturalis, que annexam habet iusticiam est alia a civili, intelligo quod ex alia causa  est iusta quam civilis possessio; 
+
+<pb xml:id="dps.liber4.Image193" n="453" />
+
+quoniam, sicud originali dominio correspondet naturali ibi descripta possessio<ref target="n0069">69</ref>, sic civili dominio civilis, scilicet, positive legis (scilicet, auctorizata lege positiva) possessio correspondet.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Breviter eam  describe.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Sicud possessio naturalis est occupacio sive detencio  voluntaria rerum usualium homini subiectarum ex sola auctoritate previa  originalis dominii, sic michi videtur civilis sive politica possessio (si  puritatem sequamur grammatice) esse occupacio sive detencio voluntaria rerum usualium homini subiectarum ex iure positivo sive politico seu civili.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Nemo igitur habet possessionem civilem nisi habeat ius civile.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Sic sequitur.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Non recte  igitur iudicant homines secundum leges politicos, nec leges ipse iuste videntur que uni spoliato rei cuiusquam possessionem adiudicant dominii sive  proprietatis seu iuris questione pendente.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Hoc sequitur, si grammatica recta utamur;  quoniam possessio <hi rend="italic">a post </hi>et <hi rend="italic">sedeo </hi>(ut diximus supra<ref target="n0070">70</ref>) verbo descendit, que nulli congruit eo sensu nisi ei qui circa usum rei illius absolutum aut certum ulterius  laborare non  eget ut eam  acquirat, set quiete poterit ea uti (ut  ibi expressimus). Leges tamen humane non sic,  ut puto, loquuntur: set possessionem <hi rend="italic">a </hi><hi rend="italic">post </hi>et <hi rend="italic">sedeo </hi>dictam, ut sessio quietem ab acquirenda occupacione rerum signat, sive iusta fuerit sive iniusta,  appellant, conformando se vulgo qui sensuum verborum non potest capere  puritatem; quo modo potest iuste uni adiudicari possessio dominio sive hire  integro penes alium remanente, et penes unum potest remanere possessio et  penes alium rei eiusdem dominium et eciam ius utendi.</p></sp>
+</div2>
+
+<div2>
+<head>XII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Estne ista possessio legis humane ius aliquod appellanda?</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Raciones quas  supra<ref target="n0071">71</ref> posuimus ad probandum quod possessio naturalis ius non dicitur affirmant illud idem de ista predescripta possessione civili; licet causa aut titulus, sicud de possessione naturali expressimus, congrue appelletur.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Estne titulus communis an proprius?</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Omnis civilis possessio conformatur illi civili a quo procedit dominio. Unde est titulus  communis vel proprius appellandus: si in domino suo resideat, conformiter suo  dominio; si in alio, iuxta concessionem domini uni vel pluribus aut iuxta occupacionem rerum ab uno vel pluribus, similiter est communis titulus vel proprius nominandus. Nunquam tamen est civilis possessio communis simpliciter set aliquibus personis dumtaxat 
+
+<pb xml:id="dps.liber4.Image194" n="454" />
+
+vel uni, quoniam est semper exclusiva possessionis civilis in aliis; eciam si plures rem unam possideant, non sicud possessio naturalis iustis omnibus est iure communis, sicuti suum a quo descendit<ref target="n0072">72</ref> originale dominium iustis omnibus est commune. Debes item advertere quod, sicut possessio naturalis a suo, originali dominio est distincta, velut effectus a causa, ita civilis sive positive legis possessio a suo positivo dominio est diversa.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Ad quanta se valet extendere ista possessio?</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Si de illa civili possessione que nunquam est impia, quam hic supra<ref target="n0073">73</ref> descripsimus, illud queris, tibi respondeo quod ad omnia ad que se valet  extendere civile a quo procedit dominium: vero possessio quam leges positive civilem seu<ref target="n0074">74</ref> possessionem facti appellant multo est generalior, set illegalior sepe, quam  civile dominium; cum fures et raptores eo modo plura possideant, quorum non habent civile dominium.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Perge ulterius.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Verbum <hi rend="italic">plene utendi posuimus </hi>intelligendo per <hi rend="italic">plene </hi>facultatem quoad omnes actus dominio  competentes, usuarios accomodatarios excludendo, qui actus aliquos set non omnes possunt regulariter exercere. Posui autem <hi rend="italic">conformiter racioni, </hi>ut irracionabilem usum sive abusum ostenderem a dominio nullo vere procedere.</p></sp>
+</div2>
+
+<div2>
+<head>XIII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Suspectum habeo verbum <hi rend="italic">regulariter </hi>quod hic supra ponebas, quia ex eo suspicor quod in casu potest usuarius plenum usum habere.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Infra cito clarescet, quando de iure utendi agetur, quod plenus usuarius habere potest plenum usum.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>De actibus in rebus homini subiectis utendi ostende  per ordinem (sicud superius<ref target="n0075">75</ref> feceras de actibus subiectis originali dominio), quod et quo modo competunt huic civili sive positivo dominio acquisito, et nunquid aliquis potest donare  communicando alteri suum civile dominium; cum enim nullus possit communicare suum originale dominium (sicud supra<ref target="n0076">76</ref> in secundo huius probaveras), quoniam nec  iusto potest communicare, cum quisque iustus illud prehabeat, nec iniusto, cum iniustus illud * capere iniusticia stante non valeat, sic nec videtur quemquam posse communicare suum civile dominium.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Pueriliter ista  profers, cum non omnis iustus habeat cuiusque rei donabilis civile dominium; cur igitur habens illud non habenti communicare non possit, non vales ostendere.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Sic esse  perspicio; unde confiteor quod per communi­cacionem dominii potest donacio esse  actus civilis dominii.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Cur eciam per communicacionem solam possessionis 
+
+<pb xml:id="dps.liber4.Image195" n="455" />
+
+non potest civilis dominus sua dare (sicud de Adam in statu innocencie supra<ref target="n0077">77</ref> ostendimus in istius tercio et de hominibus in presenti), eciam dic, si nosti.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Quia non est rei cuiusquam donacio, nisi donatarius per donacionem efficiatur dominus rei donate.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Ostensum est supra<ref target="n0078">78</ref> contrarium; quoniam, cum per communicacionem aut translacionem possessionis solius est facta donacio, non acquiritur donatario ullum dominium, set sufficit sibi originale prehabitum; non igitur necessarium est donacioni ut donatarius per donacionem aut in donando efficiatur dominus rei donate.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Sic cerno; et quia in communicacione possessionis civilis dumtaxat non acquiritur civile dominium nec a donatario prehabetur, cum tamen necessarium sit donatario ut sit dominus rei donate, ideo non potest hic, ut ibi ubi dominium prehabetur, per translacionem solam aut communicacionem possessionis fieri proprie dicta donacio.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Provide hic aptasti tuum ingenium. Cur non potest fieri civilis donacio per translacionem dominii, dic, si habes.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Non id nego set econtra affirmo.</p></sp>
+
+<sp who="ric"><speaker>Ric. </speaker><p>Nonne est ostensum superius<ref target="n0079">79</ref> quod translacio  civilis dominii non fit per actum dominii, quia non procedit illa translacio ab aliquo originali seu civili dominio, et ob hoc nunquam per donacionem, que est actus dominii, transfertur dominium, nisi forte per accidens? Esto modo,  cum tu das<ref target="n0080">80</ref> michi equum vel asinum sic abdicando a te civile dominium, si ego voluero,  illud accepto: set quia ista voluntas non est necessaria michi donatario  admittenti, si sola possessione naturali cum prehabito originali dominio voluero contentari, ideo si recepero civile dominium a te abdicatum, equum aut asinum michi donando, aut possessionem civilem, cum neutrum sit michi necessarium, nec tibi donanti, ut donator veraciter affirmeris, non per se  transfertur in me civile dominium, set solum per accidens, quia volo; non est igitur<ref target="n0081">81</ref> translacio dominii actus dominii nisi per accidens. Nec Deus potest taliter  quicquam dare, qui propriissime ac veracissime est donator. Item, cum non sit completa donacio in premisso casu antequam sit abdicatum dominium, quoniam  donacio accio est et passio, unde non est donacio antequam a donatario sit donum acceptum; quoniam uno con­cedente seu offerente vel, quantum in eo est, per verba donandi expressa donante, nisi alter admittat non est facta donacio, et si admi*serit<ref target="n0082">82</ref> tunc primo est facta donacio, et eo instanti non est illius civile dominium in  donante, set in donatario est si velit, et si nolit illud admittere de medio evanescit, cum in nulla 
+
+<pb xml:id="dps.liber4.Image196" n="456" />
+
+persona<ref target="n0083">83</ref> remaneat: unde inter actus per se proprie dictos civilis dominii non est computanda donacio, nisi que fit per communicacionem dominii rei donate, nec alias (ut est dictum<ref target="n0084">84</ref>) donacio a dominio in donante procederet.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Unde est ergo quod dominos magnificos ex liberalitate laudamus, non cum<ref target="n0085">85</ref> communicant aliis set cum transferunt in alios magna donaria, si translacio  dominii a domino non pro-cedat?</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Immo econtra dominii translacio aliquando procedit a domino et magnificencie in ipso virtute, non autem ab eius dominio; et ob hoc dans a magnificencie virtute laudatur: sic quod, licet civilis donacio qua rei cuiusquam transfertur dominium suo modo per accidens non sit actus dominii, non minus est actus virtutis. Unde in casu ubi donator nonnisi unum haberet donarium, et ilium ex caritate indigenti donaret, eius civile dominium abdicando ac transferendo in pauperem illud volentem admittere, esset quedam donacio et actus virtutis magnifice; set  non esset actus originalis dominii aut civilis, quoniam (iuxta premissa<ref target="n0086">86</ref>) ipsa donacionis complecio supponeret in donatario civile dominium, et dominium a donatario tunc habitum non posset in donatarium transferre se ipsum, nec originale dominium potest esse talis translacionis principium, cum civile dominium nunquam originali dominio, nisi adventicie et per accidens, coniungatur et ob hoc eius abdicacio sive translacio ad dominium originale non pertinet.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Istud intelligo; set nunquid translacio possessionis civilis per donacionem hoc casu aut alio est actus civilis dominii?</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker>  <p>Supra<ref target="n0087">87</ref> hic claruit quod vera civilis possessio pro possidentis persona  nunquam habetur sine iure utendi civili; quoniam, sublato omni iure civili a quavis persona quoad rem occupatam per eam, non remanet in ilia persona nisi  naturalis possessio aut nulla penitus possessio pro se ipsa. Si ergo ad  licenciam seu ad commodacionem sequatur civilis possessio, ipsa possessionis translacio, sicud translacio sive concessio iuris utendi ad quam ipsa  consequitur, est actus dominii in taliter concedente; non tamen vera donacio, quia retinetur proprietas a donante. Si vero (sicuti in nostro casu) donatarius  admiserit civile dominium, ad ipsum civile dominium consequitur conformis possessio re recepta, non aliter: cum ergo suum principium ad quod solum hoc casu consequitur, scilicet, translacio civilis dominii, non sit<ref target="n0088">88</ref> actus dominii, satis claret quod ipsum, annexum non est actus illius  dominii, scilicet, possessionis translacio.</p></sp>
+
+<pb xml:id="dps.liber4.Image197" n="457" />
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Grata hec habeo; set dic nunquid * hoc casu civilis possessionis translacio sit appellanda donacio.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Nequaquam, set modus donacionis apcius appellatur.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Nunquid possessionis naturalis translacio, cum quis rem sibi donatam sive oblatam admittit, renuendo admittere civile dominium, sit appellanda donacio?</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Utique, sicut translacio civilis dominii quedam donacio congrue dici potest; set magis propri evoluntas donantis, qua abicit a se dominium seu possessionem, cupiens illud transferre in alium, donacio appellatur: est enim dominii ac eciam possessionis translacio donatarii  passio a donante; set voluntas sic transferendi est accio in donante; ideo nomen dacionis pocius promeretur.</p></sp>
+</div2>
+
+<div2>
+<head>XIV.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>De permutacione  parumper commoneor; quoniam michi videtur quod  permutacio rerum habet dominiorum translacionem  annexam; et ob hoc quod permutacio est actus civilis dominii sequi videtur quod translacio  civilis dominii est actus civilis dominii, contra nunc supra ostensa.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Iuxta declarata in primo de permutacione<ref target="n0089">89</ref>,  quod ipsa  duplicem donacionem contineat, ita de permutacione sicuti de donacione per omnia respondebis, scilicet, quod translacio dominii non nisi per accidens est actus dominii; quia in permutantibus dominium propria voluntate, non necessitate, efficitur, et si alter permutancium velit admittere civile rei recepte dominium et alter id nolit, si vult cum possessione rei recepte suo originali dominio contentari, non erit translacio duplex civilis dominii, set una dumtaxat, voluntarie non necessario, sicud nec in suo socio de novo effecta.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Nunquid ergo per communicacionem solius civilis dominii potest fieri civilis vera donacio?</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Ex ostensis<ref target="n0090">90</ref> in huius secundo apparet quod Adam prius rerum dominium quam earum possessionem actualem  accepit, nec minus ibi constitit quod Deus in creacione sua primaria vite necessaria  sibi dedit; unde consequitur quod per solam communicacionem dominii fiebat Ade a Deo rerum  donacio. Cur igitur pariter homines non possunt donare aut sic permutare  civiliter, dic, si habes.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Quia leges positive sive leges civiles statuunt donaciones, permutaciones, ac vendiciones per tradicionem debere fieri; ideo non potest sine tradicione rei, scilicet, possessionis accepcione, fieri civilis permutacio, vendicio, sive donacio.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Antequam lex talis fuerat instituta erant dominia civilia et possessiones civiles, quoniam talis lex ea supponit; et for-
+
+<pb xml:id="dps.liber4.Image198" n="458" />
+
+tassis sunt plura imperia in presenti in quibus  non est lex talis aliqua positiva, licet sit in Romano imperio: nec ambigis  quin quandocunque fuerant aut sunt in presenti dominia positiva, et possessiones civiles fieri poterant ac possunt donaciones, et ceteri actus civiles; quoniam tunc * nichil prohibuit nec prohibet in locis talibus in presenti quin quisque civilis dominus poterat dare civiliter sua bona, permutare, ac vendere, eciam si consequenti tempore id fieri nequivisset.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Sic esse confiteor; set loquimur de presenti tempore in quo lex donacionem iubet sic fieri.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Apostolus  Paulus dicit, Rom. iii. I9, <hi rend="italic">Scimus quod quecunque le.r loquitur, hiis qui sub lege sunt loquitur: </hi>unde cum sint<ref target="n0091">91</ref> multa regna atque imperia in orbe terrarum que non subsunt Romano imperio, homines illorum regnorum non artantur hac lege, et forte de ea nunquam loqui  audierant; igitur apud eos hoc tempore fieri possunt donaciones, permutaciones, et vendiciones civiles per solam communicacionem civilis dominii, licet talis donacio non sit tam perfecta seu plena, aut saltem non ita secura mundanis, sicud quando cum communicacione dominii eciam communicatur possessio aut omnino transfertur.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>In locis ubi lex talis statuitur, si fiat donacio, permutacio, sive vendicio transferendo dominium, possessione non tradita, non minus potest donator rem ita donatam iuste ac libere retinere, cum lex talis eum excuset.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Non excusat eum lex talis, quoniam nec precipit nec consulit nec concedit quod, facta tali  donacione, donator rem sibi retineat, cum sit impium<ref target="n0092">92</ref> rem donatam taliter detinere; set lex talis rem detinere penmittit impune  (intelligo, quoad legem huiusmodi, scilicet, regni illius): set ilia impietas per legem superiorem est nichilominus reformanda. Quis enim potest ambigere quin dominus rei habet in re sua titulum meliorem quam habeat in ea quivis non dominus, aut quod impediens dominum a possessione rei cuius est dominus, nulla previa sua culpa, nullo previo suo preiudiciali facto aut dicto, infert iniuriam, cum dominio possessio debeatur? Unde constat quod donator quoad retencionem nullatenus excusatur.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>In hoc tibi  resisto, quoniam videtur donator, non obstante tali donacione minus completa,  dominium retinere, ex quo lex non affirmat eum carere dominio; et si cum donatario contendat ad iudicium evocatus, si testes deponant quod donatarius possessionem non habuit, donator a iusto iudice iuxta legem a peticione donatarii debet absolvi: unde videtur quod remanet dominus talis rei sibi taliter iudicate.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Nequaquam ex  hoc quod lex talis non affirmat donatorem 
+
+<pb xml:id="dps.liber4.Image199" n="459" />
+
+carere dominio potest affirmative inferri<ref target="n0093">93</ref> quod habeat rei illius dominium; quia lex talis super tali dominii titulo non inquirit (ex quo statuit tradicionem actum donacionis exerceri debere seu  fieri), set solum de possessione seu tradicione donatario facta inquirit, et si nullam sibi factam reperit, donatorem a donatarii peticione absolvit, quia  donatarius donacionem, permutacionem, seu * vendicionem sibi factam secundum  legem non probat: ex quo nequit inferri quod donator habet dominium (cum de hoc iudex nichil inquirat nec dominium sibi adiudicet), set  tantummodo eum a donatarii peticione absolvit; unde consequitur (ut supra conclusimus<ref target="n0094">94</ref>)  quod donator hoc casu a donatario in permutacione ac vendicione, eciam iudicio huiusmodi non obstante, rem suam subtrahit impie ac iniuste, cum donatarius seu permutatarius per donacionem rei illius vere sit dominus.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Igitur iudicium huiusmodi est iniquum, per quod dominus rei a re sua et omnimodo fructu eius seu commodo est exclusus.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Nequaquam tali iudicio est omnino exclusus, set solum excluditur a repeticione rei cuius est dominus iudicio legis illius, que lex recuperacionem non tollit per legem superiorem dictam.</p></sp>
+</div2>
+
+<div2>
+<head>XV.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Immo econtra lex regia talem recuperacionem fieri per leges ecclesie non permittit.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Non est ita ut astruis: quoniam lex nulla regalis recuperacionem fieri per legem confessionis prohibet, set permittit, cum hoc iuste prohibere non possit, quin taliter prohibere esset in legem divinam, salvatricem animarum, impingere. Nec a prelato donatoris taliter retinentis donatum debet aliqualiter tollerari lex talis, si esset: set fidenter, si res esset aperta, contra talem per censuras teneretur aperte procedere, sicuti, si esset occulta, secrete in foro consciencie teneretur eum corrigere, si id sibi per confessionem panderet in secreto; quoniam non posset eum a peccato absolvere nisi veraciter peniteret, nec potest quisquam fideliter penitere de retencione rei aliene eam  taliter retinendo (nullus enim penitet veraciter de eo quod agit); et si nolit absolvi nec fideliter confiteri, corripiendus est iuxta nostri Salvatoris doctrinam, primo adhibitis duobus aut tribus testibus, et consequenter ab  ecclesia; et si perstiterit in peccato, ut publicanus et ethnicus est habendus.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Adhuc fluctibus undequaque immergor, quoniam istum  donatorem, quia rem detinet, de impietate redarguis; et michi videtur quod  donatarius talis, qualis est ille quem ponis, est pocius de necligencia  arguendus, ex quo legem scire deberet et 
+<pb xml:id="dps.liber4.Image200" n="460" />
+
+legem transgreditur, aut saltem se legi non subicit. Debuit enim (ut michi videtur), tam in donacionis actu quam  eciam in empcione, vendicione, et permutacione, et locacione, et eis similibus,  in quibus lex statuit ut tradicionibus corporalibus rerum fiant, attendere quod possessionem acciperet; aut alias  a re donata seu permutata secundum legem esset exclusus: quod quia in effectu non fecit, necligencie sue, non legi iuste, suum dampnum debet ascribere, aut lucri carenciam; quoniam dampnum non  puto dicendum carere indebito. Preterea miro modo conturbor quod asseris quod lex talis, que prohi*beret hominem in foro consciencie ad restitucionem  compelli, impingeret in legem anime salvatricem; quoniam, sicud lex aut  legislator potest iuste precipere quod donaciones, empciones, et permutaciones tradicionibus rerum fiant, sic potest precipere sancte et iuste, ne lites in  populo oriantur, quod non aliter fiant huiusmodi actus, aut saltem si fiant  irriti habeantur, cum ad quietem populi talis lex tendat. In philosophia enim didicimus quod aliqua in suo genere bona et iusta censentur, et tamen, si  postmodum sint lege prohibita, sunt iniusta. Immo lex divina id habet; non enim  de cigno aut porco commedere peccatum fuerat ante legem, et ex prohibicione legis divine comedere de talibus factum est sub lege  peccatum: unde ob hoc intelligo, et multi intelligunt, dixisse apostolum quod <hi rend="italic">lex subintravit ut habundaret </hi><hi rend="italic">delictum </hi>(ad  Rom.  v. 2o), quia facit plures actus  esse delicta quam ante fuerunt. Sic michi videtur quod aliqua fuerunt in lege  antiqua ma]a et impia, quia a lege prohibita, et in nova lege sunt sancta et  iusta, quia concessa, ut dixi de commestione animalium predictorum; et econtra  similiter aliqua in lege fuerunt sancta et iusta, sicud circumcisio et  cerimonie infinite, et in nova lege sunt impia et iniqua, quia prohibita.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>In primo tuo obiectu recte concludis quod carenciam lucri iste donatarius debet sibi seu necligencie sue  ascribere, set non aliam carenciam nisi quam ex lege iuste incurrit: autem non est absoluta exclusio a re sibi donata sine possessione accepta (ut diximus<ref target="n0095">95</ref>), set est exclusio cuiusque remedii legis illius; et illud non est sibi dampnum  proprie (ut prudenter affirmas), quoniam propter suam necligenciam remedium  illius legis non sibi debetur. In secundo vero obiectu tuo deciperis, quoniam, sicud in philosophicis didicisti quod asseris, sic ibi legisti quod sunt aliqua ad que nunquam recipi debet compulsio, nec aliquo casu fieri possunt iusta, quia sunt  involuta cum malo,  sicud homicidium, furtum, mendacium; talia vero statui a lege iusta non possunt: que vero bene fieri possunt et male, quamvis 
+
+<pb xml:id="dps.liber4.Image201" n="461" />
+
+sint bona, prohiberi possunt per legem ex causa. De primo genere est actus de quo nobis est sermo, quoniam semper est malum homini cuicunque atque peccatum rem tenere  cuius nor est dominus; et hoc colore dominii eciam quod dominus rei sine suo facto preiudicativo a rei possessione perpetuo et involuntarie  excludatur: et ideo homini nulla lex iusta tale, aut aliquid unde necessario sequitur, potest iuste statuere. Altera vero distinccionis a te  concluse particula, scilicet, <hi rend="italic">aut saltem si fiant </hi>quod <hi rend="italic">irriti  habeantur, </hi>de irrito absolute non sequitur, cum tali modo decernere ad hominum legem nequaquam pertineat, * licet de irrito quoad legem huiusmodi fortassis posset  constitui quod non aliter fierent actus huiusmodi. Est hic aliud quod forsitan non advertis, videlicet, quod non pari regula ut tibi videtur potest currere prohibicio bonorum et malorum precepcio; quoniam mali precepcio ad malum agendum et ad peccandum coartat: bonorum vero actuum aliquorum prohibicio nequaquam  artat hominem ad peccandum, quoniam non est homo ad quodcunque  bonum agendum, sicud est ad  quodcunque peccatum vitandum, artatus.  Unde bonum certum omittere ex causa utili precipi potest iuste, set malum certum agere precipi iuste non potest, pro bono eciam acquirendo; ait enim  apostolus, <hi rend="italic">Non, sicud blasphemamur et sicud aiunt quidam nos dicere, faciamus mala ut veniant bona; quorum dampnacio iusta est </hi>(ad Rom. iii. 8): ubi non tantum dampnacionem asserentis set blasfemiam reputat affirmare quod mala fierent ut bona venirent.  Nec ea que de antiqua lege aut alia que adducis probant contrarium, scilicet, quod ea que sunt semper mala (scilicet, de se mala) precipi possunt; set quod ea que mala sunt, quia prohibita, fieri possunt iusta si venerint sub precepto, hoc satis affirmant. Unde clarescit quod donator post donacionem qua transfertur dominium, seu permutans re permutata  non tradita, si invito donatario seu permutatario rem ita concessam ab eo detineat, facit illi iniuriam et delinquit rem alienam impie detinendo.</p></sp>
+
+  <sp who="ioh"><speaker>Ioh.</speaker> <p><ref target="n0096">96</ref>Scriptura aut racionibus fige, si placet, robustius istud dictum; quoniam, ex quo dominia civilia  pendent a lege  positiva sive civili, legis lator seu positor, sicud potest variare leges quas  ponit, ita potest variare iura dominiorum civilium. Cur igitur reges, a Deo aut ab ecclesia  auctoritatem habentes ad gubernacionem temporalem populi illis subiecti, leges pro suo voto statuere ac mutare non possunt, ac circa dominia rerum  civilia legibus suis pro voluntate sua subiecta taliter ordinare
+
+<pb xml:id="dps.liber4.Image202" n="462" />START HERE
+
+quod non transeant de persona in aliam nisi mediante tradicione seu possessione corporali, non video; quoniam e contrario con-sequitur, si non possunt, quod ipsa dominia et iura eorum non pendent a voluntate legis latoris sive datoris: unde non michi videtur quod talis lex  iniquitatem contineat, ut dixisti.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Nonne in<ref target="n0097">97</ref> inicio questionis istius tibi expressimus quod lex talis civilis, contingens  modum translacionis civilis dominii, civile dominium presupponit? alioquin  legis lator circa translacionis ipsius modum nonnisi inaniter seu retrogrado (ut solemus dicere<ref target="n0098">98</ref>)  ordine laboraret, ut ad profectum populi * civilem legem habentis de rerum  dominiis superadderet talem legem. Item, esto quod primi conditore legis  civilis super rerum dominiis simul cum prima lege dominii modum donacionis, vendicionis, ac permutacionis huiusmodi statuissent, alios reprobando:  nequaquam tamen poterant modum illum taliter reprobare quod apud legem  superiorem reprobus haberetur; cum auctoritatem non habeant homines contra  Deum aut legem ipsius aut contra legem nature statuere, qua quisque verus  dominus (cum amor proximi aut aliter observancia legis divine et sue salutis utilitas aut saltem necessitas hoc requirant) bona sua conformiter legi divine  possit conferre, existencia in loco distante ab eo, cum corporalem occupacionem rei donate donatario tradere tune non possit.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Perge quo tendis.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Esto insuper quod lex humana posset legem statuere quam finxisti, nequaquam tamen posset statuere quod nullus posset sine tradicione corporalis possessionis rerum suarum proprietatem seu civile dominium a se perpetuo abdicare; cum ad hoc (sicud in sexto huius, Luce duce, clarescet de lege divina) plurimi sint astricti, aut saltem, non obstante quacunque lege humana, per legem divinam de superioris precepto iuste ac sancte poterunt  obligari. Igitur, lege quam fingis statuta, scilicet, quod non nisi tradicionibus rerum transferantur rerum dominia, si contra hanc legem quis  tenetur donando, permutando, seu vendendo transferre suum dominium, omnino  consequitur quod ipse abdicat a se sic agendo suum civile dominium et ius utendi civile totum quod habet, licet propter legis prohibicionem aliter non possit illud admittere: et pariter, cum civilis vera possessio sine iure utendi  civili remanere non possit in aliquo, consequitur quod iste volens ita donare omni iure utendi civili rei illius quam cupit donare remanet denudatus; et mulla remanet in ipso rei illius quoad dominium aut ius utendi sive possessionum proprietas, nisi possessionis proprie tantum de facto proprietas,  que<ref target="n0099">99</ref> (ut in tercio huius apparuit<ref target="n0100">100</ref>)  ab
+
+<pb xml:id="dps.liber4.Image203" n="463" />
+
+ usu aut iure utendi nullum alium iustum excludit. Habet ergo ille in quem  cupit transferre dominium equale ius per omnia, sicud ipse, in re illa. Igitur  nec potest esse lex iusta que ilium cui cupit donare equale ius cum eo ad usum rei illius habentem ab usu rei sue excludit hoc casu; nec occupans sic de facto  potest sine iniuria a iure utendi et usu alium qui par ius ad usum rei habet cum  eo per omnia cohibere; quin pocius, cum lex ipsa affirmet quod res que non est sub alicuius dominio occupanti conceditur, rem istam huic donatario libere occupandam concedit.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Ex eodem  principio affirmo contrarium, quoniam iuxta illud principium utroque eorum a civili dominio evacu*ato potest occupans civile dominium in se ipso pro voto efficere, et per consequens alium sic iuste potest ab usu rei illius excludere.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Sic potest alter econtra in se civile dominium libera voluntate efficere, et ita ad minus  ambo simul habebunt commune civile dominium, si simul agere sic tenentur aut alterum preveniens pocior erit in iure. Nec dubium quin in permutacione ac  vendicione uterque permutans ac vendens, et sic rei sue dominium civile abiciens, vult rei quam<ref target="n0101">101</ref> conatur accipere habere dominium: unde secundum regulam supratactam consequitur quod tunc uterque, cum rei sue, quam vendere seu permutare conatur, dominium  abicit, rei alterius permutantis sive vendentis, civile dominium non habentis, civile dominium libera voluntate sibi acquirit, cum nullum civile in altero  sibi obsistat. Et ita consequitur quod permutans seu vendens hoc casu quoad rem  recipiendam pocior est in iure, et ita precludens eum a re cuius eo modo est dominus infert iniuriam (ut supra conclusimus<ref target="n0102">102</ref>).  Et ita sequi videtur de donacione per omnia.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Crederem sic concludi, nisi fortassis  donans, permutans, seu vendens, legem  agnoscens et volens agere iuxta legem, suum dominium non intendat transferre  neque a se omnino abicere, licet cupiat rei recipiende ab alio dominium optinere; in quo casu regula supradicta, quod res carens domino occupanti conceditur, locum non habet, quia a tali rei dominium retinetur.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Fraudem in sic agente supponis, qui aperte donat, permutat, aut vendit rem suam, volens nichilominus ipsius rei dominium retinere; cum nec donare civiliter nec permutare nec vendere ita possit. Unde apud legem et quemcunque iustum legis ministrum haberi debet atque censeri abdicator sui dominii; cum hominibus ita appareat et non possit contrarium apparere, et hoc diffinit dominus Nicholaus III. in decretali <hi rend="italic">Exiit </hi>(ut  infra cito patebit<ref target="n0103">103</ref>):  nec legis patrocinio excusatur, ex quo contra legem donacionem aut alium actum nititur exercere. Unde clarescit quod alteri infert iniuriam (ut supra conclusimus<ref target="n0104">104</ref>), 
+
+<pb xml:id="dps.liber4.Image204" n="464" />
+
+  rem alienam impie detinendo; quoniam casus iam  positus supponit actum ab eo exercitum per quem suum ab eo rei illius dominium abdicatur.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Premissam racionem accepto.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Ex quo possessio, tanquam effectus seu sequela dominii, debetur domino sive dominio, cum sit donacio modo primo predicto sine corporali tradicione rei donate (ut  ponis), non fit talis donacio sine translacione possessionis omnino: set est  ipso facto in donatarium translata civilis possessio, si inter partes (ut  ponitur) servetur iusticia; quoniam facta tali donacione, si donator rem  donatam permutatam seu venditam adhuc detineat, aut iure suo id agit aut * iure donatarii,  permutatarii, aut ementis. Proprio iure non potest, cum per donacionem totum  ius civile quod habuit in donatarium sit translatum, si donatarius illud velit, aut si nolit saltem evanescit a persona donantis<ref target="n105">105</ref>.  Si iure donatarii rem donatam detineat, omnino consequitur quod non pro se set  pro donatario rem retinet seu conservat, et ita donatarius per donantem, veluti  per suum ministrum, a donacionis momento rem possidet. Nunquam ergo donator, permutator, aut venditor poterit pro se rem illam iuste ulterius possidere, omni civili iure illius nudatus et civili dominio in alio existente: nec unquam in alium potest plus iuris transmittere quam habeat in se ipso; unde consequitur quod in quemcunque  heredem seu alium transeat occupacio talis rei, sine aliquo iure transit et a quocunque tali semper detinetur iniuste.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Non video  quomodo possunt ista dissolvi. Cur igitur ita errant regum ministri, iudices, in talibus deputati?</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Hoc est querendum ab eis: nos vero ostendimus quid sit agendum ab eis, scilicet, quod non solum debent inquirere de corporali tradicione, quam seysinam appellant; set de donacionis seu permutacionis aut vendicionis forma et modo; et fraudem<ref target="n0106">106</ref>, si reperiatur, detegere; et donatorem, si de donacione simplici facta modo  premisso a testibus convincatur, ad reddicionem rei donatario iudicio iusto  compellere: et pariter de permutante atque vendente. Nec estimo quod sit lex aliqua hominum que contrarium statuit aut diffinit; quamvis fortassis sic agere aut taliter donatorem seu venditorem ita compellere sit aliqualiter preter legem, quia preter que sunt in tali lege humana expressa: unde iudices colorem  accipiunt ad talia omittenda, quamvis generalibus legibus precipientibus unicuique  sua reddi debere sic agere esset conforme, et divinis legibus ac animarum saluti.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Igitur peccant mortaliter tales iudices talem sentenciam 
+
+<pb xml:id="dps.liber4.Image205" n="465" />
+
+proferentes qua donatarium huiusmodi a peticione donantis absolvunt.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Si lex talis civilis solam affirmativam contineat, scilicet, quod donaciones, permutaciones, ac vendiciones corporali tradicione  gerantur; non video qualiter iudex a mortali crimine excusatur qui nulla lege  artatus iuste petentem ab eo quod sibi debetur repellit, et hoc propter raciones pretactas.  Si vero lex cum affirmativa contineat negativam, scilicet, quod non aliter  fiant aut validi habeantur actus huiusmodi, cum id per legem hominum statui non possit  simpliciter, ita ut sic precludere intendat donatario omne remedium<ref target="n0107">107</ref>;  non video quin lex ita diffiniens sit iniqua, iuxta hic probata superius, et  iudex sic * iudicans peccat mortaliter legem divinam offendens. Si vero solum statuat  quod actus  tales contra formam illam exerciti sint irriti quoad remedium legis illius seu  legis illius regni sive imperii, non excludendo set libere concedendo legis  divine seu ecclesie sue remedium, et iudex se huic legi conformet, scilicet, donatorem quoad suum iudicium a peticione donatarii absolvendo; iudicem non  puto peccare, qui facit quod sibi incumbit: set legis latorem propter diminucionem  legis puto peccare, ex quo posset iuste ac sancte conformiter legi Dei legem  regiam tali donatario providere ne compelleretur laboribus et expensis legis  Dei seu sue ecclesie remedium procurare; et si remedium prohibeat procurare, apertissime sub illo titulo continetur, <hi rend="italic">ve<ref target="n0108">108</ref> hiis qui condunt leges iniquas </hi>(Ysa. x. I). Quid enim iniquius  quam hominem prohibere ne legem Dei de iniuria sibi facta prosequatur remedium,  cum ipse sit ut pauper querens in tribulacione refugium? Qui insuper sic  prohibet impingit in legem nature, que legem continet et prophetas <hi rend="italic">(Omnia  quecunque vultis ut faciant vobis homines vos facite illis: hec est enim lex et  prophete, </hi>Mat. vii. I2); nemo est enim qui  vellet a remedio illate sibi iniurie prohiberi: et cum timore debet attendere quod quarto capitulo  Danielis Nabugodonosor glorianti hoc modo, <hi rend="italic">Nonne<ref target="n0109">109</ref> hec est Babilon  civitas magna quam ego edificavi in domum regni in rebore fortitudinis et in  gloria decoris mei? De celo est dictum, Regnum transiit a te, et ab hominibus  eicient te, et cum bestiis feris erit  habitacio tua: fenum quasi bos comedes, et septem tempora mutabuntur super te donec scias quad dominetur Excelsus in regno homini, et cuicunque  voluerit det illud<ref target="n0110">110</ref>. </hi>Si enim Excelsus in regnis homini dominatur, qua fronte  audent reges, nonnisi Dei ministri, contra domini Dei sui legem ita statuere,  aut legem plene apud homines exerceri tam impie prohibere? Regem pocius Deo ceteris predilectum audiant proclamantem, <hi rend="italic">Et nunc, reges,  intelligite; erudimini, qui iudicats 
+
+<pb xml:id="dps.liber4.Image206" n="466" />
+
+terram servite Domino in timore et  exultate ei cum tremore; apprehendite disciplinam, ne quando irascatur Dominus,  et pereatis de via iusta<ref target="n0111">111</ref>. </hi>Numquit est erudicio, numquit est servitus Domini in  timore, numquit apprehensio discipline, ne quis exquirat legis Dei remedium de sibi illata iniuria prohibere? Veraciter <hi rend="italic">non est hec  sapiencia desursum descendens, set terrena, animalis,</hi><hi rend="italic"> diabolica<ref target="n0112">112</ref>, </hi>et hominibus a diabolo inspirata. Constat  igitur donaciones, permutaciones, * ac vendiciones posse veraciter exerceri  sine tradicione corporali rerum communicacione seu translacione solius dominii,  nisi quatenus possessio actui tali de iusticia est annexa, ut diximus<ref target="n0113">113</ref>.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Placet michi ista, quasi  aliqualis extra nostram materiam digressio. Et de consumpcione rei, qualis competit  creature mortali; et de multiplicacione ac conversione earum, quales cernimus  per colonos exerceri; et de permutacione rerum et vendicione, inpignoracione,  locacione, quas mercatores domini bonorum  suorum de illis seu in illis exercent; et de<ref target="n0114">114</ref> proteccione ac repeticione,  quales exercentur per dominos; et breviter de omnibus actibus competentibus  dominio originali et humano, dominiis quos de illis loquens in primo huius ac  tercio nominasti,—satis videor michi videre quod competunt civili dominio suo  modo et sub usus nomine continentur. Unde michi videtur dominium hereditarium  sive paternum ita posse describi, quod est racionalis creature mortalis ius,  sive auctoritas legis positive, libere possidendi hereditatem paternam (et ea  plene utendi conformiter racioni)<ref target="n0115">115</ref> ac dominium rei donate sive legate: et ita de ceteris, scilicet, emptis, commutatis, laboricio seu alio quocunque legali iusto titulo acquisitis, michi videtur quod  ipsorum dominium, addita huiusmodi differencia per quam restriccio fit ad  possessionem rerum illarum, possunt describi.</p></sp>
+</div2>
+
+<div2>
+<head>XVI.</head>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Provide hec tibi videntur: et nichilominus ex <ref target="n0116">116</ref>premissis in quocunque genere  adiecti dominii potes perpendere quod illud dominium adventicium originali dominio seu adiectum non necessario set voluntarie  dominio originali annectitur; cum voluntarium sit cuique tale dominium  acceptare sive respuere, quando aut hereditacione aut mercacione aut remuneracione seu legacione aut permutacione seu mendicacione vel donacione acquiritur. Scriptum est enim, <hi rend="italic">Cedo iuri propinquitatis; tu meo utere privilegio quo me tacere libenter profiteor </hi>(Ruth iv. 6): ubi constat quod dominium hereditarium fuerat abdicatum, si ille dominium prius habebat; si vero non habuit nisi ius  propinquitatis, consequitur quod ad illud ius non sequitur nisi mediante voluntate dominium. Dominium autem originale  abdicari non 
+
+<pb xml:id="dps.liber4.Image207" n="467" />
+
+potest (ut superius est probatum<ref target="n0117">117</ref>);  nec dubium quin, sicuti dominium  hereditarium abici potest postquam fuerit acquisitum, dominio originali retento, sic a principio cum dominio originali adicitur, stante originali dominio, voluntate libera poterit refutari.  Nemo enim artatur legis positive dominium recipere pocius quam tenere; et ob hoc, sicud homo habitum tale dominium potest libere abdicare, ita potest illud, cum posset de novo recipere, libere recusare; et sicud istud est evidens in  dominio hereditativo<ref target="n0118">118</ref>, ita simili* racione in dominio mendicativo ac donativo (ut ita loquamur) et ceteris  omnibus locum habet.</p></sp>
+</div2>
+
+<div2>
+<head>XVII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>De proprietate,  si placet, iam tracta; et dic primo in quo distinguitur rei cuiusvis  proprietas ab eius dominio: puto enim quod  hec duo se habent secundum subtus et supra, quoniam michi videtur quod omnis proprietas est dominium, non econtra; sic quod proprietatem  non debeo appellare nisi proprium rei dominium, scilicet, dominium quod uni soli convenit dominanti.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Cum ergo unius rei plura sint dominia, quorum quodlibet convenit uni soli-sicud unius baronie  baro habet dominium proprium, dominus eius comes habet eiusdem baronie sibi  proprium dominium, dux eius habet ipsius baronie proprium sibi dominium, et rex eius eciam habet sibi proprium regale dominium,—ita consequitur quod quisque istorum habet proprietatem huiusmodi baronie. Nemo autem  (ut puto) ambigit quin habens proprietatem rei cuiusvis potest re ipsa uti sine alterius cuiusque iniuria; et ita consequitur quod quisque istorum potest  uti baronia sine cuiusque alterius eorundem iniuria; et ita quilibet maiorum predictorum potest sine baronis iniuria redditus baronie (ut videtur) accipere et eis uti: quod veritatem non habet.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Sic sequi videtur: et tamen non video quomodo possit id stare, quoniam baro uti potest et debet libere redditibus baronie; non eius superiores domini, nisi velit.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Non recte hec  astruis; quoniam si baro vellet regi, duci, aut comiti suo resistere ne usum congruentem suo dominio in baronis redditibus exerceret, ita baro suo domino iniuriam irrogaret, cum usus sui dominii in subiectis suo dominio sihi sit iustus et debitus. Verbi gracia, si comes, dux, aut rex ad parliamentum suum aut ad guerram iustam et eis communiter congruentem baronem vocaret, et stipendia racionabilia certo numero militum de redditibus baronis pro communi guerra gerenda statueret, iuste id ageret nec baro sine eius iniuria ei posset obsistere: sic in aliis casibus satis multis; et ita rex, dux, et comes suo casu possent uti libere redditibus baronie, eciam ipsa 
+
+<pb xml:id="dps.liber4.Image208" n="468" />
+
+persona baronis; et tamen non habent proprietatem in redditibus  baronie neque in corpore baronis, licet quisque eorum habeat super baronia proprium sibi dominium, et eciam super persona baronis; unde consequitur quod non omne dominium proprium uni soli est aut dici debet proprietas.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Sic cerno; quia dominium superiorum predictorum, licet sit singulis dominium proprium, non est respectu baronie plenum aut integrum, cum non possit quisquam illorum maiorum baroniam illam dare aut vendere, neque aliquem actum dominii in ipsa baronia integre  sive generaliter exercere, sicuti potest baro: sic quod michi videtur quod dominium * baronis in ipsa baronia immediatum, per quod dominium baro potest omne genus usus in baronia  generaliter, immediate, et integre exercere, dici debet proprietas, non aliquod<ref target="n0119">119</ref> mediatum dominium aliorum.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Hoc bene advertis: quoniam, sicud quisque istorum habet proprietatem sive immediatum  civile dominium in rebus dominio suo immediate subiectis, sic habet et baro  solitudinem, singularitatem, sive immediatum dominium baronie; quia pro voto suo racionabili potest omne genus usus in baronia immediate et libere exercere. <hi rend="italic">Proprietas </hi>enim <hi rend="italic">a </hi><hi rend="italic">proprie, </hi>et <hi rend="italic">proprie </hi><hi rend="italic">a </hi><hi rend="italic">prope </hi>descendit; quoniam quod uni est proprium est sibi prope, quia ad votum eius reponitur, iuxta vel prope  voluntatem eius, ad similitudinem rei iuxta vel prope quemquam in loco reponite:  unde consequitur quod proprietas rerum ditancium est dominium civile immediatum integrum rerum ipsarum.</p></sp>
+</div2>
+
+<div2>
+<head>XVIII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Istam conclusionem attendo: dic nunc de iure utendi, quid est, ut sciam quomodo a dominio, a proprietate, et a possessione distinguitur.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Habes supra<ref target="n0120">120</ref> in fine tercii huius ostensum quod ius utendi in Adam non fuit nec esse potuit cum dominio, proprietate, aut possessione idem omnino essencialiter: idem, intelligo, quia ius tale utendi potest esse in eo qui omnibus istis caret, scilicet, in usuario, accomodatario, locatario, aut habente licenciam. Nec dubium quin eadem racio locum habet de iure utendi civili, quoniam illud ius in non domino et non possessore sepius reperitur; et per consequens non est cum dominio, proprietate, aut possessione idem<ref target="n0121">121</ref> omnino. Unde felicis recordacionis dominus Nicholaus III, libro sexto de verborum significacionibus, <hi rend="italic">Exiit qui seminat </hi>(ut supra posuimus<ref target="n0122">122</ref>), ista quinque contra se aperte distinguit hoc modo: <hi rend="italic">Nam</hi><hi rend="italic"> cum in rebus </hi><hi rend="italic">tem­</hi><hi rend="italic">poralibus </hi><hi rend="italic">sit </hi><hi rend="italic">considerare precipuum, proprietatem,  possessionem, </hi><hi rend="italic">usufructum, ius  utendi, </hi><hi rend="italic">et </hi><hi rend="italic">simplicem facti usum<ref target="n0123">123</ref><ref target="n0124">124</ref>. </hi></p></sp>
+
+<pb xml:id="dps.liber4.Image209" n="469" />
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Cerno quod ius utendi contra ista distinguitur: set ius illud estimo particulare, non plenum;  scilicet, non sufficiens ad omnem actum dominii. Nec enim accomodatarius nec locatarius nec licenciatus potest res sibi concessas a dominis vendere aut  donare neque consumere, et ob hoc non habent nisi ius utendi insufficiens, non perfectum aut plenum. Set quo modo quis posset ius ad plenum usum rerum, specialiter quoad donacionem, vendicionem, et consumpcionem earum habere sine dominio non perpendo.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Prepositi et ministri alii dominorum res dominorum suorum commedendo ac<ref target="n0125">125</ref> bibendo consumunt, et sepius eas vendunt ac donant ad dominorum suorum commodum aut honorem; et tamen in eis rebus non habent dominium.</p></sp>
+
+
+<sp who="ioh"><speaker>* Ioh.</speaker> <p>Immo ministri omnes habent in omnibus bonis dominorum suorum commune cum dominis suis originale dominium, vigore cuius possunt sic agere.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Si sint in peccato mortali non habent tale dominium (ut superius est ostensum<ref target="n0126">126</ref>); et tamen in peccato mortali nichilominus ita agunt, preter hoc quod ministri racione sui originalis dominii tale ministerium non exercent: et nos loquimur ubi ministri auctoritate dominorum suorum ministerialiter huiusmodi actus exercent, ad quos sic ministerialiter exercendos originale ipsorum dominium nichil prodest, set est omnino impertinens.</p></sp>
+</div2>
+
+<div2>
+<head>XIX.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Quoad actus donacionis et vendicionis esse sic video, scilicet, quod illi ministri non sua auctoritate, et ob hoc non vigore alicuius in eis dominii, illos actus exercent, set tanquam instrumenta dominorum suorum  sic agunt; unde michi videtur quod hii actus magis dicuntur actus utendi dominorum quam  ministrorum, cum omnis actus magis proprie debeat principali agenti quam suo instrumento ascribi: verumptamen, si isti ministri suo iure sic agerent, actus  illi actus utendi ministrorum proprie dicerentur; set certe essent iniusti, cum sua auctoritate sic agere potestate carerent. Set de actu consumpcionis rerum a talibus prepositis seu ministris aliter michi videtur et aliis doctis multis, scilicet, quod sine dominio rei consumpte iuste exerceri non possunt.</p></sp>
+
+<sp who="ioh"><speaker>RICARDUS.</speaker> <p>Actus consumpcionis nullum exigit in consumente dominium; cum illum possit impius exercere, et latro in iniuriam domini rei cuiusque potest de facto rem illius consumere, ut dominus rei consumpte habeat accionem iniurie contra eum. Nec iusticia consumpcionis exigit in consumente dominium, quoniam homo potest ministerialiter hominem occidere, civitates 
+
+<pb xml:id="dps.liber4.Image210" n="470" />
+
+exterminare, et cuncta earum bona sive vivencia sive vita carencia  ferro, aqua, ac flammis consumere, sicuti in Scripturis claret propriissime de factis Saul, Iosue, et plurium aliorum, qui auctoritate Dei, non ipsorum propria auctoritate, sic egerunt. Unde consequitur quod aliqua huiusmodi poterant eciam dentibus lacerari et in stomacho suo digerere, et sic ministerialiter ea consumere commedendo sive bibendo. Que enim racio esse posset quod tales ministri possent bona Dei huiusmodi flammis aut ferro vel aqua, non dentibus et stomacho, ubi minor violencia adhibetur, iuste consumere, omnino non video.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Immo racio est aperta; quoniam Saul, Iosue,  Gedeon, Sampson, Iepte, ac ceteri, civitates, homines, et iumenta sepius de mandato Dei penitus consumendo in cinerem redegerunt, sola auctoritate Dei suffulti, nichil sibi commodi acquirentes, nec ipsorum adhuc im*pellente  natura: econtra autem de alimentis et vestibus per eos consumptis, quoniam non ea consumebant ex divina auctoritate preceptiva sive precepto, set de Dei licencia atque iusticia <hi rend="italic">(Dignus est enim operarius cibo suo<ref target="n0127">127</ref>), </hi>ipsorum natura consumpcionem  huiusmodi exigente; et ob hoc ad talem consumpcionem iustam exigitur in consumente plena auctoritas, cum nichil maius possit circa rem consumptam ab aliquo exerceri quam quod quis eam consumat. Unde consequitur quod actus  huiusmodi plenam auctoritatem recipit.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Falleris in duobus. Primo quidem improvide asseris  talem actum consumpcionis maximum actum esse, et ob hoc maximam auctoritatem exigere; quoniam actus vendicionis eo modo est maior, quoniam in actu vendicionis civilis tocius rei vendite necessario abdicatur dominium: in consumpcione vero iam tacta non propter sufficientem auctoritatem in consumente ad actum illum necessario abdicatur rei tocius dominium, quin (iuxta in secundo huius tractata<ref target="n0128">128</ref>) possit alimentorum assumendorum<ref target="n0129">129</ref>, vestium consumptarum, et fimi atque urine consumptorum ciborum, civile  dominium in concedente licenciam remanere. Esto quod propter consumpcionem  iustam in consumente aliquale dominium exigeretur, quoniam dominium rei consumpte posset concedi homini consumenti, quatenus necessarium esset ad actum, retento dominio tocius materie remanentis actu consumpcionis completo; sicuti eo modo res  consumenda uni per aliumvendi  posset, ita quod non acquireret emptor materie vendite rei dominium; set sic non esset plena civilis vendicio, quia non esset dominii pleni translacio, quin verius censeretur aliqualis locacio. Unde constat quod vendicio rei maior est actus quoad dominium exigendum quam rerum consumpcio qualem homo efficit in alimentis corporis et vestitu. Falleris 
+
+<pb xml:id="dps.liber4.Image211" n="471" />
+
+ secundo in eo quod astruis pretactos Dei ministros nichil per suum ministerium  sibi commodi acquisisse, cum propter ea optinuerint gloriam plurimam et honorem, ad quas, sicud ad vestitum et victum, natura cuiusque impellit. Item, constat ex; premissis originate dominium ad omnem usum rerum iustum sufficere et esse sufficiens ius utendi, nullo alio hire acquisito obstante; sicuti suffecit in nostris primis parentibus et, si in innocencia perstitissent, in suis  posteris suffecisset: propter iusticiam igitur consumentis aut aliter quovis  modo utentis in usu nequaquam exigitur civile dominium, set potest quoad hec in altero remanere. Item, potest quis (ut diximus) alteri consumpcionem rerum, scilicet, librorum aut vestium aut aliarum huiusmodi alicui sibi dilecto pro  sua persona concedere, non concedendo illi auctoritatem donandi aut alienandi res illas, cum voluntarium sit * cuique taxare pro voto suo donacionem sive concessionem rerum suarum: qui autem caret auctoritate ad actus tales dominii, quia non habet plenam auctoritatem (iuxta descripcionem dominii civilis  cuiuslibet supratactam<ref target="n0130">130</ref>), non habet civile dominium nisi forsitan talliatum sive taxatum, non verum aut plenum. Constat ergo quod actum consumendi iustum, sicud actus donacionis et vendicionis, potest homo sine civili dominio exercere; intelligo, sine omni  civili dominio ad hoc essencialiter requisito. Item, non eo ipso quod aliquis concedit alteri rebus suis sufficiens ius utendi (scilicet, ad omnimodum actum  utendi), concedit illi rerum illarum dominium aut ex toto illud abdicat a se ipso; cum possit cum hoc modo concedere quod si alter actus consumpcionis,  vendicionis, aut donacionis, seu distraccionis cuiusque non exerceat in eisdem, ad concedentem libere revertantur; et erit commodacio, non plena donacio, usualis talis concessio, quoniam in plena donacione civili, cui translacio  dominii<ref target="n0131">131</ref> est annexa et que communiter exercetur a donatore, nichil de civili dominio  retinetur.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Si donans non concedit rerum illarum dominium, tunc potest eas, cum libet, repetere; et ita alter non  habet in eis sufficiens ius utendi.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Veritas habet  contrarium; quoniam, si donator sufficiens (ut diximus) ius plene rebus utendi  concedat, non poterit altero superstite illas repetere, quoniam alter tunc habet ius eas res detinendi dum vivit sufficiens; licet debeant ex forma concessionis ad concedentem redire, cum alter discedit.</p></sp>
+</div2>
+
+<div2>
+<head>XX.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Nescio repugnare: set (ut iam dixi<ref target="n0132">132</ref>) hii actus in ministerium exercente non sunt eius actus utendi, set sunt domini sui usus per ministrum exerciti; sic quod adhuc michi 
+
+<pb xml:id="dps.liber4.Image212" n="472" />
+
+videtur quod in iuste consumente rem aliquam ea utendo oportet adesse dominium, et sic sufficiens ius est cum possessione dominium.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Verum affirmas de originali dominio, quod in omni usu iusto de facto exigitur; de civili nequaquam. Set nec per hoc evacuatur quod diximus, scilicet, quod potest ius consumendi rem esse in aliquo angelo aut alia creatura factibili sine dominio; quoniam sic posset esse in istis ministris, si dominus eorum non ministerium set potestatem consumendi ac plene utendi sic rebus suis committeret.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Tunc, taliter committendo a se illarum rerum, suum  dominium abdicaret, et illi quibus ita committeret haberent dominium.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Annon Sathanas, qui <hi rend="italic">expetivit ut sicud triticum cribaret<ref target="n0133">133</ref></hi>apostolos, qui porcos de Salvatoris licencia in mari submerserat et demoniacos occupat, eis et aliis peccatis obnoxiis utens ad votum, potestatem seu facultatem utendi vel verius abutendi rebus aliquibus  potest habere sine dominio? Utique. Cur igitur angelus bonus ius utendi talibus  rebus a * Deo ipsarum vero domino absque dominio non posset  accipere<ref target="n0134">134</ref>, habes ostendere; quod non vales, ut estimo: non igitur plenum ius utendi conce­dens abdicat a se necessario suum dominium. Hoc eciam dominus  Nicholaus III in predicta decretali<ref target="n0135">135</ref> <hi rend="italic">Exiit </hi>expresse diffinit in maiori, scilicet, quod vita mortalium carere potest proprietate,  possessione, usufructu, et iure utendi, et habere potest pro iusto usu  simplicem facti usum cum licencia dominorum, sicud infra clarescet. Secundum quod astruis veritatem non habet, scilicet quod ex concessione pleni iuris utendi aliquibus haberent in rebus concessis dominium, quoniam dominium tale a quocunque libere voluntatis (ut supra patuit<ref target="n0136">136</ref>) potest libere respui cum offertur. Non ergo quisquam cui ius utendi conceditur, propter rem in possessionem admissam ut ea plene  utatur, dominium necessario a  concedente admittit; quoniam, habita possessione cum suo previo originali  dominio, sublato titulo dominii civilis in domino concedente, habet ille licenciatus sufficiens ius utendi; cum suo iure originali nichil obsistat in  alio obtenta licencia ad  utendum, et ob hoc<ref target="n0137">137</ref> non solum non necessario dominium civile admittit, set eciam admittere esset illi super­fluum: et sic dominium vel retinetur a concedente aut penitus evanescit, sicud  in multis casibus supratactis, in quo casu ille donatarius (si liberet eum ita vocare) aut licenciatus libere potest in se efficere, quandocunque voluerit, civile dominium, cum sibi nichil obsistat in altero, ut supra expressimus. Et ita per omnia est censendum de omni acquisito iure utendi, quoniam nullus
+
+<pb xml:id="dps.liber4.Image213" n="473" />
+
+ magis tale ius, cum res ad usum  sibi conceditur, artatur admittere quam civile dominium.</p></sp>
+</div2>
+
+<div2>
+<head>XXI.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Nescio istis obsistere; verumtamen te rogo obnixius ut me loquente aliquanto protractius in negocio isto sustineas. Si enim quisquam donet michi equum aut quamvis rem aliam, et ego nolim civile dominium rei illius admittere, possumne nichilominus rem illam accipere et vigore inabdicabilis  in me originalis dominii illa uti?</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Hoc ex predictis dare sequitur; quoniam, ex quo donator libere potest a se omne positive legis dominium  abdicare et id vult facto  efficere, tu consequenter et ille commune in re ilia originale dominium dumtaxat habetis; quo dominio ipse non vult uti in  re illa, set vult pocius quod tu re illa placite tibi utaris: iuste igitur et sancte, si re  ilia indigeas, uti poteris tanquam tua. Nec ipse per hoc in te aliquod ius transmittit; set, quia dominium omne positive  legis in  ipso respectu rei evanescit penitus, nec vult uti originali dominio, ideo originale dominium quod  prius habueras cum possessione sibi confonni fit<ref target="n0138">138</ref> tibi ad iustum usum rei illius sufficiens ius utendi.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Set quid si donare volens nolit a se civile transferre dominium, nisi ego illud velim admittere? Numquit virtute mei originalis dominii potero re illa recepta, si ea eguero, iuste uti, et eam usu meo * consumere nullum  adventicium dominium admittendo?</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Quamvis ipse nolit in te transferre civile dominium, sicud nec transfert, eo ipso quod tu recipiendo taliter es artatus (scilicet, ipsa re indigens), ipse civile perdit dominium quoad usum ipsum et tibi pro consumpcione rei  illius sufficit tuum originale prehabitum. Pro  quo Luc. vi. 3, 4 dicit Salvator (et idem habetur Mat. xii. 3, 4 et Marc. ii. 25, 26), <hi rend="italic">Nec </hi><hi rend="italic">hoc legistis quod fecit David cum esuriret, ipse  et qui cum ipso erant, quomodo intravit in domum Dei et panes proposicionis sumpsit et manducavit, et dedit eis qui cum ipso erant, quos non licebat ei manducare nisi tantum sacerdotibus? </hi>Marcus dicit, <hi rend="italic">Cum  necessitatem habuit et esuriit </hi>(hoc ponitur I  Reg. xxi.  3-6); nec necessitatem aliud intelligo quam indigenciam: ex quo duo evangeliste non dicunt  Christum posuisse pro causa nisi esuriem. Et videtur quod  dominus Nicholaus III in decretali <hi rend="italic">Exiit </hi>istam necessitatem sive indigenciam <hi rend="italic">extremam  necessitatem </hi>appellat, in qua necessitate dicit licere unicuique uti <hi rend="italic">iure poli; </hi>dominium originale (ut michi videtur) vocans ius poli, quia venit de dono superno. Unde michi videtur quod, quamvis habens adventicium dominium sive civile  rei illius nolit dominium tale amit-
+
+<pb xml:id="dps.liber4.Image214" n="474" />
+
+tere<ref target="n0139">139</ref>, nisi tu velis illud admittere, tu iuste re uteris et eam iuste  consumis ut tuam, sine civili dominio contra originale distincto, aut alio titulo iuris necessario acquisito; quoniam etsi licencia nolis uti, habes ius utendi eo casu sufficiens, et ob hoc titulo acquisito non indiges in hoc casu. Si vero non indiges usu rei illius, set ad commodum aliquod temporale aut alias ad voluptatem usum reciperes rei illius, si in casu  voluptatis cadere possit usus, puto quod eo casu re illa uti non poteris non acceptato dominio; quin pocius rem illam iniuste consumeres contra rei  ipsius domini voluntatem, quia nec tunc ex originali dominio extra casum indigencie constitutus titulum sufficientem ad usum haberes, civili dominio tibi obstante in alio.</p></sp>
+</div2>
+
+<div2>
+<head>XXII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Assencio: set quid si dominus usum  rei vult michi concedere, eciam consumpcionem ipsius, retento sibi dominio? Numquid potest?</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Hoc est probatum in decimo nono capitulo. Verumtamen debes attendere quod dominus rerum  varie tibi potest suam concessionem exprimere: aut modificando eam taliter quod racione modificacionis remaneat penes eum dominium donec res ipsa consumatur si donetur aut aliter distrahatur dominium; ut si dicat, Concedo tibi consumpcionem rerum istarum, et ut possis eas vendere et donare aut aliter, prout tibi libet, distrahere, ita tamen quod, si ego consumpcionem, vendicionem, donacionem, aut aliam quamvis distraccionem petendo res ipsas preveniam, eas libere ut meas  recipiam. Quo modo parentes filiis suis, quos forsitan * de prodigalitate habent suspectos, retento sibi dominio, res  plures sepe concedunt; et multi mundani timentes confiscacionem bonorum suorum ea simpliciter donant suis amicis, de quibus plenam gerunt fiduciam, ut ipsi bonorum illorum usum et omne commodum econtra illis concedant aut eos habere permittant, retento  nichilominus penes illos amicos secundum leges civiles civili dominio. Quo modo eciam dominus Nicholaus III in decretali Exiit, de peccunia fratribus minoribus pro eorum preteritis necessitatibus relevandis concessa, statuit fratribus observandum, scilicet, quod semper donec pecunia in fratrum usibus sit expensa sine contradiccione fratrum libere sit elemosinam facientis, ita quod concedens elemosinam dominium habeat et possit cum libuerit, donec expensa fuerit illa pecunia, eam libere revocare ut suam. Unde hoc modo bene potest quis consumpcionem rei tibi concedere sibi retento dominio. Aliter potest tibi absolute consumpcionem rei sue cuiusquam concedere, nichil aliud penitus exprimendo per quod poterit 
+
+<pb xml:id="dps.liber4.Image215" n="475" />
+
+apparere ipsum velle rei ipsius dominium retinere: et adhuc bifariam potest id facere, aut voluntate verbis conformi, sic quod nichil in voluntate gerat interius per quod apud Deum censetur retinere dominium; aut quod in voluntate habeat solam commoditatem usus et consumpcionis tibi concedere, non donandi, vendendi, aut distrahendi modo alio facultatem, sicuti iuxta casus superiores faciunt homines sepe cum suis filiis et aliis suis servitoribus de quibus confidunt. In quorum casuum  primo est abdicacio vera dominii, cum concedat simpliciter antecedens ad amissionem, nichil sibi retento. In secundo casu non abdicatur dominium, cum id nolit nec quicquam facit unde abdicacio talis consequitur, iuxta exempla premissa: verumptamen in hoc casu secundo, quia in facto videtur esse abdicacio dominii secundum iura humana, que de manifestis iudicant, censebitur dominium abdicatum, et hoc debet verisimiliter estimari. Unde idem dominus Nicholaus III in decretali predicta <hi rend="italic">Exiit </hi>dicit quod<hi rend="italic">semper quando pecunia fratribus ipsis mittitur vel offertur, nisi expresse  per mittentem vel offerentem aliud exprimatur, prorsus oblata intelligatur vel missa. Et </hi>ante in eadem dicit, <hi rend="italic">Ad hoc cum </hi><hi rend="italic">fratres ipsi nichil sibi in speciali acquirere vel eorum ordini possunt eciam in communi, et tamen<ref target="n0140">140</ref> aliquid propter Deum ipsis offertur, conceditur, vel  donatur, ea (si secus non extprimat) offerentis, concedentis vel  donantis<ref target="n0141">141</ref> verisimiliter fuisse<ref target="n0142">142</ref> credatur intencio, ut rem huiusmodi  oblatam, concessam, donatam perfecte, donet, et oferat, et a se abdicet ac in alios transferre cupiat propter Deum.</hi> Ex quo ergo dicit quod ea verisimiliter credatur esse offerentis intencio, satis innuit quod potest alia esse intencio, ita * ut non sit abdicacio vera dominii: unde videtur quod potest penes unum rei unius remanere civile dominium, et penes alium plenus usus iustus cum dominio originali annexo.</p></sp>
+</div2>
+
+<div2>
+<head>XXIII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Adhuc non capio quid dicere debeam ius utendi; cum nec sit proprietas neque dominium neque  possessio, et tamen in casu ius sufficiens ad plenum usum rei cuius esse dicitur ius utendi, iuxta premissa. Si enim dixero quod ius utendi ab istis iuribus pretactis distinctum est licencia domini suis rebus plene utendi aut accomodacio sive locacio aut verius unum commune ad ista, nescio an id recte sentirem.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Bene ita sentires, quoniam (iuxta iam tractata superius<ref target="n0143">143</ref>) ius utendi contra iura priora distinctum est ius a rerum domino et earum dominio in alium derivatum, quo quis rebus alterius domini plene seu ad actus certos libere uti potest in genere: igitur vere ipso utendo ius utendi commune est 
+
+<pb xml:id="dps.liber4.Image216" n="476" />
+
+proprietati, dominio, et licencie, commodacioni, ac locacioni, sive ad omnem usum sive ad usum aliquem singularem; quoniam conducens equum ad decem miliaria transeunda, sive equum accomodans aut habens ad ilium actum equo utendi licenciam, ius habet equo utendi, sicud habet ille qui habet licenciam absolutam equo utendi retento dominio penes licenciam  concedentem.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>De usu volo ut dicas numquit sit aliquis simplex facti usus, scilicet, facti tantum  nomen habens, non iuris, sicud dicitur in decretali predicta <hi rend="italic">Exiit. </hi>Supra enim<ref target="n0144">144</ref>, loquens de usu procedente ab originali dominio, affirmasti omnem usum iustum existere: unde  sequi videtur quod in sic utente est usus illius iusticia, et per consequens ille utens habet in re qua utitur ius utendi; et ita nullus potest habere simplicem usum facti, sicud decretalis illa affirmat.</p></sp>
+
+<sp who="ric"><speaker>RIC.</speaker> <p>Usus simplicitas sicuti aliarum rerum dupliciter apte potest intelligi, aut per privacionem composicionis omnimode, quo modo solus Deus simplex potest dici; aut per privacionem solius composicionis cum aliquo sibi extrinsecus accedente, quo modo omne id simplex poterit apte dici, quod preter sibi naturaliter inherencia aliud non habet inherens sive annexum, quo modo elementa pura dicuntur simplicia corpora a nostris  philosophis, set si fuerint alterata in aliquo non dicuntur simplicia. Hoc modo secundo possunt homines habere simplicem  usum facti, scilicet, usum talem cui nichil preter condiciones naturales adheret, scilicet<ref target="n0145">145</ref>, nullum ius abextra sive civile usum ipsum iustificans illi adherens, per quod neque dominium  originale neque possessio naturalis ab  usu iustificans ipsum usum excluditur, cum naturaliter consequantur<ref target="n0146">146</ref> ad usum (iuxta superius declarata): unde veraciter conclusisti quod nunquam poterit esse usus iustus nisi in utente fuerit ius utendi; nec hoc dominus Nicholaus III negare volebat in fratribus minoribus, set omne ius civile vole*bat ab eis secundum regulam ipsorum in suo usu excludere; et recte (ut michi videtur) in septimo fiet sermo de isto.</p></sp>
+
+<p><hi rend="center"><hi rend="italic">Explicit liber quartus.</hi></hi></p>
+</div2>
+</div1>
+
+</body>
+
+<back>
+<div1>
+<note xml:id="n001">1. B esse esse</note>
+<note xml:id="n002">2. B ostendit om. </note>
+<note xml:id="n003">3. M dominium</note>
+<note xml:id="n004">4. B ut</note>
+<note xml:id="n005">5. B superioris</note>
+<note xml:id="n006">6. B responde</note>
+<note xml:id="n007">7. Non iuste: B iuste non</note>
+<note xml:id="n008">8. B inquirit om. </note>
+<note xml:id="n009">9. B proprietate</note>
+<note xml:id="n0010">10. Supra, pp. 383 seq.</note>
+<note xml:id="n0011">11. Infra p. 438</note>
+<note xml:id="n0012">12. 6 Decr. V. tit. 7:3</note>
+<note xml:id="n0013">13. Sic codd. </note>
+<note xml:id="n0014">14. Nostrum om. codd. </note> 
+<note xml:id="n0015">15. B calitas: M calamitas</note>
+<note xml:id="n0016">16. B talium om. </note> 
+<note xml:id="n0017">17. Non tam Decr.???</note>
+<note xml:id="n0018">18. fructu Decr. ???</note>
+<note xml:id="n0019">19. B perfundius</note>
+<note xml:id="n0020">20. Supra, p. 436.</note>
+<note xml:id="n0021">21. 6 Decr. V. tit. 7:3 ????</note>
+<note xml:id="n0022">22. Supra, pp. 280, 382</note>
+<note xml:id="n0023">23. Supra, p. 436.</note>
+<note xml:id="n0024">24. B a proprietate</note>
+<note xml:id="n0025">25. B ille</note>
+<note xml:id="n0026">26. B nam</note>
+<note xml:id="n0027">27. M viribus</note>
+<note xml:id="n0028">28. B eu ????</note>
+<note xml:id="n0029">29. Supra, p. 393.</note>
+<note xml:id="n0030">30. B commune om.</note>
+<note xml:id="n0031">31. B prohibit nam</note>
+<note xml:id="n0032">32. M qui???? </note>
+<note xml:id="n0033">33. Supra, p. 436.</note>
+<note xml:id="n0034">34. Supra, lib. 1:2</note>
+<note xml:id="n0035">35. Supra, p. 335. </note>
+<note xml:id="n0036">36. Supra, pp. 336 seq.</note>
+<note xml:id="n0037">37. Supra, pp. 344-348, 352.</note>
+<note xml:id="n0038">38. M cramus natura</note>
+<note xml:id="n0039">39. Supra, p. 439</note>
+<note xml:id="n0040">40. Supra, pp. 424 seq.</note>
+<note xml:id="n0041">41. Ioh. Librarius cod. B. perperam pro persona dialogi intellexit</note>
+<note xml:id="n0042">42. Supra, p. 336. </note>
+<note xml:id="n0043">43. Supra, p 355.</note>
+<note xml:id="n0044">44. M esto om. </note>
+<note xml:id="n0045">45. Supra, pp. 344 etc.</note>
+<note xml:id="n0046">46. Supra, p. 341????</note>
+<note xml:id="n0047">47. Ps. 95:5</note>
+<note xml:id="n0048">48. B in om. </note>
+<note xml:id="n0049">49. M inde ???? </note>
+<note xml:id="n0050">50. B eis eis </note>
+<note xml:id="n0051">51. B qua ??? </note>
+<note xml:id="n0052">52. B contra malos om. </note>
+<note xml:id="n0053">53. Codd. I Par. </note>
+<note xml:id="n0054">54. 3 Reg. 3: 16-27</note>
+<note xml:id="n0055">55. B perterritur</note>
+<note xml:id="n0056">56. B micius</note>
+<note xml:id="n0057">57. B hoc om. </note>
+<note xml:id="n0058">58. Deut. 17:2,4</note>
+<note xml:id="n0059">59. Deut. 17:6</note>
+<note xml:id="n0060">60. The speech in M begins," Ad hunc punctum gaudeo me veisse, quoniam iam fateris possessionem illam esse iniustam, et negare non poteris illam possessionem esse iustam ex quo iusto iudicio illi confertur; quod michi videtur repugnanciam," etc.
+<note xml:id="n0061">61. B non…autem om. </note>
+<note xml:id="n0062">62. Supra, p. 448. </note>
+<note xml:id="n0063">63. Eccl. 2:2</note>
+<note xml:id="n0064">64. Supra, p. 363.</note>
+<note xml:id="n0065">65. Codd. habet ???</note>
+<note xml:id="n0066">66. B capis</note>
+<note xml:id="n0067">67. B omni</note>
+<note xml:id="n0068">68. Supra, pp. 384 seq.</note>
+<note xml:id="n0069">69. Supra, p. 393. </note>
+<note xml:id="n0070">70. Supra, p. 385</note>
+<note xml:id="n0071">71. Supra, pp. 383 seqq. </note> 
+<note xml:id="n0072">72. B dependit</note>
+<note xml:id="n0073">73. Supra, p. 453</note>
+<note xml:id="n0074">74. B setm ??? </note>
+<note xml:id="n0075">75. Supra, lib 3:18-34</note>
+<note xml:id="n0076">76. Supra, p. 362</note>
+<note xml:id="n0077">77. Supra, pp. 414 seqq.</note>
+<note xml:id="n0078">78. Supra, pp. 417 seq.</note>
+<note xml:id="n0079">79. Supra, pp. 421 seqq.</note>
+<note xml:id="n0080">80. B das om.</note>
+<note xml:id="n0081">81. B igitur om.</note>
+<note xml:id="n0082">82. B -serit om.</note>
+<note xml:id="n0083">83. B persona om. </note>
+<note xml:id="n0084">84. Supra, pp. 421 seq.</note>
+<note xml:id="n0085">85. B tu ???</note>
+<note xml:id="n0086">86. Supra, p. 455</note>
+<note xml:id="n0087">87. Supra, p. 453</note>
+<note xml:id="n0088">88. B fit</note>
+<note xml:id="n0089">89. Supra, pp. 323 seqq.</note>
+<note xml:id="n0090">90. Supra lib. 2:5</note>
+<note xml:id="n0091">91. B sint om.</note>
+<note xml:id="n0092">92. B impius ???</note>
+<note xml:id="n0093">93. B inferre</note>
+<note xml:id="n0094">94. Supra, p. 458</note>
+<note xml:id="n0095">95. Supra, p. 459</note>
+<note xml:id="n0096">96. The manuscripts here mark the beginning of ch. XVI,; but M repeats the numeral later on (infra, p. 466), and this division, as agreeing with the table of contents (supra, p. 435), appears to be the correct one.</note>
+<note xml:id="n0097">97. B iam</note>
+<note xml:id="n0098">98. Supra, p. 487.</note>
+<note xml:id="n0099">99. B que om.</note>
+<note xml:id="n0100">100. Supra, p. 382</note>
+<note xml:id="n0101">101. B quam om. </note>
+<note xml:id="n0102">102. Supra, p. 461</note>
+<note xml:id="n0103">103. Infra, p. 475</note>
+<note xml:id="n0104">104. Supra, p. 461</note>
+<note xml:id="n0105">105. Cf. supra, p. 455 ?? </note>?
+<note xml:id="n0106">106. B fraude</note>
+<note xml:id="n0107">107. Supra, p. 462</note>
+<note xml:id="n0108">108. B ut</note>
+<note xml:id="n0109">109. B Non</note>
+<note xml:id="n0110">110. Dan 4:27-29</note>
+<note xml:id="n0111">111. Ps. 2:10-12</note>
+<note xml:id="n0112">112. Iac, 3:15</note>
+<note xml:id="n0113">113. Supra, p. 464</note>
+<note xml:id="n0114">114.0 B de om. ??? </note>
+<note xml:id="n0115">115. M et ea… racioni om. </note>
+<note xml:id="n0116">116. B XVI om.; supra, p. 461, n. 34.</note>
+<note xml:id="n0117">117. Supra, pp. 362 seq. </note>
+<note xml:id="n0118">118. M hereditario</note>
+<note xml:id="n0119">119. B aliud</note>
+<note xml:id="n0120">120. Supra, lib. Iii. 2.</note>
+<note xml:id="n0121">121. B ideo</note>
+<note xml:id="n0122">122. Supra, p. 438</note>
+<note xml:id="n0123">123. M usum fr.  ????</note>
+<note xml:id="n0124">124. 6 Decr. V. tit. 7:3 ????</note>
+<note xml:id="n0125">125. B ac om.</note>
+<note xml:id="n0126">126. Supra, p. 352, etc</note>
+<note xml:id="n0127">127. Matt. 10:10</note>
+<note xml:id="n0128">128. Supra, lib iii. 20</note>
+<note xml:id="n0129">129. Alimentorum assumendorum: B assumetor ???</note>
+<note xml:id="n0130">130. Supra, p. 440</note>
+<note xml:id="n0131">131. B dni ???</note>
+<note xml:id="n0132">132. Supra, p. 469</note>
+<note xml:id="n0133">133. Luc. 22:31</note>
+<note xml:id="n0134">134. B accipe</note>
+<note xml:id="n0135">135. Supra, p. 438.</note>
+<note xml:id="n0136">136. Supra, pp. 455,466</note>
+<note xml:id="n0137">137. B hoc om.</note>
+<note xml:id="n0138">138. B sit</note>
+<note xml:id="n0139">139. M admitt. ???</note>
+<note xml:id="n0140">140. Et tamen: B cum</note>
+<note xml:id="n0141">141. Vel donant. Assisi e Decr.</note>
+<note xml:id="n0142">142. Fuisse esse codd.</note>
+<note xml:id="n0143">143. Supra, p. 468. </note>
+<note xml:id="n0144">144. Supra, p. 472.</note>
+<note xml:id="n0145">145. B scilicet om.</note> 
+<note xml:id="n0146">146. B obsequantur</note>
+
+</note>
+</div1>
+</back>
+
+</text>
+</TEI>

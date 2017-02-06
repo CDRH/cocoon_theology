@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="theo.tei.P5.xsl" type="text/xsl"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xml:id="theo.lordship" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+<fileDesc>
+  <titleStmt>
+<title>On Divine Lordship</title>
+<author>John Wyclif</author>
+<respStmt>
+<resp>Project Director</resp>
+<name n="Lahey, Stephen E.">Stephen Lahey</name>
+</respStmt>
+<respStmt>
+  <resp>Text prepared by</resp>
+  <name><!-- add student name here -->, University of Nebraska-Lincoln</name>
+</respStmt>
+<respStmt>
+  <resp>Text encoding by</resp>
+  <name n="Weakly, Laura Smith">Laura Weakly, University of Nebraska-Lincoln</name>
+</respStmt>
+  </titleStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>cdrh@unl.edu</addrLine>
+</address>
+<idno type="ISBN"></idno>
+<availability><p><!-- ? (copyright) --></p></availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<author>John Wyclif</author>
+<title level="m">On Divine Lordship</title>
+<title level="m" type="sub"></title>
+<respStmt>
+<resp>Translated by</resp>
+<name>Ford Lewis Battles</name>
+</respStmt>
+<publisher></publisher>
+<date when="1953">1953</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<editorialDecl>
+<p>Only part of the text was translated into English by Ford Lewis Battles. Missing text is indicated with elipses.</p>
+</editorialDecl>
+</encodingDesc>
+<profileDesc>
+
+</profileDesc>
+<revisionDesc>
+<change>
+<date when="2016-02-29"/>
+<name>Laura Weakly</name> Initial encoding</change>
+  <change>
+    <date when="2016-03-03"><name>Erin Dwiggins</name> Proofreading and Corrections</date>
+  </change>
+</revisionDesc>
+
+
+  </teiHeader>
+
+
+<text>
+<body>
+
+<pb />
+<head>On Divine Lordship</head>
+<byline>By John Wyclif</byline>
+<byline>Translated by Ford Lewis Battles 1953</byline>
+
+<div1>
+
+
+<head>Book 1</head>
+<head>Chapter I</head>
+
+<ab>. . .</ab>
+
+<p>(3)…Lordship<ref target="n001">1</ref> is a habit of the rational nature according to which it is specifically designated to be placed in authority over its <hi rend="italic">serviens</hi>.<ref target="n002">2</ref> First, as to the genus of lordship, it is clear that it is a relation, and as a consequence a habit: for lord and <hi rend="italic">servus</hi><ref target="n003">3</ref> are spoken of in a relative sense, and as a consequence is a relation of this sort that by which they are formally spoken. And because only to the rational nature (as of God, angel, and man) is it given to hold lordship in the sense explained, it is clear from this that lordship thus understood has to do with preeminence in regulating free acts. It does not exist in anything that is inferior to the rational nature…. This seems to be evident to us from the first chapter of Genesis, where God thus addresses the first parents… : “Behold, I have given you every herb bearing seed upon this earth, and all trees that have in themselves seed of their own kind, to be your meat; and to all the beasts of the earth, and to every fowl of the air, and to all that move upon the earth, and wherein there is life, that they may have them to feed upon.”<ref target="n004">4</ref> Note that God says: “I have given you beasts and growing things of the earth,” and does not say, “I have given such things to the beasts of the earth”; in order to point out that man, not beasts, holds lordship over such things, as is clear from the title of God’s gift. And the same is clear in the first chapter of Genesis… : “Let us make man in our image and likeness, that he may be set over the fish of the sea and the birds of the air,”<ref target="n005">5</ref> &amp;c. Note first, the constitution of man in being after the image and likeness of God, according to which he is capable of lordship; and secondly the placing of man in a position of lordship over mundane things inferior to himself. Thirdly…Scripture by its silence denies that God ever places a nature inferior to man’s in a position of sovereign lordship. Lordship is not therefore any license of use….<ref target="n006">6</ref></p>
+
+<ab>(4)…</ab>
+
+<ab>(5)…</ab>
+</div1>
+
+<div1>
+<head>Chapter III</head>
+
+<p>(1)	Let us now examine the divisions of lordship. Since moreover lordship takes its being, and consequently its species and differentia, from its subject, foundation, and from its object, it is clear that from any one of these three the division of lordship into its species and other subjective parts can be taken. Since there are three sorts of rational natures it is clear that correspondingly there are given three modes of lordship: divine, angelic, and human lordship. But only lordship of such a nature is declared to be able to inhere subjectively. On the other hand, according to the bases of lordship its species vary, especially in man. For, just as one is natural law, another evangelical law, and the third human law, correspondingly one is natural lordship, another evangelical lordship (as is the lordship of charity or vicarious lordship, when someone in the name of Christ receives ministry from another), and the third is coercive lordship, as stated above, which varies according to the variation of the laws and of the rights of those founding it. Also it varies with respect to the objective term as with respect to the subjective principle: as of political lordship one is monastic lordship, another civil, and another royal; the monastic in respect to one house or family, the civil in respect to a city or community larger than the family, and the royal in respect to a kingdom or empire. Aristotle<ref target="n007">7</ref>…distinguished lordships from these principles and maintained that the further divisions of lordship are taken from these.</p>
+
+<p>(2)	But since divine lordship as the measure and simplest principle, obtains the chief place over all other lordships, the natural order must needs principally be derived from it. But it, although it is multiplied according to the multitude of those who serve, neither has distinction of subject from its foundation (since all law by which God possesses anything is really God Himself), nor is further communication required on account of its character apart from its susceptibility of subjection to lordship and lordship itself, since it cannot be susceptible of subjection to lordship unless God be its lord. From this it follows that the lordship of God measures, as the prior presupposition, all other things to be assigned to it. For if a creature has lordship over anything, God first has lordship over this same creature. Therefore divine lordship is the basis for all lordship of the creature, and not conversely. How, I ask, could a creature rule another unless that creature were created as a servant? Since God has lordship over that which is created, when a creature rules over another, God previously rules over both.</p>
+
+<p>(3)	From this it is gathered that the excellence of divine lordship above any lordship of a creature can be based upon three things especially: its subject, its foundation, and its object. As to its subject, since it on account of its own excellence cannot obtain lordship for its need, in accordance with the necessity of the servitor and its own glory: but any ruling creature either is set in authority or lacks a servitor. Augustine touches upon this reason of the prerogative of divine lordship in his fifth letter to Marcelinus, in these words:
+	
+<quote>They who think that God orders these things because of His necessity or desire deceive themselves; and they are deservedly moved as to why God has changed these things, as it were by changeable delight, ordering one thing to be offered to Himself at one time, another at another. But it is not so; God orders nothing which benefits Himself but rather him whom He orders. For this reason he is true lord who does not need a servant, and whom the servant needs.<ref target="n008">8</ref></quote>
+
+And the same sentence appears {elsewhere}…?<ref target="n009">9</ref> Moreover the same proof is frequently expressed in Scripture, as for example… “I said to the Lord, Thou art my God since Thou needest not my goods.”<ref target="n010">10</ref> Behold the reason for confessing God to be that Lord in that He rules without need of His servitor; but man recognizes that he needs a servitor for the relief of his misery, or at least for his ministry, which the Supreme Lord requires to be perfected, just as an angel….</p>
+
+<p>(4)	As to its foundation also divine lordship is with reason extolled. For God has no right accidental to Himself which out of demerit [<hi rend="italic">demerendo</hi>] can, while it remains subject to lordship, be destroyed by destroying lordship, as is the case with any creature destroying lordship through the destruction of right. But God, <hi rend="italic">per se</hi>, acquires lordship by the pure act of creation. Since therefore creation is incommunicable to the creature for the reason that the Almighty alone can create, it follows that the mode of divine lordship excels the lordship of the creature to the extent that omnipotence excels created power.  </p>
+
+<ab>(5)…</ab>
+
+<p>(6)… Because His excellence is utterly unlike that of all else the church sings: “Thou alone art the Lord,”<ref target="n011">11</ref> in accordance with the Apostle's statement “One Lord, one faith”;<ref target="n012">12</ref> and “For us there is one God, the Father, from Whom are all things and we in Him; and one Lord, Jesus Christ, through Whom are all things and we through Him.”<ref target="n013">13</ref></p>
+
+<p>(7)…</p>
+
+</div1>
+
+<div1>
+<head>CHAPTER V</head>
+
+<p>(1) 	It remains to see in what the use of divine lordship immediately and formally consists. For the use of lordship seems to be its fruit for many, and God’s possession seems to mediate between its use and lordship itself. But Master FitzRalph replies….that the fruit of divine lordship is double, namely, intrinsic and extrinsic.<ref target="n014">14</ref> Intrinsic delight is what He Himself has in His work, just as other artisans. He undoubtedly had this in the beginning of the world, when “The spirit of the Lord was borne upon the waters,” and “He saw all that He had done that it was very good.”<ref target="n015">15</ref> But the extrinsic use seems to be founded in the agency of the creature. And thus God had the first use of lordship in the first instant of the world; then He began to have the second use indirectly [<hi rend="italic">per remotionem</hi>] in the present age: and thus for an instant God was Lord without extrinsic use. But that extrinsic use is called God’s governance. </p>
+
+<p>(2)…</p>
+
+<p>(3)	It ought therefore to be conceded, in my judgment, that God has no use of anything which is subservient to Himself, except in a relative sense, for it is God’s nature to use the creature; and He presupposes the creature and His lordship. Therefore every such use, since it is of God’s using, is formally in God, and objectively or materially in the creature by virtue of His created governance, as is clear by metaphysics. The use therefore which God has of any creature consists immediately and materially in the same essence and in any causality thereof; as for example when the creature does or causes what it ought, God uses that creature. And since it ends the contradiction that the creature exists at the first instant of the world or otherwise, unless it cause what it ought, it is clear that it cannot be a creature unless God uses it; for any individual creature by causing perfects the whole, and the whole itself reciprocally finally causes any part thereof causing as its material cause.<ref target="n016">16</ref></p>
+
+<p>(4)	And it is clear, according to the aforesaid sentence, that God has greater lordship over anyone of His creatures than any other lord can have. For He uses created essence insofar as it by nature calls God its Lord, which it would do even if it were not the world or other service of Him based upon accidents. God also uses the creature (as for example a created substance) by virtue of the fact that the creature itself produces internally [<hi rend="italic">adintra</hi>] the act or form out of potency or intrinsic substantial sufficiency. Out of the sufficiency by which the substance suffices actually to seek its own being, and out of the actual seeking according to the limit possible to it, the final quieting or quarreling proceeds in its own being. As such, any creature naturally shows forth the Trinity.<ref target="n017">17</ref> Thirdly, God uses a creature of this sort that He may initiate its being acted upon [<hi rend="italic">passionem</hi>] or other accidents, whether separable or inseparable, while in some respect they directly act for the beautifying of the universe. But no creature uses another unless to the extent that any of its <hi rend="italic">accidentalia</hi> may be useful to him. Thus as Creator God does not immediately use the essence, but rather the accidents insofar as the good is thus useful to the user. Hence, just as an accident is not a being unless it be of being<ref target="n018">18</ref>….so there is not use of the creature unless it be on the analogy of the Lord’s use. </p>
+
+<p>(5)	Hence God (as above) ought with reason to be spoken of as the chief Lord. If anyone believes the lordship of the creature able to be coequal with the lordship of God, let him see first whether a subject and its accident can be equal in entity, or whether a creature can make in an absolute sense any substantial essence, that it may rule itself with regard to substance; and he will agree that it is not so. For this reason God rules, not mediately, through the <hi rend="italic">regimen</hi> of subservient vassals, as other kings, since He makes, sustains, governs immediately and through Himself all that He possesses, and aids in the perfecting of works according to other uses which He requires. For He uses any partial creature even for the fabric or symmetry of the great house, and uses the house itself that it may in turn be the final cause of its parts, and that the blessed may delight in such a great fabric. Hence Baruch, after the declaration of the Lord God and His possession, thus expresses the use thereof:
+
+<quote>He that sends forth light, and it goes: and has called it, and it obeys Him with trembling. And the stars have given light in their watches, and rejoiced: they were called, and they said: here we are: and with cheerfulness they have shined forth to Him that made them. He is our God.<ref target="n019">19</ref></quote>
+
+Note first, that there is no distance of time in the work of the first light; therefore in order to denote what inanimate things do not lie in idleness from the ministry of God, it says “and it goes.” Nor does the metaphysician disdain that the action of light is its own going. Hearing with trembling is with fear to attend to the inspiration of God. To rejoice is to remain quiet in His purposes. Promptly to speak is naturally to declare. In this natural ministry the most perfect use of our God consists. Therefore God has such use of every creature, not for His need or utility, but out of His pure grace, by which He desires to bring forth the world with its parts, that this fruit finally and depending upon the advantage of the creature may rejoice. For He is that Good which all things seek<ref target="n020">20</ref>… and the end, by virtue of which all agencies, natural or sensitive, do whatever they do, and aspire ultimately [to] Him<ref target="n021">21</ref>….</p>
+
+<ab>(6)…</ab>
+
+</div1>
+
+<div1>
+<head>Book 3, Chapter I</head>
+
+<p>(1)     To return…to the matter which more directly concerns lordship, one ought first to suppose from the statements already made and from the things yet to be said that there are sixteen acts which more obviously depend upon lordship for their exercise: namely to create, to sustain, and to govern (which ought necessarily and appropriately to befit God); and thirteen others, namely, to grant, to receive, to furnish, to take back, to sell, to buy, to place, to conduct, to accommodate, to borrow, to promise, to furnish surety, and to depose. The differentia and species of these will be evident in due course. Aristotle lists seven of these; and others are enumerated by other political theorists.<ref target="n022">22</ref> Since we have discussed the three prior ones already, as a consequence we ought to investigate which of these thirteen are appropriate to God, and in what way.<ref target="n023">23</ref> First, concerning giving, it is obvious that it is supremely appropriate to God, for the reason that a person, the more liberal he is, the more capable is he of giving [<hi rend="italic">donativior</hi>]. But God is supremely liberal, therefore superlatively capable of giving. Hence it should be admitted that every gift comes from God. James…states: “Every perfect gift, and every good gift, is from above, coming down from the Father of lights.”<ref target="n024">24</ref> There follows … : “If any of you want wisdom, let him ask of God, Who gives to all abundantly.”<ref target="n025">25</ref> Nor does God teach us otherwise (as also the Church preaches) to pray to Him with great diligence, .. : “Give us this day our supersubstantial bread.”<ref target="n026">26</ref> In the seventh chapter Jesus says … : “If you then, being evil, know how to give good gifts to your children, how much more will your Father, Who is in heaven, give good things to them that ask Him?” Nor do I doubt this, since it is demonstrable that anything God brings forth outside Himself [<hi rend="italic">adextra</hi>] is pleasing to any nature or fellowship [<hi rend="italic">communitas</hi>]; and a most proper gift of God, because it seems especially to be estranged from the reason of that which is capable of being given, has been given to man, as will be clear later. Therefore every creature, is ordained eternally by God to be given to another creature, subjected under full servitude to God. Before the latter receives such a gift [<hi rend="italic">datum</hi>], it is clear that, just as created individuals are special grants [<hi rend="italic">dona</hi>] of God, so God cannot give anything to this creature unless He have given it most freely. But this conclusion ought not to be doubted.</p>
+
+<p>(2)	The exceeding great ignorance of the wise philosophers is clear, who think that abdication or alienation follow upon any full gift; or otherwise that the gift or grant of God has no reason proper to a true gift. For nothing created can be excluded from divine service, for the reason, made clear above,<ref target="n027">27</ref> that God Himself rules utterly fully.<ref target="n028">28</ref> For he who gives something to his slave does not alienate it from himself, since whatever his slave has is completely his master’s own; therefore it is clear that it is not possible for anything to serve the creature unless to the extent that it more principally serves the Creator, and as a consequence unless the Creator chiefly [<hi rend="italic">capitaliter</hi>] has lordship over him. It is the same thing to believe that the creature is outside divine lordship, and exists <hi rend="italic">per se</hi> without divine preservation or causation, which would formally embrace its own being as God. From the fact therefore that God is omnipotent, and every creature lacks His manifold causation, it follows that He cannot by giving alienate the lordship of anything capable of being given. This is on account of the fullness of His lordship. Likewise, if God were able to alienate lordship from Himself, supposing the judgment of any servant were equal, it follows that God could confer on the first angel the lordship of the whole remainder of this world,… but when this had been given, the creature would be a somewhat greater lord than his God, and thus the possessor of greater activity and power. Such an assumption would be insane….</p>
+
+  <p>(3)	Therefore it is clear that it is not of the nature of lordship, in any degree whatever, that it be proprietary, and consequently that granting anything to another alienates lordship from oneself. This can be demonstrated in three ways. First, suppose that Peter<ref target="n029">29</ref> alone with his family holds lordship of water or land, which communicated by reason of possible enlargement is not prejudicial to the occupant: then Peter can grant to Paul lordship of the aforementioned land yet keeping for himself equally useful and full lordship just as before; therefore by reason of the grant also there is no abdication of the thing given by the man. Hence also he would be in the state of innocence (as will be clear later); where parents would hand down to their offspring lordships of subjects, and would no less thereby reserve to themselves full lordships of them. This seems to be hinted in the case…of Shechem the son of Hamor and the sons of Israel: “Let them trade in the land, and till it, which being large and wide needs men to till it.”<ref target="n030">30</ref> Nor does limitation of use, sustaining of lordship, or difficulty of transference hinder them from being more efficaciously exercised when lordship is reasonably communicated, than if Peter were the sole existing owner; therefore the forsaking of lordship of the thing given is not of the nature of a human grant…. For the chief lord, the conqueror of the kingdom, immediately after the completion of the conquest before he has appropriated anything to himself can grant his soldier or baron a certain lordship yet preserved to himself, as the chief lord a certain service even greater than he formerly held or even night have if, as it were, he had possessed the whole conquest as owner. Therefore it is agreed that the lord after the standing grant has the lordship of the thing given. Nor does the integrity or fullness of the lordship diminish on account of the faculty or power of misuse. Thirdly, the same is clear concerning the servant (whom for example we might call Peter) conditionally preserved by his lord Paul from the death so that whatever goods or fortune it befalls him to have he yields to Paul in full lordship for the gracious preservation of life…. Then when Paul gives to Peter gift A capable of being consumed by use, he does not thereby renounce it from himself, but rather he preserves lordship of this gift by the fact that whatever of temporal goods is acquired for this Peter by reason of specified lordship is also acquired for Paul himself. And saying that Peter as a servant [<hi rend="italic">servus</hi>] cannot in an equal sense be lord or possess anything, restricts possession and lordship beyond the rational fulness of Scripture. As a consequence he also binds himself to say consequently that no one is lord except God because God has fuller right to any lordship which a creature possesses than Paul in this case may have or could have over and above Peter.</p>
+
+<p>(4)	And it is clear to philosophers not blinded by particular consideration of earthly lordship that communication does not hinder true lordship nor does property follow it of itself, but that rather all property was introduced by reason of the sin of the rulers or of those who did not communicate.<ref target="n031">31</ref> See therefore the title of lordship, and you will see that the communicated habit by which anyone is put in authority over one who serves is more gracious, because it is so much more stable and useful to the community, as will be shown afterward through the grace of God.<ref target="n032">32</ref> In the sign of opposite imperfection alone they contend about the appropriation of the goods of fortune,<ref target="n033">33</ref> which among the five kinds of goods are of least value. Our Savior did not wish to exercise lordship with his apostles proprietarily, but communicatively in so far as the state of living on earth demands that they acquire heavenly lordship. Also gifts spiritual and more appropriate to divine lordship savor more of the opposite condition; because without alienation or impoverishment of the giver they are communicated to them. This is true of the kingdom of heaven which, because it is communicated to more heirs is more freely possessed by individuals. And the same is true of other spiritual riches and the natural lordship of man; for the spirit of the pilgrim, the more fully and more thickly it is spread abroad among most communicants, the more richly and usefully it increases for the one holding lordship. The same is true of knowledge and doctrine. And hence it has prevailed in the Christian religion that the gifts of God, even to the temporal things set apart for God, are not to be sold for money or to be relinquished by the ministers of the Church. This is clear…concerning Simon who wished to buy the apostolical power with money.<ref target="n034">34</ref> And in Leviticus…it is written “The land is not to be sold forever,”<ref target="n035">35</ref> namely, meaning in the strict sense never alienated; and there is subjoined for this reason “because it is mine, and you are strangers and sojourners of mine.” Here is left for us the ceremonial figure in the Scripture of the Old Testament in order that we may contemplate the perfection of divine lordship. It is a gift, I say, of God, not diminished by being given. Hence there is nothing more useless to Him by which He is communicated to many, without more efficaciously serving Himself. It is clear that assuming capable creatures, God would be envious for them if he had not freely and communicatively bestowed His gifts upon them. These he gave most freely both in the time of the state of innocence and after the Fall in the time of the three-fold law namely, of the law of nature, the written law, and the law of grace; as will afterward be stated in the book <hi rend="italic">De Civili Dominio</hi><ref target="n036">36</ref>….</p>
+
+<ab>(5)…</ab>
+
+<p>(6)	And it is clear that God most properly grants his gifts to men; but creature [grants] either less properly or too abusively. The first is clear from the fact that God has the truest lordship of that which He has given.<ref target="n037">37</ref> And with this the best manner of giving: why then does not this reason of giving agree with Him most principally and properly, since He is the measure of other acts of giving through which He imparts His reason? The second part is clear from the fact that any creature making a grant has lordship<ref target="n038">38</ref> only from what has been loaned him [<hi rend="italic">ex prestito</hi>]<ref target="n039">39</ref>… , and in the act of granting merely effects the transfer as a minister or steward of the Lord. Therefore just as the steward of earthly lordship in transfering by hand the lordships of the granting lord does not strictly speaking grant but rather dispenses; thus it is with respect to the grant [made by] any creature. But if he distributes anything without the authority of the Lord who granted it previously to him, such an act is not properly a grant but rather a presumptive abuse of the power of ministering. And it is clear that many persons who distribute [possessions] to actors and other unworthy folk sin gravely in thus granting, nor do they bestow upon the latter the title of a true grant. The first part is clear for the reason that it is permitted to no one to alienate lordship without the consent and permission of the chief lord;<ref target="n040">40</ref> since thereby there would arise service due the chief lord <hi rend="italic">de jure</hi>, and as a consequence injury would be done to the lord by withdrawing from him what is his: since therefore God does not consent to or agree to a transference of this sort, for the reason that [<hi rend="italic">ex supposito</hi>] it is unjust, it is clear when the supposition is made, that it commonly happens, and so the conclusion follows. And I say that “many,” because they are quite ignorant about the pure title, distribute unknowingly to those who are unworthy; yet I think more commonly that it happens on account of crass ignorance or ambitious pomp of the world. The second part is clear from the fact that all title of a true grant, to this degree, is just, or the right itself possess a gift of this sort:<ref target="n041">41</ref> since therefore the recipient as is supposed may be unworthy, it follows that he may not be legally competent to receive such right. And it is clear that anyone not shameless would quite clearly concede that if it is just for a proprietor without license of the chief earthly lord to be deprived of his pretended possession, it is much more evident that it is just that the occupant be thus deprived of anything held without divine license. If the chief earthly lord has an interest in the lordship of the subject by reason of which it is not permitted by the subject to alienate it without the permission of the chief lord given for this, it is even more evident concerning the great interest of the Supreme Lord.<ref target="n042">42</ref> It is clear how many lordships exist by usurpation or merely nominally, such as all those which the chief lord has not granted.</p>
+</div1>
+
+<div1>
+<head>Chapter II</head>
+  <p>(1)	From this the difference between the divine gift and the improper gift of the creature is clear. For the divine gift is most proper, most generous, and most useful to the creature. The first part is clear from what has just [<hi rend="italic">proximo</hi>] been said,<ref target="n043">43</ref> and the second part is clear from the fact that God does not give to His household servants [<hi rend="italic">famulis</hi>] any grant unless He principally gives Himself. For first of all He gives being as regards the intelligible being of the creature, which is really the divine essence, is productive of the existence of the creature, even if the accident produced a subject in itself. Or… , he is clothed with created <hi rend="italic">light</hi>, from an intimate inflowing, as if anyone were clad in a garment. So we understand concerning truth, unity, and analogous goodness, which He first gave to each creature, as the Blessed Dionysius declares in his book <hi rend="italic">On the Divine Names</hi> in many passages. Since therefore all creatures exist by participation, it is clear that God at first communicates His essence to them. We understand the same of all accidental gifts in which God principally gives the Holy Spirit to the predestined, after Whom there follow these accidental gifts from God. And thus is…understood: “In Him we live and move and have our being.”<ref target="n044">44</ref> …. “We abide in Him and He in us, for He has given of the Holy Spirit to us.”<ref target="n045">45</ref>  For the spirit is love… : “God is love, and he who abides in love, abides in God, and God in him.”<ref target="n046">46</ref> See, therefore, what sort of love the Father has given us, by giving us the Holy Spirit in essence and consequently other graces, as the sevenfold gifts of God, since according to the Apostle… : “How has He not, with Christ, granted us all things?”<ref target="n047">47</ref></p>
+
+<ab>...</ab>
+
+<p>(5)	… God’s gift is most useful to the creature, for the reason that everything given of God redounds to the good of the soul, which, according to the condition of the subject, is inseparably better and more lasting than any temporal good. For this reason the Savior says: “For what does it profit a man, if he gain the whole world, and lose his own soul? Or what shall a man give in exchange for his soul?”<ref target="n048">48</ref> If therefore the whole personality of man be the spirit and the body with its goods accidentally ordained to the spirit as to its end; nevertheless the gifts of the Spirit are not capable of being consumed by use in order to support or protect burdens, but by whatever use is of greater benefit to the possessor. Who doubts but that of those is made a more useful treasure for man, as the Savior teaches… ? If moreover we give heed to the manner of giving, we will easily see that God’s gift exceeds in usefulness any other gift of the creature. For God cannot give except for use, and in no wise for abuse, nor can He unjustly take back [His gift] from one who uses it well; but He arouses in many ways the good user to [further] use, and immediately takes back form the abuser. All this is known plainly to belong to the advantage of the giver.</p>
+
+<p>(6)	The first part is clear from the fact that injustice cannot be in agreement with God; nor can He deal other than graciously with His creature, because He would not act by taking away gifts from him who is exempt. In witness of this the Apostle…says that God “abundantly furnishes us all things to enjoy.”<ref target="n049">49</ref> For the man who is just in the Lord’s sight uses a creature to the extent that use mediates between the honor of God and the advantage of the user. So far as this use indubitably mediates to the enjoyment of God, use thus modified is called according to its end at one time <hi rend="italic">enjoyment</hi> and at another time <hi rend="italic">use</hi>, and without such an end is called <hi rend="italic">abuse</hi>. Hence it is customary to distinguish different sorts of enjoyment: one is pure, the other mixed. The first sort is action of the will, namely, adherence [<hi rend="italic">adhesio</hi>] to delight which is purely limited to God; and the other, which is antecedently limited to the creature and finally to God: the aggregate of these may with good reason be given the name <hi rend="italic">end</hi>. In such a manner the Apostle uses Philemon,<ref target="n050">50</ref> and he who is just according to the teaching of the Apostles ought to enjoy every creature. And it is clear from the course of the Gospel and the faith of the Church that no one merits the enjoyment of any gift of God except to the degree that he is aroused by grace, led and helped by God.<ref target="n051">51</ref> What God seeks back from the unjust will be clear later on, where it will be stated that any unjust person holding a gift of God is the possessor of bad faith. And from these four conditions the excellence of the means of giving is clear, which is appropriate to God alone. Hence, Grosseteste, Bishop of Lincoln,<ref target="n052">52</ref> …. proves that this means of giving is agreeable to God, because it is the best means of giving. And the proof of the conclusion set forth is clear.</p>
+
+<p>(7)	But against this they who deem Scripture or its reason foolish, object: for it seems to many “that the statement of the proof of the second part is for many reasons impossible: first in this that God gives Himself to the creature; second, in this that any creature, and especially a divisible one, is in God; and thirdly, in this that God grants in the best possible manner. For it seems that it were better for God really to withdraw His gift from man,<ref target="n053">53</ref> whenever by abusing it he is disposed to sin; for then the occasion for sinning would be torn away, just as one ought to take away from a madman a sword previously given to him.”</p>
+
+<p>(8)	To the first objection it is replied that God most properly gives Himself, … [Paul] says that God “gave Himself for our sins”;<ref target="n054">54</ref> and likewise…that God gave us the Holy Spirit,<ref target="n055">55</ref> just as the Gospel of John and the Acts of the Apostles often state.<ref target="n056">56</ref> And doubtless, if we tear away from the gift that which savors of imperfection, we find in these expressions of Scripture the very truth itself. For to grant [<hi rend="italic">donare</hi>] is for the giver freely to cause or bring it to pass that another have his gift [<hi rend="italic">suum datum</hi>]. When therefore God most freely brings it to pass that the just man in a special and gracious manner possess Himself, why does He not properly give Himself? Yet from God the Father passive granting [<hi rend="italic">donacio</hi>] does not unfold because of primacy of origin. It is clear that granting is one thing in the sense of possessing and another in the sense of having pure and simple. Whence it does not follow, ‘That if God gives me anything, I possess it,’ but then I either have it for enjoyment or I possess it for use. Nevertheless, although God’s giving does not imply lordship over Him, yet out of the special lordship of God over the grantee is truly implied His lordship over other things and truly makes him rich. It is clear that God cannot give anything to another unless He principally [<hi rend="italic">principaliter</hi>] gives Himself.<ref target="n057">57</ref> For if God newly grants anything to anyone, then he causes God to have the benefit of the grantee, under a new basis. Hence, according to the description of granting, he himself is the principal grant [<hi rend="italic">donatus</hi>] and consequently doubtless everything that is his, for the accessory follows [from] the principal grant [<hi rend="italic">donato principali</hi>] so that if I have God through grace, everything then is mine. Nor is it harmful to have God according to the new basis of having, after He is possessed as creator, preserver, governor, or for some reason unlike these.</p>
+
+<p>(9)	As to the second objection, it ought to be noted that those who merely philosophize have posited eight equivocal modes as to species by which one thing exists in another<ref target="n058">58</ref>…. of which the seventh mode is, as anything exists in its final cause, as for example the riches of the kingdom of the Greeks are said to exist in the power of the king; much more therefore do individual creatures exist in God, Who is <hi rend="italic">per se</hi> the ultimate final cause. Moreover that fact is more subtly and deeply known to the theologian, who knows how God is full of exemplary reasons which are essentially the same to God, and according to the intelligible being in any creature; as here is taken from the Gospel of John…. “What was made in Him was life,”<ref target="n059">59</ref> as has elsewhere been declared.<ref target="n060">60</ref> Nor do those understanding the subtlety, the propriety and the profundity of Scripture, grasp grossly and corporally how God previously or immediately and more properly maintains the universe than a corporal place contains a localized site; because there is an intelligible circle inside and outside every creature, holding that creature within his limits in every respect that he may not lapse into nothingness; but not so is the bodily place which rather on the contrary is preserved by the one containing it. For this reason on account of imperfection of the act of containing the corporal place and the perfection of God’s containing, both God and the place ambiguously are said “to contain.” The unlearned conceive only the less proper ambiguous meaning, on account of its nearness to sense perception, conceding that nothing can exist in God or in any creature according to indivisible mass: but the philosophers do not thus recognize the ambiguity of inherent existence, nor do holy men, doctors of scripture who are more highly and richly illuminated.</p>
+
+<ab>…</ab>
+</div1>
+
+<div1>
+<head>Chapter III</head>
+
+<ab>…</ab>
+
+<p>(7)	It can be gathered from these words now said and those yet to be spoken<ref target="n061">61</ref> that every blessed creature will possess all things through the hand of the Mediator of God and man; he will possess God as Lord over him, he will possess fellow-citizens and companions, and all other things, as it were as subservitors leading them to glory; and thus one and all will be kings, “heirs of God and co-heirs of Christ,”<ref target="n062">62</ref> having all things in common. For according to the statement of the previous chapter God cannot grant anything to the creature unless He principally give Himself:<ref target="n063">63</ref> therefore each blessed creature has God in the best possible way. And if all things belong to a just pilgrim, much more do they belong to a just member of Christ, reigning conjointly with the Head. Hence they will have the right to give reciprocally to one another subjective blessedness: … “good measure &amp;c. they shall give into your bosom.”<ref target="n064">64</ref> But it is clear that the Divine Goodness is overflowing and communicative, since for the sake of granting a momentary little pilgrim’s gift, which he willingly receives of his own and causes to be given, he gives back the greatest possible everlasting gift, indeed both the created universe as well as him himself. And it is clear when the limits are understood and its own proper signification, that Scripture signally expresses the liberality of God under the word “magnificence,” as for example… “Give magnificence to our God; the works of God are perfect.”<ref target="n065">65</ref> [By Aristotle]<ref target="n066">66</ref> magnificence is distinguished from liberality which is a virtue of the great lord through which he distributes liberally great gifts or does works proportional to his excellence according to the meaning of the literal term. God in founding this universe out of nothing even to the point of a second perfection<ref target="n067">67</ref>… shows Himself in this to be in the highest degree magnificent and wonderful; and especially since He so graciously communicates His lordship both to angel and to man as will be shown in what follows. And hence His magnificence is becoming to Him because for service in lieu of a temporal or perishable gift He gives of his own most generously, most constantly and most properly, things eternal….</p>
+</div1>
+
+<div1>
+<head>Chapter IV</head>
+<p>(1) … The act of divine giving and receiving… most properly… agrees with God without alienation of the thing given. Yet I ought to speak of the three acts which can also among men be exercised when lordship is maintained, namely, to lend, to accommodate and to borrow. First moreover it ought to be noted that a lord in three ways gives permission to another freely to receive the use of his possessions by reserving to himself lordship and the power of seeking it back. The first way is unlimited as regards use and time; then it is called by certain ones lending [<hi rend="italic">praestatio</hi>] …. The second way is by limiting either the use or the time or both… ; and then it is called accommodation [<hi rend="italic">accomodatio</hi>]…. The third way involves the transfer of use while lordship is preserved, and the power of seeking back indifferently either the thing given or its equivalent (most commonly in money whose equivalent can quite easily be determined). This is called borrowing [<hi rend="italic">mutuatio</hi>]. Seeking back [<hi rend="italic">repetitio</hi>] moreover signifies the act whereby the lord seeks the return of the debt.</p>
+
+<p>(2)	Assuming this, it is clear that lending supremely and most properly agrees with God, first because He exercises lordship over that which is loaned more truly and as a consequence can more freely exercise the act of loaning to any subject He pleases. Secondly because He most freely without expectation of repayment communicates His good and as a consequence truly loans it. Thirdly because most generously as to time, use and other matters, He communicates conditions of loaning. For He excludes the possibility of misuse. Fourthly, because He of necessity reserves lordship to Himself yet at the same time aids in many ways the use of the thing loaned. But fifthly by a certain excellence differing from a creaturely loan He does not relinquish from Himself the use of the thing loaned for the time during which it is loaned. He does this, without claiming all use out of the vehemence of His lordship, not to hinder or cause loss to the borrower, but in every way to benefit him, as to direct the use hereof to his advantage. It is clear from this that God exercises lordship of necessity over each creature, but all use of the thing thus loaned is for the creature…. Likewise every such borrower is inseparably a servant of God; therefore God out of pure lordship claims for Himself all use of thing loaned, the carrying out of His ministry. The first of these is confirmed by what has been said in Chapter V concerning God’s use, how He uses the essentials of the creature.<ref target="n068">68</ref> Likewise if the use of the thing loaned were alienated from the Lord then it would be an abuse because it would be done without ministry to the glory of God; consequently it would be impossible. For this reason it is clear that God cannot relinquish from Himself the use of the thing loaned unless He were to constitute a new borrower as God. Scripture frequently attributes the act of loaning to the Lord, … “The testimony of the Lord is faithful, loaning [giving] wisdom to the little ones;”<ref target="n069">69</ref> And in II Cor. … it is said that “God will lend you bread to eat.”<ref target="n070">70</ref> And yet wisdom and bread seem least of all to be capable of being lent….  [Paul] always says that God “loans us abundantly all things” that we have<ref target="n071">71</ref>….</p>
+
+<p>(3)	And it is clear that every act of giving of the divine gift to the creature is lending, and conversely. And the true sense of the doctors is evident who say that it is the same thing for God to reward His own servant in any way as to crown His own gift. For He in every respect lends merit and the means of obtaining it, and by prevenience [<hi rend="italic">preveniendo</hi>] He arouses and compels [<hi rend="italic">necessitat</hi>] the acquiring of merit.<ref target="n072">72</ref> I say compels, not on account of absolute necessity, but <hi rend="italic">ex suppositione</hi>, the liberty of freely obtaining merit being preserved. It is clear from this in respect to each person the effect is to give a complete cause, from which supposition it follows formally that it is. For this reason (as appears elsewhere) everything that happens is thus a necessary event, but not absolutely necessary, since the eternally contingent volitions of God according to His essence cause effects, and according to the relation of reason which they formally designate are in return caused from those effects.</p>
+
+<p>(4)	From this it follows that no creature can merit from God anything except out of fitness [<hi rend="italic">de congruo</hi>] so that nothing is wholly of worth [<hi rend="italic">de condigno</hi>]. To explain this I assume that merit or reward are spoken of in a relative sense, namely that merit means the work or the due conversation of the one who serves freely so that he is made worthy to receive retribution or payment from his lord: and it is clear that only rational creatures properly merit this. But <hi rend="italic">merit</hi> among theologians signifies in the strict sense a ministry of the rational creature causing him to become worthy of blessedness, and <hi rend="italic">demerit</hi> means in the strict sense, the abuse of the gift loaned, making him worthy of perpetual punishment. This manner of speaking is clear from Scripture for… the Savior says, “Watch therefore at all times that you be held worthy to escape all these things that are to come and to stand before the Son of man.”<ref target="n073">73</ref> Note that man can make himself worthy so that in the day of judgment he will stand on the right hand and consequently that he may be rewarded with blessedness. Yet it is necessary that God principally make us thus worthy, … “giving thanks to God the Father who has made us worthy to share the lot of the saints.”<ref target="n074">74</ref> The Truth says… “And they shall walk with me in white because they are worthy.”<ref target="n075">75</ref> And as to worthiness scarcely no one doubts since the Apostle writes… “They who do such things are worthy of death.”<ref target="n076">76</ref></p>
+
+<p>(5)	Secondly I assume that for a rational creature to merit out of fitness [<hi rend="italic">de congruo</hi>] would be for it itself to deserve, that is, to make itself worthy for a reward, out of fit and magnificent law, and by the gracious aid of Him who exercises lordship: for thus and not otherwise can the creature merit from God on account of the conditions of His own most pleasing and highest magnificence. But to merit out of worth [<hi rend="italic">de condigno</hi>] is for the servant to make himself worthy in order to receive the reward from his superior in order so to minister to the one entrusted to him for his need. Thus a creature merits from another creature dispensing the goods of the Lord; for I do not imagine that one creature merits from another save out of worth. Moreover in such a manner is the workman of the temporal lord worthy to receive his pay for him. For worth [<hi rend="italic">condignum</hi>] means dignity heaped up [<hi rend="italic">congregatam dignitatem</hi>] in ministry, while in respect to the one paying, the title of grace for pay is excluded according to that statement of the Apostle… : “The sufferings of this present time are not worthy [<hi rend="italic">condignae</hi>] to be compared with the glory to come.”<ref target="n077">77</ref> It is clear that <hi rend="italic">dignum</hi> is higher than <hi rend="italic">condignum</hi>. For every just act to be done by a creature rational or otherwise is worthy [<hi rend="italic">dignum</hi>] to be done by someone. For example it is worthy that God out of the condition of His great lordship loan to his servants all things necessary for obtaining merit [<hi rend="italic">ad merendum</hi>] and afterwards reward them graciously. For all that it pleases primal justice and the Supreme Lord to do in His entire lordship is truly “worthy and just”<ref target="n078">78</ref> of accomplishment because (as will appear later) His will is the prime law.</p>
+
+<p>(6)	 Granting this, the above-mentioned conclusion is clear, for it is impossible that a creature ministers to God in anything except out of his own possessions, which have graciously been conferred previously for the advantage of the one ministering. Therefore it is impossible for a creature to minister to God even in the least degree unless, by giving something, he effects great grace; and as a consequence the creature will surely merit nothing from God wholly out of worth [<hi rend="italic">ex condigno</hi>]. The consequence is clear from the meaning assumed for the term and from the fact declared above that God only lends to His minister and grants out of grace whatsoever He has according to the statement of the Apostle… “And what do you have that you have not received?”<ref target="n079">79</ref> And what he can merit out of fitness [<hi rend="italic">de congruo</hi>] is clear from the frequent song of the church which asks God that out of His grace one be able to merit the kingdom of God. And it can be based upon that saying of the Apostle, … “Do not forget kindness and communion for by such sacrifices God’s favor is obtained [<hi rend="italic">promereri</hi>].”<ref target="n080">80</ref> For <hi rend="italic">promereri</hi> is here a common word. … Through the observance of the law of Christ His minister merits out of fitness [<hi rend="italic">de congruo</hi>] the kingdom of God; because by ministering as he ought he makes himself worthy of the kingdom…. Whoever may deny that the creature by acting can make himself worthy of reward, has to deny either that the creature can do anything, or to deny that Scripture quoted above on the worthiness of the creature for reward.</p>
+
+<ab>(7)…</ab>
+
+<p>(8)	It is therefore an invariable law of God that no one may be rewarded unless he first duly merits it. This is clear first because a reward of this sort is spoken of in relation to merit. Secondly because blessedness is the limit <hi rend="italic">per se</hi> of the movement of merit of unlike reason; but it is impossible for a subject to acquire this limit of movement <hi rend="italic">per se</hi> unless previously it itself be proportionally moved; therefore whoever is beatified [<hi rend="ita;lic">beatificatur</hi>] must previously merit proportionally. Nor indeed is it possible for whiteness or some other quality to inhere in a subject unless previously in some manner it be moved. For to be white presupposes in turn to be made white by origin; and so it is concerning any other accidental denominations. Thirdly because God cannot beatify His creature, unless he be made worthy of such beatitude, since it excludes the contradiction either that one be beatified against one’s will or that God, Whose every volition savors of justice, considers blessed anyone He does not make worthy to be so; therefore when a spirit cannot be created purely from primal or passive material in such making worthy [<hi rend="italic">in tali digniticacione</hi>], it follows necessarily that in this making worthy [the spirit] be active, and as a consequence making itself worthy may gain merit.</p>
+
+<p>(9)	It is confirmed from this that any blessed creature first by nature wishes to be beatified before it in reality is beatified; and all such desire since it is action toward blessedness previously sought, brings worthiness to such blessedness; therefore beatification of the creature demands as a prior condition to the same its own act of making worthy. And this assumption is clear from the rules of Aristotle concerning priority with respect to a consequence.<ref target="n081">81</ref> Indeed many creatures wish to be blessed although blessedness is not so flowing [<hi rend="italic">liquidum</hi>] that it can be forced upon one against one’s will; therefore that previous requirement for making worthy since it is in the free power of that creature which is capable of being blessed, obviously demonstrates [<hi rend="italic">edocet</hi>] that no creature can receive blessedness unless previously it make itself worthy for it. That seems to me to be what the Apostle means… “Labor as a good soldier of Jesus Christ. No man being a soldier to God entangles with worldly businesses; that he may please him to whom he has engaged himself. For he also that strives for the mastery is not crowned except he strive lawfully.”<ref target="n082">82</ref> This conclusion of the Apostle, which ought on the same basis to be understood concerning any pilgrim, would not have value in anything if man could be crowned without struggle or merit. The law of the Great King mentioned above is clear. If a creature were not able to merit, since God is more prone to reward rather than to inflict punishment for evil, I do not see how any creature could deserve evil. For this reason the Apostle says… “And every man shall receive his own reward according to his own labor.”<ref target="n083">83</ref> The Apostle very frequently alludes to this idea; for example… he says “Do you not know that of all those who run in a race, but one receives the prize? So run that you may obtain. And they indeed run that they may receive a corruptible crown but you an incorruptible one.”<ref target="n084">84</ref> He also alludes to this figure… “I have fought the good fight, I have finished my course, I have kept the faith. For the rest there is laid up for me a crown of justice, which the Lord the just judge will render to me at that day.”<ref target="n085">85</ref> Notice that God is compelled out of His justice to crown His soldier who has fought lawfully. Otherwise He would seem to have irrelevantly spoken of the “crown of justice” and to have added “the just judge.”</p>
+
+<ab>…</ab>
+
+<p>(13)	When the possibility of meriting in the sense explained is assumed, it is clear that no one ministers meritoriously to the Supreme Lord unless he first serves Him with the supreme power of the inner man, namely the will; not by simply naturally willing good, but by the deliberative will, by which he freely and happily adheres to justice, for its own sake. From this it is clear that apart form Christ a created spirit has one brief moment in which he by willing purely naturally simple good, neither thereby deserves demerit formally nor deserves merit. For a stone and every created substance naturally seeks its own being, and as a consequence a good being; for from affection of this sort (since such is purely natural), it is morally either to be praised or blamed. But when natural praise is presupposed from a good nature, a free creature ought, by the act elicited of the will, to rise up by delighting in primal justice, so that merit and moral goodness follow natural [praise]. When that goodness stands in act or habit, it makes meritorious whatsoever was following after it, as sleeping, waking, eating, fasting, and any other sort of activity. Hence the second volition of Christ was the proximate principal, waking up the slumbering race of men, indisposed as it is by the sin of the first man to deserve merit.</p>
+
+<p>(14)	Secondly it follows that, apart from Christ, no created spirit deserves merit in his principal being; for merit requires movement of the object, deliberation of the mind, and thirdly and finally voluntary adhesion to equity, which does not suddenly come about in an instant. But in Christ Who is a giant of twofold Substance, in one of which God by His eternal decree ordained in the fullness of time that He take on man through whom He might merit for Himself and for His kind (therefore from that blessed hypostatic union the doctors say that person at the instant of union merited on His own behalf as well as for His kind, because then He made himself worthy for reward by a reason far other than creatures capable of sinning, who do not have a divine nature personally conjoined). He reconciled common nature to the Trinity in that <hi rend="italic">suppositum</hi> by means of a payment in pledge.<ref target="n086">86</ref></p>
+
+<p>(15)	Thirdly it seems believably possible to say that apart from Christ any human spirit has one moment before death in which he can finally possess or lack merit, for according to what has been said before, no one can be made blessed unless previously he merit: but infants slain for Christ’s sake, just as others dying immediately after baptism, are blessed; therefore they must previously merit: hence, there is left to them one brief pause for meriting. But when will this be more relevant than when the powers of the soul are not occupied by the weight of the body nor by bodily functions, as for example, in the two or three moments before death? Nevertheless, no one can be saved except at least he be baptized by the baptism of the Holy Spirit [<hi rend="italic">baptismo Flaminis</hi>].<ref target="n087">87</ref> And it is required both in the New Testament and in the Old that everyone saved be baptized efficaciously in the water of Christ’s side and in the grace of the Holy Spirit. Also in the New Testament God requires as a figure that those spiritually born for Him who are not baptized by the baptism of blood, be baptized by the baptism of the Holy Spirit. Yet this meaning cannot patently be elicited for all out of Scripture; therefore I do not presume to assert it, except with a decent modesty.</p>
+</div1>
+
+<div1>
+<head>Chapter V</head>
+<p>(1)	From these reasons it is gathered that God properly accommodates His gifts, because, “He gives <hi rend="italic">ad commodum</hi>,” limiting the lawful use according to the time and the power of seeking back, by plainly reserving lordship to Himself; and the time is: … “Thou hast appointed his bounds which cannot be passed.”<ref target="n088">88</ref> Nor is Scripture silent on this point,<ref target="n089">89</ref> since…, after the Truth has taught the disciples to pray, He hints that He is a friend Who to everyone duly seeking, asking, and knocking, provides three kinds of bread, namely, the good of fortune, of nature, and of grace. But this cannot be doubted since God, if He gives anything to the creature, then grants and loans the same when the circumstances of loaning are taken away which savor of imperfection. Since therefore to accommodate is a perfect act of communicating [<hi rend="italic">communicandi</hi>]…, “Happy is the man who shows mercy and accommodates,”<ref target="n090">90</ref> and there is a precept in the law<ref target="n091">91</ref>…, it follows that to accommodate [<hi rend="italic">accommodate</hi>] is in the highest degree in keeping with God’s nature.</p>
+</div1>
+
+<div1>
+<head>Chapter VI</head>
+
+<p>(1)	But it seems that there is no distinction between merit based upon fitness [<hi rend="italic">de congruo</hi>] and merit based upon worth [<hi rend="italic">de condigno</hi>]. For from the fact that anyone merits anything from a creature, he merits that same thing from God Who is the Lord of every creature; but all merit of the creature with respect to God is merit solely based upon fitness, and as a consequence, if there be distinction of merits, there is none completely based upon worth. This deduction is quite plain: for all merit with respect to God is based upon fitness alone; all merit with respect to God is relative, since He himself must principally bestow the reward; therefore all merit is merit based upon fitness. In relative merits indeed the consequence holds in a simple sense; as all merit is truly based upon fitness, if it be based upon fitness with respect to God.</p>
+
+<p>(2)	Here on the other hand it is said that there is no distinction of merits as between fitness and worth, since, because any merit based upon worth is also based upon fitness, and perchance conversely, but not in respect to the same rewarding agency. For merit is a ministry of the rational creature worthy of reward; just as a man is both father and son, lord and servant, like and unlike, in diverse manners, so a ministry is based upon fitness with respect to the above mentioned bestower of reward without grace, and based upon fitness with respect to the lord bestowing reward out of pure grace: and thus reasons based upon fitness and worth are unequal, as for example fatherhood and filiation, likeness and unlikeness, lordship and servitude, although they formally inhere in the same subjects. The solution of the argument is logically clear.</p>
+
+<p>(3)	But secondly it is objected against what has been said<ref target="n092">92</ref> that no creature merits from another, but only out of worth. Indeed it seems that a creature can out of grace grant to another many gifts; and as a consequence the creature can give pay to another serving him, partly out of worth and partly out of fitness. As a consequence it is not necessary that it simply be out of worth. The foregoing is clear in three-fold fashion: first through the fact that otherwise no one would be lord unless he give freely of those things which he possesses. Secondly for this reason that otherwise all virtues would be destroyed [<hi rend="italic">tollerentur</hi>], especially liberality and magnificence, and as consequence other virtues which are connected with these. Thirdly, otherwise the merits of the wealthy would pass away, since according to the Apostle<ref target="n093">93</ref> they ought to communicate them to the poor not out of sadness but joyfully…. And it agrees with the command of the Lord… : “Freely receive, freely give.”<ref target="n094">94</ref> Hence the Apostle…. urging a collection of alms for the saints at Jerusalem commands: “Let everyone of you put aside at home and lay up what seems good to him.”<ref target="n095">95</ref> Such a thing given he often calls “grace,” for the apostles did not exact money through excommunication, as is done now.</p>
+
+<p>(4)	As to this three things ought to be assumed. First, that any rational creature is improperly called a lord, but is rather a minister or steward of the Supreme Lord.<ref target="n096">96</ref> It is clear from this that every creature is a servant of the Lord, possessing whatsoever he has out of pure grace that he may husband it. Hence the Apostle says,… “Let a man so look upon us as the ministers of Christ and the Stewards [dispensers] of the mysteries of God”;<ref target="n097">97</ref> and…. “What then is Apollo? what is Paul?” and he replies, “Ministers of Him Whom you have believed; and to everyone thus the Lord has given.”<ref target="n098">98</ref> But this should not be held in doubt since God ministered according to the man He had taken upon Himself, as appears above.<ref target="n099">99</ref> Secondly, it is supposed that just as no creature serves another except insofar as he serves his God, thus no creature rewards his servant in anything except insofar as God more principally bestows reward on the same. This is clear from what has been said concerning the preeminence of divine lordship,<ref target="n100">100</ref> since it is necessary for the creature who bestows the reward to take it from the goods of his master, with whose office of bestowing reward he busies himself. And as to the first part it is clear from the fact that anything acquired by the servant is acquired likewise by his lord; therefore ministering to the servant he ministers, as such, to the Lord as well. Hence the Apostle…, by exhorting the servants faithfully to serve the temporal lords, he adds the reason: “Serving as to the Lord and not to men, knowing that whatsoever good anyone shall do, this he shall receive from God”;<ref target="n101">101</ref> from this the whole argument is clear. Thirdly, it is supposed that the creatures dispensing God’s temporal goods lack that mutual spiritual aid of brethren welding together the Church Militant. This is evident from the communion of the members of the Church by which they mutually help one another in acquiring merit, just as the faith confesses, and the Apostle teaches<ref target="n102">102</ref>.… It can be demonstrated to anyone not shameless who admits that the community of men is helped or hindered by each of its parts, as the parts of the human body unite that the whole may be perfect.</p>
+
+<p>(5)	Assuming this, it is said that the creature is lord of that which he possesses as it were imperfectly, because he has [his possession] out of the pure grace of the supreme Lord; thus proportionately he can give [only] improperly, because never [can he do so] except by virtue of an antecedent gift of God; thus, as he happens to give justly or falsely so can he from his ministry, which is entirely called a gift, acquire for himself vices or virtues, or merit or demerit, from the First Lord according as his service of stewardship is unfaithful or faithful. No other donation can the creature receive from God, howsoever the words and opinions of ignorant blind folk have been changed by pride. And hence in Holy Scripture which adapts the sign to correspond to truth, the act of human giving is expressed through the sign of communication, dispensation or of ministry. For doubtless any creature ministers dispensing whatsoever of merit or communicating the gifts of God far more distantly from donation, than does a steward of earthly lordship with a good mind distribute the goods which his earthly lord commands to be given, and less improperly with respect to that lord he gives these things. But if he bestows it with a bitter mind, or less improvidently, he sins less than a great earthly lord who improvidently dispenses his goods, because for many reasons the degree thereof is higher and the obligation stricter.</p>
+
+<p>(6)…</p>
+
+<p>(7)	The Apostle supports this entire doctrine,<ref target="n103">103</ref> it seems to me.… For he proves that it is permitted to preachers to take necessary pay from the church which they instruct, among other subtle arguments, this is one: “If we have sown unto you spiritual things, is it a great matter if we reap your carnal things?”<ref target="n104">104</ref> It is as if he were to argue, “Any good merchant ought to display temporal goods as the inferior, or spiritual goods, as the more desirable, to be acquired, and especially if they are the means necessary to the same.” So it is concerning the communication of temporal goods for the preachers of God’s word; therefore he who is set over temporal goods ought to minister in this wise; nor from this does he effect grace, when receiving he gives better for worse, and there is reciprocal need on both sides. From this it is clear that the riches of the world are more lacking to the poor than conversely, but far greater is the need of the goods of grace than of fortune. Here that point is hinted…, “You say I am rich and made wealthy, and have need of nothing; and you know not that you are wretched and miserable and poor and blind and naked”<ref target="n105">105</ref> –- wretched through the lack of grace, miserable through the imposition of penalty, poor in spiritual gifts, blind in discerning your own defects, and naked because you are deprived of virtues. Beyond this, the Apostle excludes grace from him who ministers spiritually: “If I preach the gospel, it is no glory to me; for a necessity lies upon me.”<ref target="n106">106</ref> It is as if he were saying, “There is no grace to be imputed to me from the gospel, since I am a hired minister receiving in advance the gifts, as an earnest of the reward for labor; for this reason grace ought to be referred to the Lord and not to me.” Hence he adds, “Woe to me if I do not preach the gospel.” It is as if he were saying, “Therefore I ought to minister to the higher Lord for pay, thus because I incur punishment if I should fail to do that, it is clear that grace ought not to be imputed to me. Because one can believe that, thus necessitated by God, he does not merit, by reason of debt and of grace received, he excludes this possibility, saying, “For if I do this thing willingly, I have a reward.”<ref target="n107">107</ref> And because thirdly it can be believed that if he were to preach with a corrupt intention, as for example principally on account of acquiring temporal goods, then his ministry would be in vain. This he excludes, saying, “But if against my will, a dispensation is committed to me.”  It is as if he were saying, “Yet if driven out of temporal advantage I preach with undue appetite, even though the eloquence of my preaching is credited to me by virtue of my office, yet is the office useful to the hearer; since the ministry of the sacraments it is not contaminated from the minister.”<ref target="n108">108</ref></p>
+
+<p>(8)	For I know that this point of view is mocked by politicians and worldly persons, since it strips lords of gracious remunerations. Likewise, when he confuses human acts concerned with the commutation of temporal goods, he does not distinguish between human granting and the repayment of a debt, accommodation, and any other sort of giving: this, without cause, would confuse the political sense. Likewise according to that not only would the pope not be able to bestow grace upon anyone through providing an ecclesiastical benefice, but no priest could function, absolve, baptize, or confer any sacrament.</p>
+
+<p>(9)	To the first objection it is replied that catholic truth ought not to be subverted because of secular lords and their improper manner of speaking. Hence it would be expedient for temporal lords to recognize that they do not exist except as ministers or bailliffs of the Lord,<ref target="n109">109</ref> so whatever they do they do in the name of the Lord their God, according to the teaching of the Apostle…, “Do all things unto the glory of God.”<ref target="n110">110</ref> But alas,… “All seek the things that are their own, not the things that are Jesus Christ’s.”<ref target="n111">111</ref> If therefore we were to hold this teaching before our eyes, then we would not vainly boast as if we had these things of ourselves; but with fear we would distribute the goods of the Lord only to those who were worthy of them, ascribing the honor to God, and not to ourselves, who are merely stewards<ref target="n112">112</ref> and servants useless to Him<ref target="n113">113</ref>….</p>
+
+<p>(10)	In reply to the second objection it is said that such human acts do not follow one another in turn, since no one grants or spends the Lord’s goods, unless he gives as he ought, and to those to whom they should be so given. For if out of excusable ignorance the liberal person fails in giving to the froward, still he ought to give to them, since by thus giving he gains merit; and as a consequence the gift of God ought to be given to them, although they ought not to receive it, as I ought to suffer unjust acts, but an executioner [<hi rend="italic">tortor</hi>] ought not to inflict that suffering, just in respect to me, and unjust in respect to himself.… Without confusion, at one and the same time, granting, repayment of debt, accommodation, and giving in the simple sense of the word are human acts, but with respect to various things and for differing reasons. Since according to the teaching of the Apostle… all things ought to be done “in the name of God,”<ref target="n114">114</ref> it is clear that, if they grant something, this ought to be ascribed to God’s granting, and as a consequence to accommodation and to other commutation graciously in God’s sight; nay, repayment ought to be spoken of as of God. But political theorists as well as princes of the world, so to speak communicate in their own name, taking over such terms into the realm of human law, so that the distinction of commutations takes on in human laws a different significance. For this reason Scripture calls such granting human <hi rend="italic">ministry</hi> or <hi rend="italic">communication</hi>; and thus anyone who ministers without debt is, according to human law, said “to grant” [<hi rend="italic">donare</hi>].</p>
+
+<ab>…</ab>
+</div1>
+</body>
+
+<back>
+
+<note xml:id="n001">1. The text used is that edited by R. L. Poole for the Wyclif Society (London, 1890), from which edition most of the footnotes to the present translation have been derived. Citations of this work by the original Latin title refer to sections not included in the present translation; citations of Wyclif, <hi rend="italic">On Divine Lordship</hi> are to the translation as printed. Frequent cross-references to the <hi rend="italic">De Civili Dominio</hi> will be noted; they are by volume in the edition of Poole and Loserth for the Wyclif Society, 4 vols. (London, 1885-1903).</note>
+
+<note xml:id="n002">2. For Marsiglio of Padua’s definition of <hi rend="italic">dominium</hi>, see <hi rend="italic">Defensor Pacis</hi>, II, 12, 13-16. Workman, <hi rend="italic">John Wyclif</hi>, I, 133, commenting on the supposed influence of Marsiglio on Wyclif, states: “The tenets of Marsiglio were worked out by Wyclif, without knowledge on his part he was but following in another’s footsteps, re-stating in a cloud of words theses that Marsiglio had enunciated fifty years previously.</note>
+
+<note xml:id="n003">3. Aristotle, <hi rend="italic">Categories</hi>, 7, p. 6b; <hi rend="italic">Metaphysics</hi>, IV, 4f, p. 1015.</note>
+
+<note xml:id="n004">4. Gen. 1:29f.</note>
+
+<note xml:id="n005">5. Gen. 1:26.</note>
+
+<note xml:id="n006">6. The power of using does not necessarily imply lordship. This was the contention of the spiritual Franciscans, which was resisted by pope John XXII in his bull of December 8, 1322, “Ad conditorem canonum,” <hi rend="italic">Extravagantes</hi>, XIV, 3, <hi rend="italic">Corpus Juris Canonici</hi>, II, 1225ff, ed. Friedberg. Compare the arguments in support of the Franciscan doctrine given by Marsiglio of Padua, <hi rend="italic">Defensor Pacis</hi>, II, 13, “De Statu iam dicte pauperitatis, quem evangelium perfeccionem dicere solent, et quod hunc Christus et ipsius apostoli servaverunt.”</note>
+
+<note xml:id="n007">7. Aristotle, <hi rend="italic">Politics</hi>, I, 1, p. 1252a.</note>
+
+<note xml:id="n008">8. Augustine, Epistles, CXXXVIII, 6, to Marcellinus, <hi rend="italic">PL</hi> 33:527.</note>
+
+<note xml:id="n009">9. Augustine, <hi rend="italic">De Genesi ad Litteram Libri XII</hi>, VIII, 26, 48, <hi rend="italic">PL</hi> 34:391.</note>
+
+<note xml:id="n010">10. Ps. 15:2.</note>
+
+<note xml:id="n011">11. From the <hi rend="italic">Gloria in Excelsis</hi> in the Missal.</note>
+
+<note xml:id="n012">12. Eph. 4:5.</note>
+
+<note xml:id="n013">13. I Cor. 8:6.</note>
+
+<note xml:id="n014">14. Richard Fitzralph, <hi rend="italic">De Pauperie Salvatoris</hi>, printed in Wyclif, <hi rend="italic">De Dominio Divino</hi>, 289f. On the circumstances of the writing of Fitzralph’s treatise, its contents, and Wyclif’s use of it, see Poole, Preface, <hi rend="italic">De Dominio Divino</hi>, xxxiv-xlvii. For an appreciation of Fitzralph’s influence on Wyclif, see Workman, <hi rend="italic">op. cit.</hi>, I, 131f.</note>
+
+<note xml:id="n015">15. Gen. 1:2, 31.</note>
+
+<note xml:id="n016">16. “Quelibet enim particularis creatura causando perficit universum, et ipsum universum reciproce finaliter causat quamlibet eius partem materialiter recausantem.”</note>
+
+<note xml:id="n017">17. Cf. <hi rend="italic">De Dominio Divino</hi>, 57, and the analogues collected by Peter Lombard, <hi rend="italic">Libri IV Sententiarum</hi>, I, 3, pp. 11f (Louvain, 1505); see also Dist. X, 35f. The general notion is taken from Augustine.</note>
+
+<note xml:id="n018">18. Wyclif refers to <hi rend="italic">Metaphysics</hi>, c. VII; reference should be to <hi rend="italic">Nicomachean Ethics</hi>, I, 7, p. 1098.</note>
+
+<note xml:id="n019">19. Baruch 3:33-36.</note>
+
+<note xml:id="n020">20. Aristotle, <hi rend="italic">Nicomachean Ethics</hi>, I, 7, p. 1098.</note>
+
+<note xml:id="n021">21. Aristotle, <hi rend="italic">De Anima</hi>, II, 4, p. 415.</note>
+
+<note xml:id="n022">22. Aristotle, <hi rend="italic">Nicomachean Ethics</hi>, V, 2, p. 1131a: “Voluntary transactions” include “sale, purchase, loan for consumption, pledging, loan for use, depositing, letting….” (Oxford translation).</note>
+
+<note xml:id="n023">23. Wyclif, <hi rend="italic">De Dominio Divino</hi>, 11ff. Poole suggests (<hi rend="italic">ibid.</hi>, 199n.): “But it is likely that a further treatment existed in some chapters of the lost part of the work.”</note>
+
+<note xml:id="n024">24. James 1:17.</note>
+
+<note xml:id="n025">25 James 1:5.</note>
+
+<note xml:id="n026">26. Matt. 7:11.</note>
+
+<note xml:id="n027">27. See <hi rend="italic">De Dominio Divino</hi>, 18, 22 23ff.</note>
+
+<note xml:id="n028">28. Cf. FitzRalph, <hi rend="italic">De Pauperie Salvatoris</hi>, I, 8, printed in Wyclif,<hi rend="italic"> De Dominio Divino</hi>, 291f.</note>
+
+<note xml:id="n029">29. Peter and Paul are Wyclif’s regular examples, like the “Caius” and “Balbus” of the grammarians. [<hi rend="italic">De Dominio Divino</hi>, 9n.]</note>
+
+<note xml:id="n030">30. Gen. 34:21.</note>
+
+<note xml:id="n031">31. Cf. Augustine, <hi rend="italic">De Civitate Dei</hi>, I, 14.</note>
+
+<note xml:id="n032">32. See <hi rend="italic">On Divine Lordship</hi>, I, c. 1, par. 3, above.</note>
+
+<note xml:id="n033">33. Cf. <hi rend="italic">De Civili Dominio</hi>, I, 44, 90.</note>
+
+<note xml:id="n034">34. Acts 8:18-20.</note>
+
+<note xml:id="n035">35. Lev. 25:23.</note>
+
+<note xml:id="n036">36. <hi rend="italic">De Civili Dominio</hi>, I, 64f.</note>
+
+<note xml:id="n037">37. <hi rend="italic">Ibid.</hi>, I, 39, 49.</note>
+
+<note xml:id="n038">38. <hi rend="italic">Ibid.</hi>, I, 141, 259.</note>
+
+<note xml:id="n039">39. I Tim. 6:17.</note>
+
+<note xml:id="n040">40. Cf. <hi rend="italic">De Civili Dominio</hi>, I, 7f.</note>
+
+<note xml:id="n041">41. Cf. <hi rend="italic">ibid.</hi>, I, 9, 41f.</note>
+
+<note xml:id="n042">42. Cf. <hi rend="italic">ibid.</hi>, I, 20.</note>
+
+<note xml:id="n043">43. Cf. <hi rend="italic">ibid.</hi>, I, 50.</note>
+
+<note xml:id="n044">44. Acts 17:28.</note>
+
+<note xml:id="n045">45. I John 4:13.</note>
+
+<note xml:id="n046">46. I John 3:1.</note>
+
+<note xml:id="n047">47. Rom. 8:32.</note>
+
+<note xml:id="n048">48. Matt. 16:26.</note>
+
+<note xml:id="n049">49. I Tim. 6:17; cf. <hi rend="italic">De Civili Dominio</hi>, I, 48.</note>
+
+<note xml:id="n050">50. Philemon 20; cf. FitzRalph, <hi rend="italic">De Pauperie Salvatoris</hi>, 412.</note>
+
+<note xml:id="n051">51. Cf. John 6:44.</note>
+
+<note xml:id="n052">52. Robert Grosseteste, <hi rend="italic">Dicta</hi>, XXVI, MS. Bodl. 830, f. 26B, C; cf. Wyclif, <hi rend="italic">De Civili Dominio</hi>, I, 40, where the passage is cited. On the <hi rend="italic">Dicta</hi>, see S. H. Thomson, <hi rend="italic">The Writings of Robert Grosseteste</hi> (Cambridge, 1940), 214-232. For note of <hi rend="italic">Dictum</hi> XXVI, see 219. For a study of Grosseteste’s influence on Wyclif see Loserth, <hi rend="italic">Johann von Wiclif und Robert Grosseteste</hi> (Vienna, 1918). Workman, <hi rend="italic">John Wyclif</hi>, I, 115, says of Wyclif’s debt to Grosseteste: “There is in fact no writer save St. Augustine to whose authority he more frequently appeals.” Cf. <hi rend="italic">De Dominio Divino</hi>, 236, where <hi rend="italic">Dictum</hi> CXXXIV is referred to.</note>
+
+<note xml:id="n053">53. Cf. <hi rend="italic">De Civili Dominio</hi>, I, 45.</note>
+
+<note xml:id="n054">54. Gal. 1:4.</note>
+
+<note xml:id="n055">55. Titus 3:6 (?); Phil. 1:19 (?).</note>
+
+<note xml:id="n056">56. E.g., John 15:26; Acts 2:17.</note>
+
+<note xml:id="n057">57. <hi rend="italic">De Civili Dominio</hi>, I, 50.</note>
+
+<note xml:id="n058">58. Aristotle, <hi rend="italic">Physics</hi>, IV, 3, p. 210.</note>
+
+<note xml:id="n059">59. John 1:3f.</note>
+
+<note xml:id="n060">60. Cf. <hi rend="italic">De Dominio Divino</hi>, 61n.</note>
+
+<note xml:id="n061">61. Cf. <hi rend="italic">De Civili Dominio</hi>, I, 47ff, <hi rend="italic">passim</hi>.</note>
+
+<note xml:id="n062">62. Rom. 8:17.</note>
+
+<note xml:id="n063">63. See <hi rend="italic">On Divine Lordship</hi>, III, c. 2, par. 1, above.</note>
+
+<note xml:id="n064">64. Luke 6:38.</note>
+
+<note xml:id="n065">65. Deut. 32:3f.</note>
+
+<note xml:id="n066">66. Aristotle, <hi rend="italic">Nicomachean Ethics</hi>, IV, 2, p. 1122.</note>
+
+<note xml:id="n067">67. Gen. 2:1.</note>
+
+<note xml:id="n068">68. <hi rend="italic">On Divine Lordship</hi>, I, c. 5, par. 3f.</note>
+
+<note xml:id="n069">69. Ps. 18:8.</note>
+
+<note xml:id="n070">70. II Cor. 9:10.</note>
+
+<note xml:id="n071">71. I Tim. 6:17.</note>
+
+<note xml:id="n072">72. <hi rend="italic">De Dominio Divino</hi>, 116.</note>
+
+<note xml:id="n073">73. Luke 21:36.</note>
+
+<note xml:id="n074">74. Col. 1:12.</note>
+
+<note xml:id="n075">75. Rev. 3:4.</note>
+
+<note xml:id="n076">76. Rom. 1:32.</note>
+
+<note xml:id="n077">77. Rom. 8:18.</note>
+
+<note xml:id="n078">78. <hi rend="italic">Valde</hi> (for <hi rend="italic">vere</hi>) <hi rend="italic">dignum et iustum</hi>, cited from the canon of the mass.</note>
+
+<note xml:id="n079">79. I Cor. 4:7.</note>
+
+<note xml:id="n080">80. Heb. 13:16.</note>
+
+<note xml:id="n081">81. Aristotle, <hi rend="italic">Categories</hi>, 12, p. 14.</note>
+
+<note xml:id="n082">82. II Tim. 2:3-5.</note>
+
+<note xml:id="n083">83. I Cor. 3:8.</note>
+
+<note xml:id="n084">84. I Cor. 9:24f.</note>
+
+<note xml:id="n085">85. II Tim. 4:7f.</note>
+
+<note xml:id="n086">86. “Per modum arralis comercii.” Cf. APPAB&#937;N, II Cor. 11:22; 5:5; Eph. 1:14.</note>
+
+<note xml:id="n087">87. <hi rend="italic">Baptismo Flaminis</hi>. See Deferrari, Barry, and McGuiness, <hi rend="italic">A Lexicon of St. Thomas Aquinas</hi>, 429: “<hi rend="italic">Baptism of the Holy Spirit</hi> or <hi rend="italic">baptism of desire</hi>,…a phrase employed in the third century by the anonymous author of the book, “De rebaptismate,” and is defined as a movement of the Holy Spirit which produces in the soul faith, charity, and sorrow, in consequence of which there arises an implicit desire to receive the sacrament of baptism.”</note>
+
+<note xml:id="n088">88. Job 14:5.</note>
+
+<note xml:id="n089">89. Luke 11:5-8.</note>
+
+<note xml:id="n090">90. Ps. 111:5; cf. 36:26, which Wyclif cites.</note>
+
+<note xml:id="n091">91. Deut. 15:2.</note>
+
+<note xml:id="n092">92. See <hi rend="italic">On Divine Lordship</hi>, III, c. 4, par. 5.</note>
+
+<note xml:id="n093">93. II Cor. 9:7.</note>
+
+<note xml:id="n094">94. Matt. 10:8.</note>
+
+<note xml:id="n095">95. I Cor. 16:2.</note>
+
+<note xml:id="n096">96. Often in the <hi rend="italic">De Civili Dominio</hi>, e.g., I, 75, 134, 253.</note>
+
+<note xml:id="n097">97. I Cor. 4:1.</note>
+
+<note xml:id="n098">98. I Cor. 3:4f.</note>
+
+<note xml:id="n099">99. See <hi rend="italic">De Dominio Divino</hi>, 220f.</note>
+
+<note xml:id="n100">100. See <hi rend="italic">On Divine Lordship</hi>, I, c. 3, pars. 2ff.</note>
+
+<note xml:id="n101">101. Eph. 6:7.</note>
+
+<note xml:id="n102">102. Rom. 12:10ff; I Cor. 12.</note>
+
+<note xml:id="n103">103. I Cor. 9.</note>
+
+<note xml:id="n104">104. I Cor. 9:11.</note>
+
+<note xml:id="n105">105. Rev. 3:17.</note>
+
+<note xml:id="n106">106. I Cor. 9:16.</note>
+
+<note xml:id="n107">107. I Cor. 9:17.</note>
+
+<note xml:id="n108">108. Cf. <hi rend="italic">De Civili Dominio</hi>, I, 24.</note>
+
+<note xml:id="n109">109. <hi rend="italic">Ibid.</hi>, I, 134; <hi rend="italic">Sermons</hi>, IV, 38, 318.</note>
+
+<note xml:id="n110">110. I Cor. 10:31.</note>
+
+<note xml:id="n111">111. Phil. 2:21.</note>
+
+<note xml:id="n112">112. Luke 17:10.</note>
+
+<note xml:id="n113">113. <hi rend="italic">De Civili Dominio</hi>, III, c. 7.</note>
+
+<note xml:id="n114">114. Col. 3:17.</note>
+
+
+</back>
+
+</text>
+</TEI>

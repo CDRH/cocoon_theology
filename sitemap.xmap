@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+
+<map:sitemap xmlns:map="http://apache.org/cocoon/sitemap/1.0">
+     <!--+ THIS IS THE WYCLIF SITEMAP -->
+    <map:components>
+        <map:generators default="file"/>
+        <map:transformers default="xslt"/>
+        <map:serializers default="xhtmlutf8">
+            <map:serializer logger="sitemap.serializer.xhtml" mime-type="text/html" name="xhtmlutf8" pool-grow="2" pool-max="64" pool-min="2" src="org.apache.cocoon.serialization.XMLSerializer">
+                <doctype-public>-//W3C//DTD XHTML 1.0 Transitional//EN</doctype-public>
+                <doctype-system>http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd</doctype-system>
+                <encoding>US-ASCII</encoding>
+                <omit-xml-declaration>yes</omit-xml-declaration>
+                <indent>yes</indent>
+            </map:serializer>
+        </map:serializers>
+        <map:selectors default="browser"/>
+        
+        <map:matchers default="wildcard"/>
+
+    </map:components>
+    
+    <map:pipelines>
+        <map:pipeline>
+            
+            <map:match pattern="">
+                <map:read mime-type="text/html" src="index.html" type="resource"/>
+            </map:match>
+            
+            <map:match pattern="index.html">
+                <map:read mime-type="text/html" src="index.html" type="resource"/>
+            </map:match>
+            
+            <map:match pattern="^(index.html)?$" type="regexp">
+                <map:read mime-type="text/html" src="index.html" type="resource"/>
+            </map:match>
+               
+               
+               
+            <map:match pattern="theo.dps.005.html">
+                <map:generate src="xml/theo.dps.005.xml" />
+                <map:transform src="xsl/theo.tei.p5.xsl" />
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            <map:match pattern="theo.postilla.*.html">
+                <map:generate src="xml/theo.postilla.{1}.xml" />
+                <map:transform src="xsl/theo.tei.p5.xsl" />
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            <map:match pattern="theo.lordship.html">
+                <map:generate src="xml/theo.lordship.xml" />
+                <map:transform src="xsl/theo.tei.p5.xsl" />
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            
+            <map:match pattern="*.p5.html">
+                <map:generate src="xml/{1}.xml" />
+                <map:transform src="xsl/theo.tei.p5.xsl" />
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            <map:match pattern="*.html">
+                <map:generate src="xml/{1}.xml" />
+                <map:transform src="xsl/theo.tei.xsl" />
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            <map:match pattern="*">
+                <map:generate src="xml/{1}.xml" />
+                <map:transform src="xsl/theo.tei.xsl" />
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
+            
+            <map:match pattern="css/**">
+                <map:read src="css/{1}"/>
+            </map:match>
+            <map:match pattern="js/**">
+                <map:read src="js/{1}"/>
+            </map:match>
+            
+            <map:match pattern="images/**">
+                <map:read src="images/{1}"/>
+            </map:match>
+            
+            <map:match pattern="images/**">
+                <map:read src="images/j{1}"/>
+            </map:match>
+            
+<!--            <map:match pattern="images/figures/**">
+                <map:read src="images/figures/{1}"/>
+            </map:match>-->
+
+
+        </map:pipeline>
+    </map:pipelines>
+    </map:sitemap>

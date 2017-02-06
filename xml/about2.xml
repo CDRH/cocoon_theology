@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Late Medieval Theology</title>
+      <author>Stephen Lahey</author>
+      <respStmt>
+        <resp>Text encoding by</resp>
+        <name>Laura Weakly, University of Nebraska-Lincoln</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>University of Nebraska-Lincoln</publisher>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Original.</p>
+    </sourceDesc> 
+ </fileDesc>
+
+
+
+        <revisionDesc>
+            <change> <date when="2010-03-29" />  <name>Laura Weakly</name> Initial encoding</change>
+        </revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+
+<list>
+<head>Project Director:</head>
+<item>Stephen E. Lahey</item>
+</list>
+
+<list>
+<head>CDRH Project Team:</head>
+<item>Brent Baum</item>
+<item>Karin Dalziel</item>
+<item>Brian Pytlik Zillig</item>
+<item>Katherine Walter</item>
+<item>Laura Weakly</item>
+</list>
+
+<list>
+<head>Student Contributors:</head>
+<item>Becky Aiken</item>
+<item>Michael Carl</item>
+<item>Kyle Drake</item>
+<item>Jeff Godfrey</item>
+<item>Vicki Martin</item>
+<item>Katie Sisneros</item>
+<item>Josh Withrow</item>
+</list>
+
+<p>Questions about the content of Fourteenth-Century Oxford Theology should be directed to:<lb/>
+Stephen E. Lahey<lb/>
+Department of Classics and Religious Studies<lb/>
+232 Andrews Hall<lb/>
+University of Nebraska<lb/>
+Lincoln, NE 68588-0337</p>
+
+<p>Questions about the web design or usability should be directed to:<lb/>
+Center for Digital Research in the Humanities<lb/>
+University of Nebraska-Lincoln <lb/>
+319 Love Library <lb/>
+P.O. Box 884100 <lb/>
+Lincoln NE, 68588-4100<lb/>
+cdrh@unl.edu</p>
+
+
+
+
+
+</body>
+</text>
+</TEI.2>

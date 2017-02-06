@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="theo.tei.P5.xsl" type="text/xsl"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"type="xml"?>
+
+<TEI xml:id="theo.postilla.001" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="en">Postilla or Explanation of Sunday's Readings</title>
+<title xml:lang="cs">Postilla nebo vylo&#382;enie svat&#253;ch &#269;teni ned&#277;lnich</title>
+<author n="Hus, Jan, 1369?-1415">Jan Hus</author>
+<respStmt>
+<resp>Project Director</resp>
+<name n="Lahey, Stephen E.">Stephen Lahey</name>
+</respStmt>
+<respStmt>
+<resp>Scanning by</resp>
+<name>Peterson Brink, University of Nebraska-Lincoln</name>
+<name>Laura Weakly, University of Nebraska-Lincoln</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno></idno>
+<availability><p></p></availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<author n="Hus, Jan, 1369?-1415">Jan Hus</author>
+<title xml:lang="en">Postilla or Explanation of Sunday's Readings</title>
+<title xml:lang="cs">Postilla nebo vylo&#382;enie svat&#253;ch &#269;teni ned&#277;lnich</title>
+<publisher></publisher>
+<date when="1542">1542</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+</profileDesc>
+<revisionDesc>
+<change><date when="2011-11-01"/> <name>Brent Baum</name> Initial encoding</change>
+<change><date when="2011-11-01"/> <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+
+
+</teiHeader>
+
+
+<text>
+<body>
+<head>Postilla or Explanation of Sunday's Readings</head>
+
+<div1 type="introduction">
+<p>While his Postilla is not the most voluminous of Master Johannes Hus’s works, it illustrates very well Hus’s life and thought, which is of central importance for all Hussite literature, both Bohemian and Latin. It follows the form of traditional preaching of the period: a single selection or extract of the Bible is given along with some explanation of vocabulary, following which there is exposition on matters of the faith, chiefly addressing matters of the moral life. An extreme adoration for Jesus Christ as sent to save mankind is presented.  According to Hus’s powerful interpretations of biblical parables, the life of man should be turned towards the law of Christ, through the natural truth that flows from faith, supported by teachings foreign to man’s morality, and thus, be restored. In this work Hus powerfully instills in men respect for a regimen of good works, which has been ordained by God and made possible by Christ, who casting aside His deity was made like us in human form.</p>
+
+<p>The Postilla is the source through which Hus arrives at opinions that he discovered repeatedly in the works of the Evangelical Doctor, John Wyclif. These teachings present a broad and deep erudition, opinions, and arguments that had been pursued through recourse to the writings of the most celebrated of all the approved authorities, who resorted either to Biblical illustrations or to scholastic reasoning and scientific theology in their thought.</p>
+	
+<p>Hus wrote no other body of sermons or “postilla” in Czech. There are many sermons in it containing material that translated from the Latin sermons that he presents in the “Sunday Postilla” in a sharper form, either because Hus as true and suitable preacher preached them from the pulpit of Bethlehem chapel, or because he had arrived at in painstaking reading. The result is a unified Postilla, not redacted from sermons written at various times, but an integrated work of literature. It was copied as an integrated work in the Sixteenth Century, and recited and understood as one also. Only three chapters have been brought from elsewhere: the Sermon on the Feast of the Trinity, which Sunday serves as the center to the liturgical year, giving it a particular importance, and two sermons for the dedication of a church, which are at the end of the book, outside of the ordained Sundays of the ecclesiastical year. Hus wrote his Czech Postilla outside of Prague, when he had been compelled to leave the city and travel eventually to the castle Koz&#237; prope Sezimovo Usti, where he was on the Feast of Simon and Jude, on October 27, 1413.</p>
+	
+<p>The particular volume presented on this site is the &#352;t&#277;p&#225;n Family Bible, printed in 1542 in Czech using the German script of the day. The book was in great danger during the 30 Years War (1618-48) as the Archbishop of Praha and his Holy League, backed by King Ferdinand II, sought to destroy Protestant literature and the independence of the Protestant nobles of Bohemia. During the war, this volume was hidden in an unused chimney, buried underground, and once wrapped in bread dough and hidden in a hot oven. It passed from oldest son to oldest son from then until 1959, and has since has been preserved by other descendants.  In 2002, they formed the Josef &#352;t&#277;p&#225;n Family Foundation.  Through the Foundation’s kind auspices, the Postilla has now been made available to the larger scholarly world.</p>
+
+<p>All pages of the Postilla were digitized, but 15 pages without text at the beginning of the book have been omitted. Page fragments have been inserted in the place they were physically located in the Postilla. Patches can be seen on several pages.</p>
+
+<p>Introduction from <hi rend="italic">&#269;esk&#225; ned&#277;ln&#237; postila, Magistri Iohannis Hus Opera Omnia Tomus II Postilla de Tempore Bohemica</hi>, Prague, 1992, edited by Ji&#345;i Da&#328;helka, and, from the <hi rend="italic">&#352;t&#277;p&#225;n Family Bible</hi> by L. Joe Stehlik, The Josef &#352;t&#277;p&#225;n Family Foundation, Pawnee City Nebraska, and Robert D. Neve, Bellevue University.</p>
+</div1>
+
+
+
+</body>
+
+<back>
+<div1 type="bibliography">
+
+<head>Jan Hus, Czech <hi rend="italic">Postilla</hi> published editions</head>
+
+<bibl>K.J.Erben, ed., <hi rend="italic">Mistra Jana Husi Sebran&#233; &#269;esk&#233; 2 Postilla</hi> Prague 1866</bibl>
+
+<bibl>A.Patera, ed., <hi rend="italic">Mistra Jana Husi &#269;esk&#225; k&#225;z&#225;n&#237; na posv&#277;cenie kostela</hi> [Czech homilies for the holy chapel] <hi rend="italic">a na sv. Trojici, V&#277;stn&#237;k Kr&#225;lovsk&#233; &#269;esk&#233; spole&#269;nosti nauk = t&#345;&#237;da filosoficko historicko filogick&#225;</hi> Prague 1891</bibl>
+
+<bibl>V.Flaj&#353;hans, ed.  <hi rend="italic">Mistra Jana Husi Sebran&#233; Spisy, Svazek VI   Postilla v Novou &#269;e&#353;tinu</hi> Prague, 1900  (amended: translated into modern czech)</bibl>
+
+<bibl>Fr. Zilka, <hi rend="italic">Vybran&#233; spisy M.Jana Husi 3 Postilla</hi> Jilemnice s.a. asi r. 1906 upravov&#225;no (edition of about 1906)</bibl>
+
+<bibl>V.Flaj&#353;hans, ed., <hi rend="italic">Mistra J.Hus Postilla vyd.&#277; Sebran&#233; spisy sv.6, spisy &#269;esk&#233; sv.3</hi> Prague  along with K.Groha, 1908, amended, translated into modern czech</bibl>
+
+<bibl>J.B.Jeschke <hi rend="italic">Mistr Jan Hus, Postilla Vylo&#382;enie svat&#253;ch &#269;teni ned&#277;ln&#237;ch (Postilla for ordinary time Sundays</hi>) released along with Erbenova, Spisy Komensk&#233;ho evangelick&#233; fakulty bohosloveck&#233;, &#345;ada 5, sv.20 Prague 1952</bibl>
+
+<bibl>Ji&#345;&#237; Danhelka, ed., <hi rend="italic">Mistr Jan Hus &#269;esk&#225; ned&#277;ln&#237; Postila vylo&#382;enie svat&#253;ch &#269;ten&#237; ned&#277;ln&#237;ch</hi> (Postilla for ordinary time Sundays) <hi rend="italic">Magistri Iohannis Hus Opera Omnia Tomus II Postilla de Tempore Bohemica</hi> Academia, Prague 1952</bibl>
+
+</div1>
+</back>
+</text>
+</TEI>
+

@@ -1,0 +1,20 @@
+body {background: #fbf6ee; font-family: "Times New Roman", Times, serif; font-size: 1.1em; color: #292827; padding-bottom: 400px;}
+img {border: none;}
+div.main {margin-left: 190px; margin-right: 100px;}
+div.body {margin-left: 140; margin-right: 140px;}
+span.pageImage { position: relative; float: left;}
+span.pageImage a {display: block; position: absolute; left: -120px;  }
+span.pageImage img {border: solid 5px #4d4831; border-width: 4px 4px 5px 4px;}
+div.speakerSection p {text-indent: 0px}
+div.speakerSection p.speaker {float: left; padding: 0px; margin: 0px; margin-right: 10px; text-indent: 20px}
+h1, h2, h3 {text-align: center; font-family: Georgia, "Times New Roman", Times, serif; font-weight: normal;}
+h1 {font-size: 2.7em; line-height: 1.3em; padding: 0px; margin: 30px 10px 50px 10px;}
+h1.sub {font-size: 2em; margin-top: -50px;}
+h2 {font-size: 2em; margin-top: 50px; line-height: 1.4em;}
+h3 {font-size: 1.3em; font-weight: bold; margin-top: 40px; line-height: 1.4em;}
+p {line-height: 1.5em; text-indent: 20px;}
+ul {line-height: 1.5em; margin: 0px; padding: 0px; list-style: none;}
+li { margin-left: 20px; text-indent: -20px;}
+a:link {color: #b02600}
+a:visited{color: #652311}
+a:hover {color: black}

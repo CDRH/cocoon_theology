@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Late Medieval Theology</title>
+      <author>Stephen Lahey</author>	
+      <respStmt>
+        <resp>Text encoding by</resp>
+        <name>Laura Weakly, University of Nebraska-Lincoln</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>University of Nebraska-Lincoln</publisher>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Original.</p>
+    </sourceDesc> 
+ </fileDesc>
+
+
+        <revisionDesc>
+            <change> <date when="2010-03-29" />  <name>Laura Weakly</name> Initial encoding</change>
+        </revisionDesc>
+
+</teiHeader>
+<text>
+<body>
+<p>Fourteenth-century English philosopher and theologian John Wyclif has long been recognized as a figure of pivotal importance for understanding later medieval Europe. His thought ignited both the English lay piety movement known as Lollardy and the Czech religious reform movement of Jan Hus. In 2004, Stephen Lahey, University of Nebraska&#8211;Lincoln Assistant Professor of Classics and Religious Studies, and the Center for Digital Research in the Humanities began contributing to <hi rend="italic">The Latin Works of John Wyclif</hi>, a project under the direction of Penn Szittya of Georgetown University. Four Wyclif Society works digitized and encoded by the CDRH now appear on the <ref target="http://www9.georgetown.edu/faculty/szittyap/wyclif/index.html">Georgetown site</ref>: <hi rend="italic">De Benedicta Incarnatione</hi> (v. 6, 1886); <hi rend="italic">De Civili Dominio</hi> (v. 2, 1904); <hi rend="italic">De Composicione Hominis</hi> (1887); and <hi rend="italic">De Dominio Divino</hi>/<hi rend="italic">De Pauperie Salvatoris</hi> (v. 10, 1890). </p>
+
+<p>In order to make a unique contribution outside of the scope of the Georgetown project, Fourteenth-Century Oxford Theology seeks to expand the growing number of online texts to include volumes of Wyclif's published works that either precede the Society's efforts or were published after the Society ceased its efforts. In addition, other later medieval texts crucial to an understanding of the intersection of scholastic and reformative theology will be made available.  These will include Richard Fitzralph's <hi rend="italic">De Pauperie Salvatoris</hi>; Robert Holcot's <hi rend="italic">Commentary on the Book of Wisdom</hi>; Thomas Bradwardine's <hi rend="italic">De Causa Dei</hi>; and a number of works by Jan Hus.</p>
+
+
+
+</body>
+</text>
+</TEI.2>

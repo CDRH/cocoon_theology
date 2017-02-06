@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="theo.tei.P5.xsl" type="text/xsl"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"type="xml"?>
+
+<TEI xml:id="theo.postilla.001" xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title xml:lang="en">Postilla or Explanation of Sunday's Readings</title>
+<title xml:lang="cs">Postilla nebo vylo&#382;enie svat&#253;ch &#269;teni ned&#277;lnich</title>
+<author n="Hus, Jan, 1369?-1415">Jan Hus</author>
+<respStmt>
+<resp>Project Director</resp>
+<name n="Lahey, Stephen E.">Stephen Lahey</name>
+</respStmt>
+<respStmt>
+<resp>Scanning by</resp>
+<name>Peterson Brink, University of Nebraska-Lincoln</name>
+<name>Laura Weakly, University of Nebraska-Lincoln</name>
+</respStmt>
+</titleStmt>
+<publicationStmt>
+<publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+<pubPlace>Lincoln, Nebraska</pubPlace> 
+<address>
+<addrLine>319 Love Library</addrLine>
+<addrLine>University of Nebraska-Lincoln</addrLine>
+<addrLine>Lincoln, NE 68588-4100</addrLine>
+<addrLine>etcenter@unlnotes.unl.edu</addrLine>
+</address>
+<idno></idno>
+<availability><p></p></availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<author n="Hus, Jan, 1369?-1415">Jan Hus</author>
+<title xml:lang="en">Postilla or Explanation of Sunday's Readings</title>
+<title xml:lang="cs">Postilla nebo vylo&#382;enie svat&#253;ch &#269;teni ned&#277;lnich</title>
+<publisher></publisher>
+<date when="1542">1542</date>
+</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+</profileDesc>
+<revisionDesc>
+<change><date when="2011-11-01"/> <name>Brent Baum</name> Initial encoding</change>
+<change><date when="2011-11-01"/> <name>Laura Weakly</name> Initial encoding</change>
+</revisionDesc>
+
+
+</teiHeader>
+
+
+<text>
+<body>
+<head>Postilla or Explanation of Sunday's Readings</head>
+
+
+
+<div1 type="images">
+
+    <pb facs="theo.postilla.image00526" />
+    <pb facs="theo.postilla.image00527" />
+    <pb facs="theo.postilla.image00528" />
+    <pb facs="theo.postilla.image00529" />
+    <pb facs="theo.postilla.image00530" />
+    <pb facs="theo.postilla.image00531" />
+    <pb facs="theo.postilla.image00532" />
+    <pb facs="theo.postilla.image00533" />
+    <pb facs="theo.postilla.image00534" />
+    <pb facs="theo.postilla.image00535" />
+    <pb facs="theo.postilla.image00536" />
+    <pb facs="theo.postilla.image00537" />
+    <pb facs="theo.postilla.image00538" />
+    <pb facs="theo.postilla.image00539" />
+    <pb facs="theo.postilla.image00540" />
+    <pb facs="theo.postilla.image00541" />
+    <pb facs="theo.postilla.image00542" />
+    <pb facs="theo.postilla.image00543" />
+    <pb facs="theo.postilla.image00544" />
+    <pb facs="theo.postilla.image00545" />
+    <pb facs="theo.postilla.image00546" />
+    <pb facs="theo.postilla.image00547" />
+    <pb facs="theo.postilla.image00548" />
+    <pb facs="theo.postilla.image00549" />
+    <pb facs="theo.postilla.image00550" />
+    <pb facs="theo.postilla.image00551" />
+    <pb facs="theo.postilla.image00552" />
+    <pb facs="theo.postilla.image00553" />
+    <pb facs="theo.postilla.image00554" />
+    <pb facs="theo.postilla.image00555" />
+    <pb facs="theo.postilla.image00556" />
+    <pb facs="theo.postilla.image00557" />
+    <pb facs="theo.postilla.image00558" />
+    <pb facs="theo.postilla.image00559" />
+    <pb facs="theo.postilla.image00560" />
+    <pb facs="theo.postilla.image00561" />
+    <pb facs="theo.postilla.image00562" />
+    <pb facs="theo.postilla.image00563" />
+    <pb facs="theo.postilla.image00564" />
+    <pb facs="theo.postilla.image00565" />
+    <pb facs="theo.postilla.image00566" />
+    <pb facs="theo.postilla.image00567" />
+    <pb facs="theo.postilla.image00568" />
+    <pb facs="theo.postilla.image00569" />
+    <pb facs="theo.postilla.image00570" />
+    <pb facs="theo.postilla.image00571" />
+    <pb facs="theo.postilla.image00572" />
+    <pb facs="theo.postilla.image00573" />
+    <pb facs="theo.postilla.image00574" />
+    <pb facs="theo.postilla.image00575" />
+    <pb facs="theo.postilla.image00576" />
+    <pb facs="theo.postilla.image00577" />
+    <pb facs="theo.postilla.image00578" />
+    <pb facs="theo.postilla.image00579" />
+    <pb facs="theo.postilla.image00580" />
+    <pb facs="theo.postilla.image00581" />
+    <pb facs="theo.postilla.image00582" />
+    <pb facs="theo.postilla.image00583" />
+    <pb facs="theo.postilla.image00584" />
+    <pb facs="theo.postilla.image00585" />
+    <pb facs="theo.postilla.image00586" />
+    <pb facs="theo.postilla.image00587" />
+    <pb facs="theo.postilla.image00588" />
+    <pb facs="theo.postilla.image00589" />
+    <pb facs="theo.postilla.image00590" />
+    <pb facs="theo.postilla.image00591" />
+    <pb facs="theo.postilla.image00592" />
+    <pb facs="theo.postilla.image00593" />
+    <pb facs="theo.postilla.image00594" />
+    <pb facs="theo.postilla.image00595" />
+    <pb facs="theo.postilla.image00596" />
+    <pb facs="theo.postilla.image00597" />
+    <pb facs="theo.postilla.image00598" />
+    <pb facs="theo.postilla.image00599" />
+    <pb facs="theo.postilla.image00600" />
+
+</div1>
+
+</body>
+
+<back>
+<div1 type="navigation">
+
+<ab><ref type="link" target="theo.postilla.001">Home</ref></ab>
+<ab><ref type="link" target="theo.postilla.007">Previous</ref></ab>
+<ab><ref type="link" target="theo.postilla.009">Next</ref></ab>
+
+</div1>
+</back>
+</text>
+</TEI>
+

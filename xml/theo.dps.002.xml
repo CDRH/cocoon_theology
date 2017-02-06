@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="theo.tei.P5.xsl" type="text/xsl"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI xml:id="theo.dps.002" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title level="m" type="main">De Pauperie Salvatoris</title>
+        <title level="m" type="sub">Libri I II III IIII</title>
+        <author n="FitzRalph, Richard, d. 1360" sameAs="#RF1" key="RF">Richard FitzRalph</author>
+        <author n="FitzRalph, Richard, d. 1360" sameAs="#RF" key="RF1">Ricardi Filii Radulphi</author>
+                <respStmt>
+                    <resp>Project Director</resp>
+                    <name n="Lahey, Stephen E.">Stephen Lahey</name>
+                </respStmt>
+        <respStmt>
+          <resp>Text scanning and OCR by</resp>
+          <name>Kyle Drake, University of Nebraska-Lincoln</name>
+        </respStmt>
+        <respStmt>
+          <resp>Text encoding by</resp>
+          <name n="Weakly, Laura Smith">Laura Weakly, University of Nebraska-Lincoln</name>
+        </respStmt>
+	<respStmt>
+	   <resp>Text encoding by</resp>
+	   <name>Jaclyn Cruikshank Vogt, University of Nebraska-Lincoln</name>
+	   </respStmt>
+      </titleStmt>
+            <publicationStmt>
+                <publisher>University of Nebraska Libraries&amp;#8211;Center for Digital Research in the Humanities</publisher>
+                <pubPlace>Lincoln, Nebraska</pubPlace> 
+                <address>
+                    <addrLine>319 Love Library</addrLine>
+                    <addrLine>University of Nebraska-Lincoln</addrLine>
+                    <addrLine>Lincoln, NE 68588-4100</addrLine>
+                    <addrLine>etcenter@unlnotes.unl.edu</addrLine>
+                </address>
+                <idno type="ISBN"></idno>
+                <availability><p><!-- ? (copyright) --></p></availability>
+            </publicationStmt>
+      <sourceDesc>
+<bibl>
+<author n="FitzRalph, Richard, d. 1360">Richard FitzRalph</author>
+<title level="m">De Pauperie Salvatoris</title>
+<title level="m" type="sub">Libri I II III IIII</title>
+  <note>Originally published as an Appendix to De Dominio Divino Libri Tres</note>
+<publisher>Published for the Wyclif Society by Trubner &amp; Co.</publisher>
+<date when="1890">1890</date>
+</bibl>
+      </sourceDesc>
+    </fileDesc>
+<profileDesc>
+<!-- <handList>
+<hand scribe="Richardus" xml:id="ric"/>
+<hand scribe="Iohannes" xml:id="ioh"/>
+</handList> -->
+</profileDesc>
+    <revisionDesc>
+              <change>
+        <date when="2010-09-23"/>
+        <name>Laura Weakly</name> Initial encoding</change>
+    </revisionDesc>
+
+
+  </teiHeader>
+
+
+    <text>
+<body>
+
+<pb xml:id="dps.liber2.Image072" n="unnumbered" />
+
+<div1>
+
+<head>LIBER SECUNDUS.</head>
+<!-- 
+<pb xml:id="dps.liber2.Image072" n="332" />
+-->
+<div2>
+
+<p rend="center"><hi rend="italic">Incipit liber secundus de humano originali dominio, ipsum describens et partem descripcionis illius declarans.</hi></p>
+
+<p>1. PRIMUM capitulum, ostenso humano originali dominio, probat illud non esse vere dominium, set amplius a dominio vero distare quam ius aliquod rebus utendi  distat ab humano sive Ade dominio.</p>
+<p>2. Secundum capitulum describit humanum originale dominium, quod soli racionali convenit  creature.</p>
+<p>3. Tercium capitulum declarat cur verbum <hi rend="italic">mortale</hi> ponitur in descripcione humani  dominii, ostendens hominem naturaliter fuisse mortalem, obiciens de libro<ref target="n0001">1</ref> Sapiencie, et dissolvens.</p>
+<p>4. Quartum capitulum patefacit cur verbum <hi rend="italic">auctoritas pocius</hi> quam <hi rend="italic">potestas</hi> ponitur  in descripcione dominii, obiciens de Actibus Apostolorum ac dissolvendo,  ostendens quod auctoritas non reperitur posita<ref target="n0002">2</ref> in Scriptura in malo peccati.</p>
+<p>5. Quintum capitulum declarat cur verbum <hi rend="italic">originale</hi> ponitur in descripcione dominii, et inquirendo ostendit quod Adam, cum solus erat, accepit a Deo mundi  inferioris dominium.</p>
+<p>6. Sextum capitulum conatur ex Scripturis et racione probare quod Adma fuit in gracia gratum faciente creatus, et quod dominium originale tam in Adam quam in<ref target="n0003">3</ref> posteris suis, tanquam causam eius formalem, graciam presupponit.</p>
+<p>7. Septimum capitulum id idem ostendit.</p>
+<p>8. Octavum capitulum probat id idem, concludens quod nullus antequam fuerit iustificatus per graciam, * recipit illud originale dominium.</p>
+<p>9. Nonum capitulum obiciendo atque solvendo ostendit Evam ad Ade progeniem pertinere; et consequenter affirmat Adam hoc dominium pro se et pro suis omnibus posteris accepisse, et quod ipsi, in instanti quo ei conformantur per graciam, primo  illud recipiunt.</p>
+<p>10. Decimum capitulum ostendit Dominum Iesum Christum, tanquam fratrem nostrum, in sua concepcione illud dominium accepisse, obiectum dissolvens pretendens<ref target="n0004">4</ref> illud in eo cassum fuisse, in quo ad omnem usum, sufficiebat sibi divinum dominium.</p>
+<p>11. Undecimum capitulum unica racione ostendit Adam peccando istud originale dominium perdidisse.</p>
+<p>12. Duodecimum capitulum obicit, et dissolvit qualiter perdidit virtutes et animam, et adicit  ad conclusionem priorem duas alias raciones, et multipliciter obicit et  dissolvit.</p>
+<p>13. Tercium decimum capitulum ad idem alias adicit quatuor raciones. </p>
+<p>14. Quartum decintum capitulum obicit de Christo, et solvit, ostendens ipsum non potuisse exheredari isto originali dominio, licet Adam suus<ref target="n0005">5</ref> primus progenitor, sicut pro ceteris, ita pro Christo illud acceperit.</p>
+<p>15.  Quintum decimum capitulum conatur ostendere  quod dominium ab Adam et eius uxore peccando amissum eis postea fuerit  restitutum.</p>
+<pb xml:id="dps.liber2.Image073" n="333" />
+<p>16. Sextum  decimum capitulum nititur affirmare quod gracia, quam nostri primi parentes peccando amiserant, fuit eis per penitenciam restituta.</p>
+  <p>17. Decimum septimum capitulum obicit contra illud ex mortalitate corporis et libertate minori, et solvit ostendens quod non obstantibus illis Adam et Eva et sui  posteri fuerunt ad totam graciam et totum dominium que perdiderant restituti,  licet non ad equalis exercicii facultatem.</p>
+<p>18. Decimum octavum capitulum, ostendens quem gradum nostri primi parentes in creacione receperunt, patefacit racionibus et Scriptura quod non variatur in variis propter accidencia mentis aut corporis.</p>
+<p>19. Decimum nonum capitulum, obiciens de facultate imperandi animantibus quam Adam accepit, dissolvendo ostendit non minus dominium suos posteros habuisse, licet exercicium pregravatum habuerint.</p>
+<p>20. Vicesimum capitulum inabdicabilitatem dominii originalis ostendit, obiciens de fatuo a natura, et solvens per exemplum de ebrio, cui ex digestione potus nova sciencia  non confertur, et contra solucionem obicit et dissolvit.</p>
+<p>21. Vicesimum primum capitulum, inabdicabilitatem predictam volens probare, ostendit quod gracia, mortalitas, et dominium respui non poterant ab homine cum dabantur.</p>
+<p>22. Vicesimum secundum capitulum ostendit quod, sicut nec gracia nec corporalis  mortalitas, sic nec dominium respui potuit a primo homine ne daretur, quia tunc  nichil haberi poterat nisi a Deo.</p>
+<p>23. Vicesimum tercium capitulum patefacit quod originale dominium in se minui omnino  non potest, set quod potest * quoad actum restringi.</p>
+<p>24. Vicesimum quartum capitulum obicit, et dissolvit, ostendens quod originale dominium in se propter  presidenciam non augetur, nec propter subieccionem minuitur; et obicit et dissolvit.</p>
+<p>25. Vicesimum quintum capitulum ostendit restriccionem usus utilem esse hominibus per leges positivas  originalis dominii restrictivas.</p>
+<p>26. Vicesimum sextum capitulum, ostendens quod presidencia non sit vocanda dominium, racione affirmat quod innocenter viventibus non fuit nec est necessarium humanum regale  dominium.</p>
+<p>27. Vicesimum septimum capitulum obicit contra precedens, et solvit, ostendens ex presidencia angelorum et ex varietate complexionis et varietate sciencie, quas varii  homines servantes innocenciam habuissent, quod aliqui aliis prefuissent.</p>
+<p>28. Vicesimum octavum capitulum obicit de confirmacione iusticie in Ade progenie, si ipse  innocenciam tenuisset; et ponit racionem probabilem, contra eam obiciens et  dissolvens.</p>
+<p>29. Vicesimum nonum capitulum ponit duas raciones alias contra racionem secundam, obiciens et dissolvens, ac probabili racione suadens quod, etsi Adam servasset iusticiam,  nichilominus sui posteri peccare potuissent.</p>
+<p>30. Tricesimum capitulum adhuc ex titulo presidencie et statu innocencie obicit, et suadere  nititur dominii originalis augmentum, et solvit, ostendens ipsum semper esse  equale in omnibus.</p>
+<p>31. Tricesimum primum capitulum obicit contra precedens ex iure seu dominio hereditario in  ultimo electorum, et solvit, ostendens racione et exemplo quod tale dominium  nec augere potest nec minuere originale dominium.</p>
+
+<pb xml:id="dps.liber2.Image074" n="334" />
+
+<p>32. Tricesimum secundum capitulum obicit contra equalitatem dominii originalis in omnibus, et ostendit esse probabile quod non obstante<ref target="n0006">6</ref> maiori usu rerum in uno quam in alio originale dominium in omnibus est equale: et sic finit librum secundum.</p>
+</div2>
+
+<div2>
+<head>I.</head>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Secundum dominium huic divino dominio proximum, de quo nobis est sermo,  videtur michi humanum dominium, de quo scribitur Gen. i. 25-30 isto modo: <hi rend="italic">Vidit Deus quod esset bonum. Et ait, Faciamus hominem ad ymaginem et similitudinem  nostram; et presit piscibus maris et volatilibus celi, et bestiis universe  terre, omnique reptili quod movetur super terram. Et creavit Deus hominem ad ymaginem et similitudinem suam: ad ymaginem Dei creavit illum; masculum et feminam creavit illos. Benedixitque Deus illis, et ait, Crescite et  multiplicamini, et replete terram et subicite eam</hi> (aut alias, <hi rend="italic">et  dominamini eius), et dominamini</hi><ref target="n0007">7</ref><hi rend="italic"> piscibus maris et volatilibus celi, et universis animantibus que moventur super terram. Dixitque Deus, Ecce dedi vobis omnem herbam afferentem semen super terram, et universa ligna que habent in semetipsis sementem generis * sui, ut sint vobis in escam; et cunctis animantibus terre, omnique volucri celi, et universis que moventur in terra in quibus est anima vivens, ut habeant ad  vescendum.</hi> In quo dicto apparet hominibus primis datum esse  dominium omnium terrenorum huiusmodi. Hoc enim apparet de piscibus, volatilibus, et aliis hic expressis ex illis verbis, <hi rend="italic">presit</hi> et <hi rend="italic">dominamini</hi> et <hi rend="italic">dedi vobis,</hi> que verba simile dominium eis collatum ostendunt.  Quicunque enim rem aliquam dat alteri absolute rei illius dominium non habenti,  ille dans dominum efficit donatarium, si ille donatarius sit capax dominii et acceptat:  set, quia Deus non poterat suum dominium a se rebus manentibus abdicare, quoniam ipsis manentibus non potest Deus non habere plenum ius seu plenam  auctoritatem in ipsas (sicuti in primo huius superius est suasum, quoniam nulla  causa divini dominii quam inibi expressisti, ut secundum te eloquar, potest competere cuiquam creature factibili, cum creare eo modo, conservare, vel eciam gubernare , exigat necessario potenciam infinitam<ref target="n0008">8</ref>), consequitur hoc secundum dominium longe esse inferioris gradus quam primum; immo, omnino non esse vere dominium, cum non sit nisi respectu rerum, quarum  verum dominium et plenum ius seu plena auctoritas residet penes Deum. Immo, si acute consideres, amplius est remotum  dominium Ade a vero dominio quam ius quantumcunque modicum ius habentis ad  usum rei sibi concesse in comparacione ad concedentis dominium; quoniam  quiscunque ius aliquod absolutum quantumcunque parvum habens ad usum rei pro tempore qualicunque, ipse ius habet aliquam utilitatem 
+
+<pb xml:id="dps.liber2.Image075" n="335" />
+
+sumendi de re in usum  sibi concessa, eciam si concedens noluerit: Adam vero, Deo nolente, ex quo Deus  super omnem creaturam habet auctoritatem plenissimam, nullam utilitatem de  aliqua creatura, immo, neque de se ipso, habere potuit aut debebat. Sicuti  insuper creacionis actus incomparabiliter omnem actum creature excedit, sic Creatoris super creaturam auctoritas omnem auctoritatem creature super  quamcunque rem in infinitum precellit, quoniam non magis actus actum quam  auctoritatem auctoritas antecellit. Pariter potest deduci ex sustentacione  rerum a Deo quod illa incomparabiliter in Deo maiorem auctoritatem et ius  amplius super quamcunque<ref target="n0009">9</ref> rem arguit, quam sit  super rem aliquam auctoritas creature. Sic de potencia gubernacionis divine  super res clare deducitur (iuxta probata superius) quod ipsum in infinitum  excedit naturaliter agentis potenciam in regendo. Cum igitur auctoritas seu ius  Ade super res in eius et suorum successorum usum creatas comparabilis sit  finite ad ius sive auctoritatem usum cum modico iure habentis, cum omne finitum  comparabile sit cuicunque finito; satis pafenter consequitur quod magis est  remotum dominium Ade super rebus a vero dominio quod soli Deo convenit, quam  ius talis hominis sit remotum ab Ade dominio: sic quod humanum dominium  nequaquam verum * aut vere dominium dici potest; set quilibet dominus  temporalis istarum rerum comparatus Deo et eius dominio usurarius et magis  proprie commoditarius<ref target="n0010">10</ref>, quia ad commodum eius  res sibi sunt date, vel verius ad modum (cum <hi rend="italic">commodum</hi> a <hi rend="italic">modo</hi> descendat), veraciter dici potest; licet potentes tyranni, verum Deum et omnipotentem  Dominum ignorantes, se veros et vere dominos mendaciter fecerint appellari, quorum votis quia poetarum et rethorum vanitas inservivit, grammaticam et  rethoricam huiusmodi dominorum falsorum intencionibus, voluntatibus, gestis,  actibus, et operibus conformando, usus communis obtinuit, et eciam apud  fideles optinet in presenti huiusmodi potentes in seculo, sive sint boni, sive sint mali, <hi rend="italic">dominos</hi> vocitare: set apud nos qui rerum radices debemus  inquirere minus pensandus est vanorum usus in verbis quam sensus. Constat ergo secure quod verum seu perfectum rerum dominium non habebat.</p></sp>
+</div2>
+
+<div2>
+<head>II</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Patenter hanc negativam cerno: iam  dominium illud quod Adam habuit michi describe.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Videtur ita posse describi, quod Ade dominium fuit racionalis creature mortale ius sive auctoritas originalis  possidendi naturaliter res sibi natura subiectas conformiter racioni, et eis plene utendi sive eas tractandi. Tu profer quid 
+
+<pb xml:id="dps.liber2.Image076" n="336" />
+
+contra tibi occurrit. Ne tamen in incerto vageris, ecce, sub verbo <hi rend="italic">utendi</hi> et verbo <hi rend="italic">tractandi</hi> (que duo pro eodem in presenti habeo) rerum consumpcionem, qualem efficit creatura, donacionem, vendicionem, permutacionem, locacionem, commodacionem,  deposicionem, pignoracionem, luicionem, revocacionem, defensionem,  multiplicacionem, conversionem, et quamcunque earum licitam sumpcionem, intelligo.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Dic michi primo cur verbum <hi rend="italic">racionalis creature</hi> in ista descripcione permittis.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Quia dominium soli racionali creature competit; <hi rend="italic">dominium</hi> enim a <hi rend="italic">domo</hi> dicitur, et a <hi rend="italic">domo dominus</hi> derivatur,  eo quod presit domui et domum gubernet seu regat (ut in primo huius dixi  superius): et ob hoc illi nature non competit, cui regimen sive gubernacio vel  presidencia convenire non potest. Item actus dominii (de quibus infra  tractabimus), scilicet donare, vendere, locare, et alii quam plures  irracionabilibus non possunt competere, licet rerum consumpcio aliqualis pro  sustentacione sue nature illis conveniat, et ob hoc principium illorum actuum,  scilicet, dominium, est ab irracionalibus penitus alienum: quod Scriptura  patenter nobis insinuat in verbis prefatis de Genese, <hi rend="italic">Ecce, dedi vobis omnem  herbam afferentem semen super terram, et universa ligna que habent in semet  ipsis sementem generis sui, ut sint vobis in escam, et cunctis animantibus  terre</hi><ref target="n0011">11</ref><hi rend="italic">;</hi> ubi ostendit dominium  rerum necessariarum animantibus non ipsis set hominibus pro ipsorum necessitate  * collatum, <hi rend="italic">Ecce, dedi vobis,</hi> etc., <hi rend="italic">ut sint vobis in escam et cunctis animantibus terre. </hi> Hoc idem ex prima ibidem scriptura planius innotescit: <hi rend="italic">Faciamus,</hi> inquit, <hi rend="italic">hominem ad ymaginem et similitudinem nostram, ut  presit piscibus maris</hi><ref target="n0012">12</ref><hi rend="italic">,</hi> etc.: ubi actui  presidencie rerum hic inferius creatarum virtus directiva premittitur; <hi rend="italic">ad  ymaginem,</hi> inquit, <hi rend="italic">et similitudinem,</hi> etc. Hoc eciam ex questionibus sequentibus innotescit.</p></sp>
+</div2>
+
+<div2>
+<head>III.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Interim istis contentor. Dic cur verbum <hi rend="italic">mortale</hi> est positum in descripcione premissa.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Ut constet quod  nec angelis bonis nec malis est a Deo huius mundi datum dominium; quoniam tam  boni quam mali angeli spiritus sunt non habentes corpora naturaliter eis unita:  alias enim hoc nomen <hi rend="italic">angelus</hi> non esset nomen suppositi set partis constituentis supposicionem sive personam, sicut anima racionalis est pars in humano supposito: et ob hoc angeli corporalium creaturarum obsequio sive  dominio quoad sustentacionem sue nature nec in presenti egent, nec in sua  origine eguerunt; homo vero sic erat creatus, quod pro sustentacione sue corpo-
+
+<pb xml:id="dps.liber2.Image077" n="337" />
+
+ralis nature corporalibus creaturis indiguit, quod ex suprapositis de Genese nobis claret, ubi exprimitur quod Deus dedit primis nostris parentibus <hi rend="italic">omnem herbam,</hi> etc., <hi rend="italic">ut essent eis in escam:</hi> et quia precepit Ade de omni ligno Paradisi, preterquam de ligno sciencie boni et mali, commedere; nutrimentum enim necessarium non est  nisi aut ad restauracionem deperditi aut ad caucionem perdendi, et utrumque infallibiliter arguit nutritam naturam posse per deperdicionem aut per  consumpcionem finem accipere, quod est mori in natura vitali. Item stomachus, intestina, vesica, guttur, et omnes porte corporis et meatus, qui propter recepcionem et egestionem alimentorum necessariorum ad vitam corporis  peragendam sunt a summo sapiente Artifice preparati, patenter ostendunt naturam hominis mortalem naturaliter sive ab origine extitisse. Incrementa insuper  filiorum per temporum intervalla, quos parvulos nasci oportuit propter  artitudinem materni meatus, mortalitatem natorum ostendit: quos eciam sue matres facere poterant ante ortum, non dubium, abortivos et natos statim poterant suffocasse per aquam et  consumpsisse per ignem, ferro eciam confodiendo aut a preruptis precipitando  aut lapidibus obruendo aut in locis humilibus deponendo aut aliis modis innumeris occidere potuissent. Unde ambigendum non estimo naturam hominis in sua origine fuisse mortalem: nec magis est ab unius summi Boni cultoribus hesitandum quin summe bonus summe potens ac summe sapiens Artifex huiusmodi  *creature omnia sibi sufficiencia ad peragendam suam vitam mortalem providit, sicuti et ceteris creaturis; cum propterea extet dictum, <hi rend="italic">Perfecti sunt celi et terra et omnis ornatus eorum</hi><ref target="n0013">13</ref><hi rend="italic">,</hi> quod insuper clarescet inferius: et propter hoc in descripcione dominii verbum <hi rend="italic">mortale</hi> adhibui<ref target="n0014">14</ref>, scilicet, quia illud  dominium solis mortalibus extat datum.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Non video me posse nisi improbe ista negare, set nichilominus habes (ut michi videtur) ostendere quomodo veraciter extat  dictum Sapiencie ii. 23, <hi rend="italic">Deus creavit hominem inexterminabilem.</hi></p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Scriptura ibidem id satis elucidat: sequitur enim, <hi rend="italic">Invidia enim dyaboli mors intravit in orbem terrarum</hi><ref target="n0015">15</ref><hi rend="italic">;</hi> quibus dictis in capitulo primo<ref target="n0016">16</ref> premittitur, <hi rend="italic">Deus mortem non fecit, nec letatur in perdicione  vivorum: creavit enim ut essent omnia, et sanabiles fecit naciones orbis terrarum;</hi> et pro causa ibi subiungitur, <hi rend="italic">Iusticia enim perpetua est et  immortalis, iniusticia autem mortis est acquisicio</hi><ref target="n0017">17</ref><hi rend="italic">.</hi> Ex quibus non solum nobis ostenditur qualiter Deus fecit hominem inexterminabilem, scilicet, potentem sine exterminacione sive morte in eternum vixisse; eo quod ipse Deus  mortem non fecit, set fecit in primo homine iusticiam, qua
+
+<pb xml:id="dps.liber2.Image078" n="338" />
+
+servata nunquam exterminatus fuisset: <hi rend="italic">Inmortalis est enim iusticia.</hi> Set eciam causam  mortis, non dico mortalitatis, tam propinquam quam remotam expressit, <hi rend="italic">Invidia,</hi> inquiens, <hi rend="italic">dyaboli mors intravit:</hi> ecce, causa mortis remota. <hi rend="italic">Iniusticia  autem est mortis acquisicio:</hi> ecce causa mortis propinquior. Et nichilominus  verbum <hi rend="italic">sanabiles</hi> aperte pretendit mortalitatem, cum sanabilitas non sit  nisi ubi prime extat mortalitas: qualiter vero homines fuissent sanabiles, ita  ut nunquam exterminati fuissent, nunquid per esum fructuum ligni vite semel  gestum an sepius iteratum, an per sola communia nutrimenta, an per utraque usitata,  non est nostrum in presenti discutere; set nobis ad presens debet sufficere firmum esse quod primus homo fuerat in sua creacione mortalis, ita ut propter  corporalem vital naturaliter transigendam deberet a suo summo bono et summo sapiente atque potente Artifice dominium competencium rerum sibi in suo ortu  accipere.</p></sp>
+</div2>
+
+<div2>
+<head>IV.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Attendo cur verbum <hi rend="italic">mortale</hi> est positum. Cur <hi rend="italic">auctoritatem seu ius</hi> ponis pocius quam <hi rend="italic">potestatem</hi> in  hac descripcione, non video.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Auctoritas seu ius soli racionali convenit creature; potestas sive facultas irracionabilibus competit ex sua institucione  primaria; quoniam iuxta supra posita<ref target="n0018">18</ref> verba de Genese, <hi rend="italic">Ut  sint vobis in escam, et cunctis animantibus</hi><ref target="n0019">19</ref><hi rend="italic">,</hi> animalia terre, ad confirmandum sue naturalis institucionis excursum ad consumendum res eis ad  hoc ab Auctore omnium* deputatis, suo naturali modo habent congenitum  irreprehensibilem facultatem: preter hoc quod ius sive auctoritas solum esse  videtur respectu illius quod non obviat racioni; non ita de potestate<ref target="n0020">20</ref> videtur, cum sit scriptum, <hi rend="italic">Qui potuit transgredi et non est transgressus, et facere mala et  non fecit</hi> Eccli. xxxi. 10; et Luc<ref target="n0021">21</ref>. xxii. 53, <hi rend="italic">Hec est  hora vestra et potestas tenebrarum:</hi> et 2 Cor. ix. 18, <hi rend="italic">Ut non abutar potestate mea in evangelio;</hi> et <hi rend="italic">Data est ei potestas sicut habent  scorpiones,</hi> Apoc. ix. 3: et multa alia sic in sacris litteris exprimuntur.  De auctoritate vero sive auctore seu iure, non recolo Scripturam affirmantem  quod simpliciter nominentur sive dicantur ad malum sive in malo peccati.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Paulus in Scriptura sacra, Act. xxv. 5, vocatus  est <hi rend="italic">auctor sedicionis secte Nazarenorum:</hi> sedicio autem (ut videtur) peccati malum inportat.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Non est hoc in Scriptura sive eius auctore  assertum: set est ab oratore Tertullio propalatum, cuius, sicuti et aliorum sue  condicionis artificum, erat officium pulcrificare mendacia; et a Scriptura et  suo auctore tantummodo recitatum. Verumptamen
+
+<pb xml:id="dps.liber2.Image079" n="339" />
+
+non fuit simpliciter sedicio ipsa  malum, set pocius tocius mundi salus; quoniam sectam Nazarenorum a Iesu  Nazareno sectam Christianorum appellat.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker>  <p>Cum orator, qui quoad verborum sensum imitandus videtur, ut auctor supponens  sedicionem illam continere peccatum, ex sedicione illa volens probare Paulum  hominem fuisse pestiferum, quod ibi ante de eo premiserat, <hi rend="italic">Invenimus,</hi> inquiens, <hi rend="italic">hunc hominem pestiferum,</hi> verbo illo nichilominus sic usus est, credi  debet (ut videtur) a nobis id proprie dictum esse.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Nec oratores nec rethores, qui ex artis sue condicione figurative, similitudinarie, enigmatice, et iuxta alios modos quos  colores rethoricos nominant, sepius eloquuntur, ut auctores sensuum verborum a  veritatis inquisitoribus seu sacre Scripture doctoribus sunt habendi; set magis  e contra, cum <hi rend="italic">Vani sint omnes homines quibus non subest sciencia Dei</hi> (Sap.  xiii. i); nec auctoritati Spiritus sancti, qui omnem habens sapienciam cuncta in sacris Scripturis asserta dictavit, aliqua rethorum seu quorumvis aliorum quoad sensum verborum, poterit auctoritas comparari.  Item, cum primordialis sive originalis lingua humane nature verisimiliter  estimetur fuisse Hebrea, qua lingua Moyses, prophete, et apostoli a pueris  educati nostram Scripturam, a Spiritu sancto directi, tradiderunt, non solum  improvide set in Deum artificem impingendo sentire videtur, qui ab hominibus  grammaticam adinventam illius primarie lingue grammatica indicat apciorem.  Item, si ad rerum primordia mentis intuitum dirigamus, ecce, non dubium quin  Adam primus homo aut a Deo significaciones ver*borum accepit, et sic eas in  suam uxorem et eorum communes filios derivavit; et nullus fidelis debet ambigere  quin Artificis summi grammatica sit ad significandum rerum naturas magis  propria, magis apta<ref target="n0022">22</ref>, et melius expressiva  quam aliqua ab hominibus adinventa aut Adam significaciones verborum instituit,  facultate voces aptandi ad votum a Deo recepta, sicud in edificacione turris  Babel septuaginta duas linguas diversi receperant. Et sic eciam nullus debet ambigere quin Adam, omnis mortalium prudencie inexpertus, solis adhuc  speculativis attendens, conformius quo sciverat rerum exprimendis naturis  primiciam cuncta grammatice primitus adaptavit, consequenter ex eis  naturalissime racioni conformiter composita derivando: et sic veram grammaticam  traduxit in posteros in lingua Hebrea, ut creditur; quoniam, usque ad edificacionem turris Babel post diluvium erat una dumtaxat lingua apud omnes  homines; cum dicatur Gen. xi. I, <hi rend="italic">Erat autem terra</hi> <hi rend="italic">labii unius et  eorundem sermonum;</hi> et statim sequitur, <hi rend="italic">Ecce,</hi> unus <hi rend="italic">est  populus et unum labium omnibus ecce, ergo</hi><hi rend="italic">, descen-
+
+<pb xml:id="dps.liber2.Image080" n="340" />
+
+damus et</hi><hi rend="italic"> confundamus linguam eorum</hi><ref target="n0023">23</ref><hi rend="italic">:</hi> ita ut, nisi velimus  decipere, semper in inquirendo proprietatem sensus verbi cuiusquam seu nominis  ad primitiva pura verba debemus resolvere et ex vero primitivo et sibi per  composicionem addito naturalem sensum extrahere, et illum propriissimum atque  aptissimum affirmare, quamvis orator Tertullius et alii rethores et poete  econtra laudibus aut vituperiis inaniter insistendo expresserint Cum igitur  auctor et auctoritas in assercionibus omnibus sacre Scripture, quantum michi  occurrit, sumantur in bono, nunquam in malo; et ab <hi rend="italic">augeo</hi> verbo pocius,  meo iudicio, quam ab <hi rend="italic">ago</hi> descendant, unde videntur importare profectum,  non malum <hi rend="italic">auctoritatem</hi> seu <hi rend="italic">ius</hi> in descripcione originalis humani dominii, pocius quam <hi rend="italic">potestatem,</hi> expressi, que et in malo interdum  accipitur in Scripturis.</p></sp>
+</div2>
+
+<div2>
+<head>V.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Accipiamus verbum <hi rend="italic">auctoritatis</hi> isto modo. Dic quid per verbum <hi rend="italic">originate</hi> intelligis.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Originalem auctoritatem nature humane non  singularum personarum intelligo: unde non dicitur in presenti istud dominium originalis auctoritas, quia in persone origine sibi inheret, set quia propter  institucionem humane nature, que per Adam hoc dominium in sua recepit origine,  istud dominium illi persone suo tempore, tanquam successori primi hominis  illius, accedit. Est alia racio<ref target="n0024">24</ref> cur verbum <hi rend="italic">originalis</hi> posuimus, scilicet, ad distinguendum auctoritatem istius dominii ab omni auctoritate adventicia nostre nature, que non sequitur essencialiter iustam  nostram naturam: verbi gracia, cum quis titulo civili aliquo, scilicet, hereditario iure aut donacione, seu locacione aut conduccione, seu empcione vel quavis alia paccione, que secundum iura positiva solet inter homines exerceri, adquirit ius seu auctoritatem* utendi re aliqua; non est illa auctoritas seu ius illud originalis auctoritas, set adventicia seu acquisita, sive adiecta originali<ref target="n00f25">25</ref>; nec naturam iustam neque personam iustam essencialiter consequens, set mediante iure seu titulo extrinsecus accedente.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Placet ita accipere: set de hoc plures ambiguitates (ut michi videtur) se offerunt; primo quia scriptura Genesis  videtur exprimere quod primum humanum dominium fuit Ade et uxori sue simul  collatum, Gen. i. 27, 28, ubi sic dicitur, <hi rend="italic">Masculum et feminam creavit eos, benedixitque illis Deus, et ait, Crescite et multiplicamini et replete terram  et subicite eam,</hi> etc.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Verba premissa de Genese in cortice videntur pretendere  quod ambobus simul sit data ista auctoritas, <hi rend="italic">Replete terram et subicite eam  et dominamini,</hi> etc. Iesus tamen Syrac videtur
+
+<pb xml:id="dps.liber2.Image081" n="341" />
+
+sentire  contrarium: dicit enim, Eccli. xvii. I, 2, <hi rend="italic">Deus de terra creavit hominem, et  secundum ymaginem suam fecit illum, et iterum convertit illum in ipsum, et secundum se vestivit illum virtute;</hi> et infra, <hi rend="italic">Posuit timorem illius super  omnem carnem, et dominatus est bestiarum et volatilium; creavit ex ipso  adiutorium simile sibi</hi><ref target="n0026">26</ref><hi rend="italic">:</hi> ubi ordo  Scripture pretendit Adam dominatum fuisse bestiis et volatilibus antequam de  ipso fieret adiutorium simile sibi. Set licet ad hoc non urgeat<ref target="n0027">27</ref> ordo Scripture, cum possit apte intelligi prius factum, quod posterius est narratum, sicut fit  sepissime in Scripturis: alia tamen illud satis affirmant; quoniam, nisi prius  dedisset Ade illud dominium quam sibi et uxori communiter, quod textus  predictus Genesis preferre videtur, iste pocius sic dixisset, <hi rend="italic">Dedit eis  potestatem,</hi> non <hi rend="italic">dedit ei;</hi> nec <hi rend="italic">Dominatus est bestiarum</hi> set <hi rend="italic">Dominati  sunt bestiarum.</hi> Cui ordini Psalmus concordat, <hi rend="italic">Minuisti,</hi> inquiens,  eum <hi rend="italic">paulominus ab angelis; gloria et honore coronasti eum, et constituisti  eum super opera manuum tuarum</hi><ref target="n0028">28</ref><hi rend="italic">:</hi> non dicit, <hi rend="italic">minuisti  eos,</hi> set <hi rend="italic">eum,</hi> et <hi rend="italic">constituisti eum super opera manuum tuarum.</hi> Verbum  eciam <hi rend="italic">constitucionis</hi> aperte pretendit iuxta veram grammaticam  supradictam, quod simul <hi rend="italic">cum statuicione</hi> (ut sic loquar), sive creacione  sua, super opera manuum Dei fuit prefectus. Item, formato homine extra  Paradisum, Gen. ii. 55, 16 dicitur, <hi rend="italic">Tulit ergo Dominus Deus hominem, et posuit eum in Paradisum voluptatis, ut operaretur et custodiret illum; precepit ei dicens, Ex omni ligno Paradisi comede:</hi> unde videtur quod habuit  dominium rerum que fuerant in Paradiso quando eum Dominus pro se prepositum  Paradisi constituit amplius enim est operari Paradisum et custodire quam  custodire dum taxat: unde non michi videtur aliud operari Paradisum quam ipsum  cum suis contentis gubernare et regere; et nichilominus custodire illum eciam debebat a bestiis, que, si pro voluptate permisse fuissent fructus ibidem  excerpere, de fructu ligni vite sumpsissent, et rosas ac illia et alios flores ultra quam docuit, nisi forsitan fuissent cohibite, consumpsissent. Aut igitur  Adam tunc habuit, tanquam villicus aut ballivus, servile  officium super res alienas non suas; quod  quoad res propter ipsum creatas, in tanta gloria et honore a summo Bono creatus, sibi nullatenus congruisset, nec illa verba sequencia, <hi rend="italic">Omnia</hi> <hi rend="italic">subiecisti sub pedibus eius</hi><ref target="n0029">29</ref><hi rend="italic">,</hi> sensum illum  nisi improbe sustinerent aut illarum rerum dominium a Deo ante acceperat, ad  quod facit quod de lignis Paradisi comedere iussus erat, nec debuit de illis  comedere ante acceptum dominium, cum dicatur in primo capitulo, <hi rend="italic">Ecce dedi  vobis omnem herbam afferentem semen super terram, et universa ligna que habent in semetipsis</hi>
+
+<pb xml:id="dps.liber2.Image082" n="342" />
+
+<hi rend="italic">sementem  generis sui, ut sint vobis in escam<ref target="n0030">30</ref>;</hi> ubi constat prius datum eis fuisse dominium lignorum et fructuum,  quam debebant de illis comedere; unde liquet preceptum sive licenciam de commestione presupposuisse in commestura rei commedende dominium. Et hoc est  consonum racioni, quoniam usus rerum iuxta hec verba effectus donacionis  videtur; <hi rend="italic">Dedi,</hi> inquit, <hi rend="italic">vobis, ut sint vobis in escam:</hi> donacio igitur in utroque debuit usum precedere. Cum igitur Adam ante creacionem uxoris  potuerit iuxta dominium mandatum sive divinam doctrinam sive licenciam de  lignis Paradisi comedere, sequi videtur quod Adam translatus in Paradisum ante  formacionem sue uxoris rerum accepit dominium. Quod insuper capitulo ii<ref target="n0031">31</ref>. 19, adicitur, <hi rend="italic">Formans  igitur Dominus Deus de limo cunctis animantibus terre et universis volatilibus  celi, adduxit ea ad Adam, ut videret quid vocaret ea; omne enim quod vocavit  Adam anime viventis, ipsum est nomen eius,</hi> istud dominium latenter  insinuare videtur: primo quidem, quoniam imposicio et precipue specifici  nominis in imponente auctoritatem super nominatum sive superioritatem habet  annexam, cum ipsa imposicio fit auctoritate propria imponentis. Unde infantibus  soli parentes auctoritatem habent nomina imponendi, in tantum ut Iohanni  Baptiste nec sola mater nec alius potuit nomen imponere; set mater dicebat, <hi rend="italic">Vocabitur  Iohannes,</hi> pater vero eius mutus existens scripsit, dicens, <hi rend="italic">Iohannes est  nomen eius (Luc. i. 63).</hi> Ideo Adam dixit, <hi rend="italic">Hec vocabitur virago, quoniam  de viro suo sumpta est,</hi> Gen. ii. <hi rend="italic">23.</hi> Deus autem nostris primis  parentibus specificum nomen imposuit, <hi rend="italic">Et vocavit nomen eorum Adam in die qua  creati fuerunt,</hi> id est, <hi rend="italic">homo,</hi> Gen. v. <hi rend="italic">2.</hi> Hec igitur  inposicio<ref target="n0032">32</ref> nominis specifici cunctis animantibus auctoritatem ac superioritatem super ea  in Adam supposuit; quia non iussus nec suasus a Deo, set sua auctoritate, id fecit,  quoniam dicitur quod <hi rend="italic">Deus ea<ref target="n0033">33</ref> adduxit ut videret quid vocaret ea.</hi> Quod insuper in predicta Scriptura  adicitur, <hi rend="italic">Omne enim quod vocavit Adam anime viventis, ipsum est nomen eius,</hi> id  idem affirmat; quoniam, si nonnisi simul cum uxore acceperit dominium, non  debuit sine consensu illius nomina perpetuo permansura communibus suis rebus  imponere; immo, iuste po*terant recepto dominio, tanquam maiorem auctoritatem  habentes quam ante, eorum nomina immutare: contra quod dicitur, <hi rend="italic">Omne quod  vocavit Adam anime viventis, ipsum est nomen eius;</hi> ubi puto intelligendum  quod ipsum nomen debuit ei tanquam specificum perpetuo retinere. Id idem  videtur ostendere divinum consilium circa hominis produccionem primariam: <hi rend="italic">Et  ait,</hi> inquit, <hi rend="italic">Faciamus hominem ad ymaginem et similitudinem nostram, et presit</hi>
+
+<pb xml:id="dps.liber2.Image083" n="343" />
+
+<hi rend="italic"> piscibus maris et volatilibus celi, et bestiis universe  terre, et omni reptili quod movetur in terra</hi> (Gen. i. 26);  ubi licet<ref target="n0034">34</ref> verbum <hi rend="italic">presit</hi> significet facultatem, scilicet, idem quod <hi rend="italic">dominus,</hi> consequens  est quod cum solus fieret, dominus esse debebat: si vero verbum illud <hi rend="italic">presit</hi> actum auctoritatis importet, scilicet, idem quod <hi rend="italic">dominetur,</hi> cum  actus dominii presupponat dominium, non minus consequitur quod solus debebat  dominium et auctoritatem super actum recipere. Item, ex quo solo beneficio  creacionis volatilia et bestie potestatem irreprehensibilem a Deo habebant  sumendi necessaria vite de rebus creatis, quanto magis homo nobilior creatura  huiusmodi potestatem ex beneficiis creacionis accepit: alioquin minus  sufficiens in comparacione sue nature ab origine extitisset, quam ille alie  creature; quod (ut videtur) gloriam summi Artificis aliqualiter maculasset.  Ceterum, cum nemo possit ambigere quin homo in tanta sapiencia a Deo creatus  quod cunctis bestiis et volatilibus nomina sciebat imponere et de facto  imposuit, omnia propter usum eius facta esse sciebat; ita ut nature ordine eis  preesse deberet. Unde sequi videtur quod, sicut animalia nature ordine exigente  rebus propter suum alimentum creatis irreprehensibiliter uti potuerant, nulla  alia auctoritate recepta, sic nature ordine exigente id idem de illis  animalibus facere irreprehensibiliter homo potuerat; quod facere non poterat  racionalis creatura sine auctoritate legitima<ref target="n0035">35</ref>. Unde videtur quod origo  hominis ad Dei ymaginem ac similitudinem hanc homini auctoritatem inpressit.  Quod ex hoc videtur innui in Scriptura, quod nusquam de donacione presenti fit  mencio, set tantum de eius actibus aut eius donacione preterita: unde in primo  verbo post creacionem sic dicitur, Masculum<hi rend="italic"> et feminam creavit eos</hi> (Gen.  i. 27-29), <hi rend="italic">et benedixit illis Deus, et ait, Crescite et multiplicamini, et  replete terram et subicite eam</hi> (alia littera habet, <hi rend="italic">Et dominamini eius),  et dominamini piscibus maris et volatilibus celi et universis que moventur super  terram. Ecce, dedi vobis omnem herbam afferentem semen super terram,</hi> etc.:  ubi verba illa <hi rend="italic">subicite</hi> et <hi rend="italic">dominamini</hi> actum designant dominii, et  verbum <hi rend="italic">dedi</hi> collacionem eius preteritam. Cum igitur nichil ibi precedat de illis preter creacionis beneficium, innui satis probatur ante istam  benediccionem, per illud beneficium sue originis, ipsos istud dominium  presuppositum illis dominii actibus accepisse. Sic enim de Noe et eius filiis  legitur, Gen. ix. 1-3, quod <hi rend="italic">benedixit Deus Noe</hi> * <hi rend="italic">et filiis eius, et  dixit ad eos, Crescite et multiplicamini et replete terram . terror vester ac  tremor sit super cuncta animalia terre et super omnes volucres celi, cum universis que moventur in terra; omnes pisces maris
+
+<pb xml:id="dps.liber2.Image084" n="344" />
+
+manui vestre traditi sunt, et omne quod movetur et vivit erit vobis in cibum: quasi olera virencia tradidi vobis omnia.</hi> Ubi non exprimitur aliqua dominii tunc de presenti donacio,  set eius exercicium debitum, per verba illa, <hi rend="italic">Terror vester ac tremor,</hi> etc.,  et <hi rend="italic">erit vobis in cibum;</hi> et preterita eius donacio per verbum, <hi rend="italic">Manui  vestre traditi sunt,</hi> et <hi rend="italic">tradidi vobis amnia,</hi> exprimi michi videntur; ut ex hac sacra Scriptura nos instruat eos illud dominium per beneficium  creacionis antea suscepisse.</p></sp>
+</div2>
+
+<div2>
+<head>VI.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Hec  omnia letanter accipio, que michi sufficienter affirmare videntur Adam in sua origine illud dominium accepisse<ref target="n0036">36</ref>; set queso ut dicas  nunquit suis successoribus simul accedit in ortu illud dominium.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Non; quia omnes <hi rend="italic">filii  ire</hi> nascuntur, Eph. ii. 3; et <hi rend="italic">Non est distinccio, omnes enim peccaverunt et egent gloria<ref target="n0037">37</ref> Dei,</hi> testante  apostolo, ad Romanos iii. 22, 23: unde in nostra  origine personali omnes, donec graciam habeamus, sumus isto dominio denudati;  ita quod dominium istud nemo recipit antequam suo primo parenti, cui debet  succedere pro tempore quo dominium istud acceperat, in iusticia seu iustificante gracia conformetur.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Istud  igitur dominium non sequitur naturam specificam immediate, set mediante  iusticia, que sine iustificante gracia non habetur.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Racionabiliter illud infers.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Duo igitur  habes ostendere: scilicet, quod homo primus in iustificante gracia erat  creatus, cuius contrarium Magister Sentenciarum sentire videtur; et quod gracia  talis ipsum dominium primo homine, ordine causalitatis seu nature, precessit.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Hoc bene  attendis: unde hec duo, quoniam sunt propinqua iuxta diversitatem Scripture,  nunc simul, nunc separatim<ref target="n0038">38</ref>, prout michi occurrerit, suadebo. Ecce enim, Gen. i. 26-28 scribitur, <hi rend="italic">Faciamus hominem ad ymaginem et  similitudinem nostram, et presit piscibus maris et volatilibus celi et bestiis  universe terre, omnique reptili quod movetur in terra. Et creavit Deus hominem ad ymaginem et similitudinem suam; ad ymaginem Dei creavit illos. Benedixitque  illis, et ait, Crescite et multiplicamini, et replete terram et subicite eam, et dominamini, piscibus maris et volatilibus celi, et universis animantibus  que moventur super terram.</hi> Ex qua Scriptura videtur quod non racione solius  ymaginis, set racione ymaginis et similitudinis, debuit dominium istud accipere: quoniam utrumque dominium<ref target="n0039">39</ref> conferendo, <hi rend="italic">Faciamus hominem ad ymaginem</hi> <hi rend="italic">et simi-</hi><hi rend="italic">
+
+<pb xml:id="dps.liber2.Image085" n="345" />
+
+litudinem, et presit piscibus maris,</hi> etc.; ac eciam collato premittitur, <hi rend="italic">Creavit,</hi> inquit, <hi rend="italic">Dominus  hominem ad ymaginem et similitudinem suam, benedixitque illis, et ait,</hi> etc. In <hi rend="italic">ymagine</hi> vero conformitatem nature, * in <hi rend="italic">similitudine</hi> vero conformitatem in virtute accipimus, que non  dubium  habuit annexam iusticiam, Ob hoc enim cherub dictus est  signaculum similitudinis, Ezechiel xxviii. I2,  quia <hi rend="italic">Plenus sapiencia etperfectus decore,</hi> sicut ibi exponendo immediate  subiungitur,  ut ex plenitudine et  perfeccione  dicatur signaculum et ex sapiencia et decore ad Dei  similitudinem ostendatur: propter quod puto Iohannem dixisse, prima canonica sua, iii. 2, <hi rend="italic">Scimus<ref target="n0040">40</ref> quoniam filii Dei  sumus, et<ref target="n0041">41</ref> nondum apparuit quid  erimus; scimus quoniam cum apparuerit similes ei erimus, quoniam videbimus eum  sicuti est,</hi> ut ex visione divine essencie afferente plenitudinem leticie et spiritualis decoris similitudinem Dei ostenderet nos habere. Et Eccli. xvii. 1-4, ubi sentencialiter repetitur humana creacio, dicitur quod <hi rend="italic">Deus de terra creavit hominem, et secundum ymaginem suam fecit  illum: et iterum convertit illum in ipsum et secundum se vestivit eum virtute;</hi> ubi pro similitudine conversionem ad  Deum  et vestituram virtutis expressit: et consequenter, tanquam illi annexum, subiunxit dominium statim hoc modo, <hi rend="italic">Numerum  dierum et tempus dedit illi, et dedit illi potestatem eorum que sunt super terram;  posuit timorem illius super omnem carnem, et dominatus est bestiarum.</hi> Pariter michi  videtur in Psalmis, <hi rend="italic">Minuisti eum paulominus ab angelis<ref target="n0042">42</ref>,</hi> quoad divinam  ymaginem, et quod sequitur, <hi rend="italic">Gloria et honore coronasti eum,</hi> quoad divinam  similitudinem in virtutibus, esse  dictum; quibus, tanquam neces­sario previis, annexum est dominium: unde subiungitur, <hi rend="italic">Et  constituisti eum super opera manuum tuarum. Omnia subiecisti sub pedibus eius,  oves et boves universas insuper et pecora campi,</hi> etc. Illud eciam quod dicitur in predicta scriptura Ecclestiastici, <hi rend="italic">Et convertit illum in ipsum,</hi> satis affirmat<ref target="n0043">43</ref> ipsum conversum in sui Creatoris amorem: unde eodem capitulo consequenter annexuit, <hi rend="italic">Adiecit illis disciplinam, et legem vite hereditavit illis;  testamentum eternum constituit cum illis, et iusticiam et iudicia sua  ostendit  illis<ref target="n0044">44</ref>;</hi> ubi satis  patenter (ut videtur) afirmat quod non solum habebant  legem, set quod eam <hi rend="italic">hereditavit illis,</hi> ita quod poterant legem vite sibi et suis heredibus conservare, et  quod  vitam eternam poterant acquirere ex promissione seu pacto. Hoc enim est habere  testamentum eternum. Unde in canone Misse  dicitur, <hi rend="italic">Sanguis Christi sanguis testamenti eterni,</hi> quia eo mediante testamentum seu pactum factum  patribus<ref target="n0045">45</ref> de benediccione promissa impletur, scilicet,  datur  vita eterna; habebant igitur in sua origine principia quibus pro-
+
+<pb xml:id="dps.liber2.Image086" n="346" />
+
+mereri et acquirere poterant vitam eternam. Item, premisit  capitulo xv. 14-18, <hi rend="italic">Deus enim ab inicio constituit hominem, et reliquit eum  in manu consilii sui; adiecit mandata et precepta sua. Si volueris mandata  conservare conservabunt te et in perpetuum fidem placitam facere. Apposuit  tibi aquam et ignem; ad quod volueris porrige manum tuam: ante hominem vita et  *mors, bonum et malum; quod placuerit ei dabitur illi.</hi> Ubi, si per <hi rend="italic">vitam</hi> vitam eternam accipimus, satis patet quod ad illam acquirendam facultatem  accepit; quod patenter affirmat <hi rend="italic">quod placuerit illi dabitur ei:</hi> qui  sensus litteralis eo michi videtur, quod ibi premisit, <hi rend="italic">Si volueris mandata  conservare, conservabunt te,</hi> de conservacione perpetua illud intelligens.  Quod probatur, quia sequitur, <hi rend="italic">Et in perpetuum fidem placidam facere,</hi> qualitercunque  illud accipiatur ad litteram, perpetuitatem gratam habet annexam: unde  consequitur quod homo sic a Deo fuerat constitutus, quod per mandatorum  observanciam poterat sibi acquirere vitam eternam; quod sine gracia non  valebat. Quod insuper propheta Osee in persona Dei loquens michi videtur  innuere isto modo, <hi rend="italic">Ego, quasi nutricius Effraym, portabam eos in humeris  meis, et nescierunt quod curarem eos in funiculis Adam; traham eos in vinculis  caritatis</hi> (Ose. xi. 3, 4): non enim videtur quod vincula caritatis funiculos Ade vocaret, nisi caritas ipsum vinciens Creatori in sua creacione in  ipso fuisset, quoniam propter caritatem, quam postmodum penitendo recepit,  nequaquam ita vocaret; set pocius funiculos Christi seu Marie matris eius, aut Ieremie aut Iohannis Baptiste aut alterius ab utero innocentis: immo verba  precedencia illud affirmant, quia dicit se fuisse quasi nutricium Effraym, et  eos portasse in humeris suis, scilicet, curam eorum gessisse, <hi rend="italic">et nescierunt;</hi> volens (ut michi videtur) exprimere se similiter curam eorum gessisse et fuisse eorum nutricium, set ipsi illud non adverterant; sicut fuit a principio  nutricius Adam et eius curam gessit et in vinculis caritatis eum traxit, licet  ipse ante peccatum illud minus diligenter adverterat, ut ipse suo opere  peccando probavit.</p>
+</sp></div2>
+
+<div2>
+<head>VII.</head>
+
+<sp who="ric"><p>Hanc sentenciam, licet Magister Sentenciarum  eam non teneat, videtur michi Genesis inicium continere: ubi sic scribitur, <hi rend="italic">Vidit  Deus cuncta que fecerat, et erant valde bona; et factum est vespere et mane  dies sextus,</hi> Gen. i. 31, et ii. 1. Si enim cuncta opera Dei in suis  gradibus fuerant valde bona, sic homo erat valde bonus in sua specie, ut in  suis speciebus cetere creature: set quis potest dicere hominem valde bonum aut  perfectum, qui non possidet caritatem, que est vinculum perfeccionis (ad Col.
+
+<pb xml:id="dps.liber2.Image087" n="347" />
+
+<hi rend="italic">iii.</hi> 14) <hi rend="italic">et sine</hi> qua <hi rend="italic">homo non est nisi velut es sonans aut . cimbalum  tiniens, i ad Cor. xiii.<ref target="n0046">46</ref></hi>I? <hi rend="italic">Aut</hi> quomodo <hi rend="italic">potuit homo dici</hi> perfectus, <hi rend="italic">si necessaria</hi> principia <hi rend="italic">non habuit,</hi> per <hi rend="italic">que</hi> potuit <hi rend="italic">suum</hi> ultimum <hi rend="italic">finem,  scilicet,</hi> beatitudinem <hi rend="italic">eternam, attingere? Tamen si id defecisset</hi> aliis <hi rend="italic">creaturis,</hi> scilicet, quod <hi rend="italic">non</hi> habuissent principia <hi rend="italic">sufficiencia,  per</hi> que poterant <hi rend="italic">suum finem</hi> adquirere, nequaquam <hi rend="italic">dicerentur  fuisse perfecte.</hi> Hoc <hi rend="italic">enim sepius</hi> exprimunt littere seculares  describentes perfectum, quod <hi rend="italic">eo</hi> amplius nobis <hi rend="italic">clarescit,</hi> quod <hi rend="italic">homo</hi> est <hi rend="italic">maximus ornatus</hi> tocius <hi rend="italic">machine</hi> corporalis, que <hi rend="italic">non</hi> dubium <hi rend="italic">* propter hominem fuit facta; ita</hi> quod <hi rend="italic">maxima condicio</hi> ornatui <hi rend="italic">defecisset,  si homo suo</hi> ornatu <hi rend="italic">precipuo,</hi> scilicet, <hi rend="italic">gratificante gracia</hi> caruisset: <hi rend="italic">immo</hi> finaliter <hi rend="italic">non videtur</hi> quod precipua <hi rend="italic">creatura,</hi> propter <hi rend="italic">quam</hi> alie <hi rend="italic">erant facte, magis</hi> diminuta <hi rend="italic">a summo</hi> bono, summo <hi rend="italic">potente,  et summo</hi> sapiente <hi rend="italic">suo Artifice,</hi> quam <hi rend="italic">cetere creature facta  fuisset;</hi> quoniam hoc <hi rend="italic">homini bono, sapienti,</hi> atque potenti nequaquam <hi rend="italic">in  suis</hi> operibus <hi rend="italic">conveniret.</hi> Unde Salomon prudenter asseruit, <hi rend="italic">Solum  hoc inveni quod fecerit Deus hominem rectum, Eccles. vii. 3o; non vere rectus  fuisset</hi> aut <hi rend="italic">iustus, nisi</hi> caritatem <hi rend="italic">aut graciam habuisset.</hi> Ex  aliis insuper consequitur dominium <hi rend="italic">nostro primo</hi> parenti collatum  presupposuisse caritatem <hi rend="italic">seu graciam:</hi> quoniam aliter Paterfamilias  sapiens <hi rend="italic">eum suum generalem</hi> prepositum <hi rend="italic">super</hi> rebus mundanis et  spiritualiter <hi rend="italic">super</hi> Paradisum voluptatis, <hi rend="italic">ut operaretur et</hi> custodiret  illum <hi rend="italic">et eius</hi> fructibus <hi rend="italic">vesceretur,</hi> nullatenus prefecisset; <hi rend="italic">nec  ipsum inferiorum omnium</hi> dispositorem, directorem, <hi rend="italic">et iudicem (ut  videtur)</hi> proinde statuisset; <hi rend="italic">sicut</hi> expressum <hi rend="italic">est</hi> Sapiencie <hi rend="italic">ix.  1-4,</hi> ubi <hi rend="italic">sic scribitur, Dominus Deus patrum meorum et Domine meus, qui  fecisti omnia verbo tuo, et sapiencia constituisti hominem; ut dominaretur  creature tue que a te facta est, ut disponat orbem terrarum in equitate et iusticia et in direccione cordis iudicium iudicet: da michi,</hi> etc.</p></sp>
+</div2>
+
+<div2>
+<head>VIII.</head>
+
+<sp who="ric"><p>Ad <hi rend="italic">hoc facit</hi> quod  Deus angelis <hi rend="italic">tantum aut<ref target="n0047">47</ref>tale circa mundana officium non commisit, quos tamen<ref target="n0048">48</ref> caritate in sua origine insignivit, Tu,</hi> inquit, <hi rend="italic">signaculum similitudinis, plenus sapiencie et perfectus decore, in deliciis paradisi Dei  fuisti: omnis lapis preciosus operimentum tuum,</hi> Ezechiel <hi rend="italic">xxviii.</hi> 12, 13; et infra<hi rend="italic">, Tu Cherub extentus et protegens, posui te in monte sancto Dei; in medio lapidum ignitorum ambulasti, perfectus</hi></p><p><hi rend="italic">in viis tuis a die condicionis tue, donec inventa est iniquitas in te<ref target="n0049">49</ref></hi>; et infra<hi rend="italic">, Et perdidi te, o Cherub protegens, de medio lapidum  ignitorum<ref target="n0050">50</ref>:</hi> ubi non solum ex perfeccione in  qua ambulabat ante casum, set  eciam ex prerogativa status celcioris pre ceteris angelis, qui 
+
+<pb xml:id="dps.liber2.Image088" n="348" />
+
+erant lapides igniti, scilicet, caritate ardentes (hoc  enim sonat <hi rend="italic">ignitum</hi> iuxta illud  Apoc. iii. s8, <hi rend="italic">Suadeo tibi emere</hi> <hi rend="italic">a me</hi> <hi rend="italic">aurum ignitum),</hi> constat Cherub fuisse, ut ceteros angelos, in caritate creatum: unde magis est hoc de Adam censendum, cui in ortu suo mundi inferioris regimen et dominium Deus commisit. Et nimis videretur absonum a summi Artificis sapientissima bonitate, quod filii eius post eius peccatum octavo die circumcisionem aut ante octavum diem per aliud regimen sibi et suis a Deo dispositum graciam recepissent, et ipse in statu virili nulla eius culpa aut alterius qui peccatum in eum transferre poterat<ref target="n0051">51</ref> precedente gracia caruisset. Immo, * nec videtur quod per penitenciam gratificantem graciam recepisset, cum penitencia non amplius videatur habere quam quod ad statum  pristinum restituat seu revocet delinquentem. Videtur eciam multis probabile quod non potuisset sine gracia animalibus nomina imponendo aut aliud quicquam circa creaturas agendo, exercere ut dominus, et sicut congrueret eis uti: quin pocius  actus diceretur abusus aut minus aptus quam mundi inferioris a Deo constituto preposito conveniret; cum non fuisset precipue ad<ref target="n0052">52</ref>, laudem seu gloriam sui constituentis<ref target="n0053">53</ref> Creatoris relatus, nec, gestus principaliter propter eum. Amor enim naturalis nunquam  potest quicquam tantum diligere ut se ipsum; sicuti nec potest quisquam tantum naturaliter quicquam  odire ut sui ipsius interitum: hoc enim sensus huius verbi naturalis amor importat. Ex hiis (ut michi videtur) racionaliter  potes inferre quod caritas sive gracia primo homini in  origine sua sibi collata fuit previa causa dominii et causa cuiusque actus huius dominii  (ut statim plenius clarescet inferius): unde nullus de stirpe ipsius primi parentis seminalis filius, donec a peccato mundetur et graciam gratificantem receperit, istud dominium potest recipere seu habere.</p></sp>
+</div2>
+  
+<div2>
+<head>IX.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Iam cerno quod istud  dominium dicitur auctoritas originalis humana, quia primi hominis concernit  originem; et non minus ex multis racionibus premissis attendo quod in origine ceteris non adheret, set tunc demum cum suo primo parenti in iustificante sive gratificante  gracia conformantur, quoniam non melioris condicionis in hoc esse debent quam ipse: set  nunquid ille primus pro  se solo, an pro se et omnibus de sua progenie, illud  primarium a Deo accepit dominium, vellem a  te probacionem accipere.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Quia quod expetis  necessarium conclusionibus nostris prospicio, licet id superius sit ostensum, quia dominium illud<ref target="n0054">54</ref> specificam naturam iustam consequitur, alias  tamen illius
+
+<pb xml:id="dps.liber2.Image089" n="349" />
+
+accipe raciones. De  Eva quidem  illud Scriptura affirmat, Gen. i.  27, 28, iuxta allegata superius, scilicet, <hi rend="italic">Masculum et feminam  creavit eos; benedixitque illis, et ait, Crescite et multiplicamini, et replete  terram at subicite eam, et dominamini in piscibus maris </hi>, etc.:  ubi  claret quod Eva,  sicut Adam, rerum accepit dominium.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Ut quid quoad Ade  progeniem Evam inducis<ref target="n0055">55</ref>, quam Deus de costa lateris Ade fecit; unde constat quod Adam eam non genuit.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Nimia uteris levitate:  nam  Christus de Davidis progenie  et per consequens de  Ade  progenie affirmatur: <hi rend="italic">Liber,</hi> <hi rend="italic">inquit</hi> <hi rend="italic">Mat. i. 1</hi><hi rend="italic">,</hi> <hi rend="italic">generacionis  Iesu Christi</hi> <hi rend="italic">filii</hi> <hi rend="italic">Davidis</hi>, etc.;  et causam  assignans annectit, <hi rend="italic">Iacob  autem genuit Ioseph virum Marie, de qua * natus est Iesus qui vocatur Christus<ref target="n0056">56</ref></hi>. Nec ambigis Christum in utero Virginis de materia Virginis  seminali, quam Virginis sanguinem plurimi sanctorum appellant, a Spiritu sancto conceptum seu natum fuisse, cum in simbolo exprimatur. Non  igitur  propter hoc ab Adam progenie Eva redditur aliena,  quia<ref target="n0057">57</ref> de materia corporis Ade a Deo est facta, ex quo ilia materia seminalem materiam continebat<ref target="n0058">58</ref>, quin pocius ipsa, cum ab ea progenitis,  progeniem Ade constituit: quod Paulus apostolus  patenter affirmat, cum dicit de Deo, <hi rend="italic">Fecitque</hi><hi rend="italic"> ex uno omne genus hominum inhabitare super universam faciem  terre, deffiniens statuta tempora et terminos habitacionis eorum</hi>, Act.  xvii.  26; ubi non  dubium  omnes preter unum sub generis nomine  comprehendit.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Meam levitatem in hoc confiteor; tene  viam prefixam.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Eadem eciam verba divine benediccionis ostendunt non  tantum  illis duobus, set gignendis ab  eis, dominium illud a Deo, in personis tamen ipsorum aut ipsius hominis primi, fuisse collatum; <hi rend="italic">Crescite,</hi><hi rend="italic">inquit,</hi> <hi rend="italic">et multiplicamini, et replete terram et subicite eam, et  dominamini piscibus maris at volatilibus celi, et universis animantibus que  moventur super terram<ref target="n0059">59</ref></hi>: et  sequitur, <hi rend="italic">Ecce, dedi vobis omnem herbam afferentem semen super terram, et  universa ligna que habent in semet ipsis sementem generis sui, ut sint vobis in  escam, et cunctis animantibus terre<ref target="n0060">60</ref></hi>. In quibus verbis, <hi rend="italic">Dedi vobis ut sint vobis in escam</hi>, cum  constet  Deum de illis datis ita suis posteris providisse ut  eis, quos tamen illis verbis non nominat, licet  nominat<ref target="n0061">61</ref> animancia cetera, videtur ita posteris sermonem dirigere, sicut ipsis, tamen in personis eorum:  sicuti in verbis  evangelicis, <hi rend="italic">Quecunque ligaveritis  super terram erunt ligata et in cellis, et quecunque solveritis super terram  erunt soluta at in celis</hi>, Mat. xviii. 18, et ibi, <hi rend="italic">Quorum  remiseritis peccata, remitiuntur eis</hi>; et quorum 
+
+<pb xml:id="dps.liber2.Image090" n="350" />
+
+<hi rend="italic">retinueritis, retenta sunt, Io. xx.</hi> 23; non solum locutus est apostolis pro se ipsis Salvator noster, set pro suis successoribus  quibuscunque, sicut ibi, <hi rend="italic">Ecce, ego vobiscum  sum omnibus diebus usque ad consummacionem seculi<ref target="n0062">62</ref>,</hi> ex simili modo loquendi atque donandi et primis et posteris se volens ostendere unum utriusque Scripture auctorem. Item, ex quo res ille, sicuti  celum et stelle celi, propter filios suos, sicuti propter eum, facta  fuerunt, quod probat satis ipsarum rerum obsequium prestitum posteris ipso extincto, consequitur quod ita  ipsi ipsarum rerum debebant, ut ipse, habere dominium; quarum rerum commutacio et reciprocacio vite hominis mortalis  aptissima cursu ipsorum celestium agebantur usque in presens, et secundum promissionem Dei, Gen. viii. 22, usque in finem seculi id efficere non cessabunt: <hi rend="italic">Cunctis,</hi> inquit, <hi rend="italic">diebus  terre sementis et messis, et frigus et *estas et yemps, nox et dies non  requiescent.</hi> Nec oportet in isto diucius immorari, quoniam, cum cause accepcionis istius  dominii (iuxta tractata superius) ita genitis ab Adam,  ut sibi, ab origine convenisset, effectus earum, scilicet, ipsum dominium, ita  ut ipse, sui posteri habuissent: alias enim ipsi homines in sua origine deterioris condicionis quam cetere creature in suis gradibus  extitissent, sicuti superius in materia simili est deductum.</p></sp>
+</div2>
+
+<div2>
+<head>X.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Ex quo Adam et omnes filii  eius iustificati per graciam recipiunt in instanti iustificacionis istud originale dominium, consequens est  quod Christus istud dominium in instanti creacionis anime sue  in utero Virginis matris eius acceperit: quod michi ita  cassum ac superfluum videtur esse in  Christo, sicut tu supra probasti omne dominium humanum superfluum ac cassum esse in Deo; cum  divinum dominium Christo sufficiat in ordine dominii ad omnem usum creature cuiuscunque<ref target="n0063">63</ref>.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Quod Christus in creacione anime sue recepit istud originale  dominium, negare non audeo, quia illa, esto quod racione deitatis<ref target="n0064">64</ref> aut dominii racione deitatis quod habuit, creaturis uti penitus voluisset.  Nichilominus adhuc ipse, tanquam verus homo, propter quem creature fuerant primitus institute, uti iuste poterat omnibus huiusmodi creaturis; et iustius cunctis hominibus, quia  solus in origine, tanquam verus ac  singularis heres sui primi parentis,  iusticiam recepit et  graciam, eciam iuxta legem; quia peccato originali, racione delicti sui primi parentis, non potuit esse  obnoxius, quia fuerat verus Deus: et  ob hoc in ortu non tantum debuit esse iustus set  necessario fuit iustus. Nec istud dominium fuit in Christo cassum  et super-
+
+<pb xml:id="dps.liber2.Image091" n="351" />
+
+fluum (ut affirmas); quoniam  divinum dominium in Christo ad usum plenum humanum, seu ad plene dominandum humaniter creaturis nature humane in Christo subiectis, nullatenus suffecisset: cum plena dominacio in  omni  natura, respectu alicuius dominati, plenum  dominium  in dominante, tanquam in suo subiecto, supponat; non  est  autem dominium divinum subiectum in natura Christi humana<ref target="n0065">65</ref>, nec in eius persona, quatenus humana,  cum sit proprietas nature  divine: unde necessarium fuit in Christo ad dominandum creaturis, modo et  iure  humanis, originale habere dominium. Alioquin in  ipsa  natura humana Christi non fuisset titulus  seu causa sufficiens ad dominandum rebus et eis utendum; set secundum hoc fuisset natura humana  in Christo  amplius diminuta quam in primo suo  parente aut in ceteris iustis  hominibus: unde non fuit illud  dominium in Christo cassum, set necessarium pocius, secundum legem nature. Item, in Christo natura humana nichil creat, quia creacio  sibi, cum sit creatura, non potest competere; ex  creacione  vero (sicuti in principio huius operis est ostensum<ref target="n0066">66</ref>) consurgit divinum  dominium: unde consequens est quod divinum dominium non competit nature  humane, nec est principium immediatum dominandi in ipsa; set necessario habet aliud dominium pro principio ac titulo  dominandi, scilicet, humanum * dominium. Unde constat quod non  debet  in Christo censeri cassum, sicuti in Deo esset cassum omnino, in  quo ad omnem usum divino dominio sive Deo congruum sufficientissimum  esset suum dominium, originale dominium. Item,  ad plenum usum rerum in Christo (usum  humanum, intelligo) non potest sufficere  divinum dominium; quoniam nec iusticia divina nec divina clemencia nec caritas divina sufficere potest aut potuit in Christo ad actus iusticie  seu clemencie sive amoris (humanos, intelligo), sicut  nec  potencia divina in Christo  sufficere potuit ad actus humanos in Christo racione potencie: quoniam, si actus aliquis fieret a divina potencia sufficienter in  anima Christi, ille actus esset passio in  anima Christi, non accio, cum ab ea non fieret; et ita esset actus  iusticie, similiter clemencie et amoris, si sic fieret, passio eius, non  accio.  Idem consequitur de actu dominii, scilicet, si fieret in  anima Christi a divino dominio, intelligo, in  racione  dominii sufficienter, esset passio in anima  eius,  non accio. Immo, si acute advertas, sicut actus talis a iusticia divina in anima  Christi sufficienter productus non  redderet  Christum in humanitate  iustum in actu, scilicet, iuste agentem, quia non esset actus nature  Christi humane; sic nec actus a divino dominio  ita productus redderet Christum humanitus dominantem. Unde consequitur quod ad actus humanos exercendos a  Christo
+  
+<pb xml:id="dps.liber2.Image092" n="352" />
+
+circa res creatas propter hominem, necessarium  fuit in ipsc humanum dominium: quod Paulus apostolus in genere videtur astruere  ac probare, ad Hebreos ii. 16, 17, ubi dicit, <hi rend="italic">Nusquam enim angelos  apprehendit, set semen Habrahe apprehendit; unde debuit per omnia fratribus  simulari, ut misericors fieret et fidelis pontifex ad Deum.</hi> Ecce, quod ex  apprehensione humane nature eum affirmat debere per omnia fratribus simulari:  unde consequitur quod debuit eis sicut in aliis in originali creaturarum  dominio conformari.</p></sp>
+</div2>
+
+<div2>
+<head>XI.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Ex premissis attendo Adam primum illud dominium pro se  et suis omnibus posteris accepisse; set noscere concupisco nunquid ipse primus  parens noster pro se ac suis posteris perdidit istud dominium sibi congenitum  delinquendo.</p></sp>
+
+<sp who="ric"> <speaker>RICARDUS.</speaker> <p>Gracia gratificans non magis necessaria michi videtur ad  accipiendum quam ad retinendum illud dominium: immo, minus; cum nemo dominium  possit accipere, nisi ad tempus illud retineat, et recepcio ad retencionem  naturaliter ordinetur; unde consequitur quod delinquendo dominium perdidit  graciam amittendo. Item, annon de lege Dei et hominum inobediens iustis  imperiis domini sui, in hiis que contingunt domini sui debitam servitutem, ius  perdit, et forefacit omnium sibi pro debito servicio a suo impensorum?</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Legem humanam id continere non ambigo: et racionem eius  attendo, quoniam quod pro servicio exhibendo sive exhibito cuiquam est impensum  non censetur illi mere donatum, set verius pro impenso * aut impendendo  obsequio commutatum; unde iusticia exigit quod commutans, si non ei reddatur id  pro quo commutat, saltem suum rehabeat.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Recte respondes. Sic nostri primi parentes inobedientes erant  imperio Domini Dei sui, quo eis preceperat, <hi rend="italic">Ex omni ligno paradisi comede;  de ligno vero sciencie boni et mali  ne commedas,</hi> Gen. ii. 16, 17: quod autem Deus hoc mulieri sicut viro suo  preceperat ipsa expressit, cum respondit serpenti, <hi rend="italic">De fructu lignorum que  sunt in Paradiso vescimur; de fructu vero ligni quod est in medio Paradisi  precepit nobis Deus ne comederemus et ne tangeremus illud,</hi> Gen. iii. 2, 3.  Nec ambigis quin in observancia istius mandati fuit debitum Deo obsequium; set  forte non plene prospicis quod pro isto obsequio impendendo dominium  creaturarum fuerit eis a Deo collatum.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Sic est: istud<ref target="n0067">67</ref> ostende.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Etsi non ex pacto, tamen hoc apparet ex facto, quia tulit  Dominus<hi rend="italic"> Deus hominem et posuit eum in Paradiso volup­tatis, ut operaretur et  custodiret ilium</hi> (Gen. ii. 15): ubi ex ipso
+ 
+<pb xml:id="dps.liber2.Image093" n="353" />
+
+facto, si per pronomen <hi rend="italic">illum</hi> intelligamus  demonstratum Paradisum, cum Paradisus fuerit  Dei, sicut domini cuius dominium (ut supra  patuit)  Paradiso manente Deus a se abdicare non potuit, omnino consequitur quod homo, ut ibi obsequeretur  Deo, sit positus, scilicet,  ut sub Deo esset prepositus Paradisi: si vero pro pronomen <hi rend="italic">ilium</hi> intelligamus hominem demonstratum idem  consequitur; cum Deus hominis illius  dominus verus tunc fuerat, et ita ipse ibi est positus, ut sub  Deo  sui ipsius esset prepositus sive custos; sic  quod  omnino consequitur hominem in Paradiso positum,  ut ibi Deo debitum preberet obsequium. Item,  adducta  superius de libro<ref target="n0068">68</ref> Ecclesiastici et Sapiencie patenter affirmant quod pro  prestando  Deo obsequio, eciam iusto, recepit dominium: et  nichilominus  racio invincibilis id convincit; cum enim ad hominis  profectum dominium istud sit illi collatum,  nec potest sibi proficere nisi prestando suo  Creatori obsequium, omnino consequitur quod pro  obsequio  Deo prestando accepit illud dominium.</p></sp>
+</div2>
+
+<div2>
+<head>XII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Hac racione probare poteris quod homo primus  peccando perdidit omnes virtutes, et eciam animam  racionalem, quia ista ipse accepit pro prestando Deo  obsequio.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Verum concludis per  omnia  de virtutibus quibuscunque quod Adam omnes virtutes quas habuit perdidit delinquendo, et animam racionalem similiter, quam obligavit ad mortem eternam, que veraciter perdicio appellatur; <hi rend="italic">Infernus<ref target="n0069">69</ref></hi>, inquit, <hi rend="italic">et  perdicio</hi> <hi rend="italic">coram</hi> <hi rend="italic">Domino</hi> (Prov. xv. II): eciam peccando incurrebat mortem primam<ref target="n0070">70</ref> corporis et anime similiter, cuius vita  est  Deus; et quia sic  dominium  perdi non potuit, scilicet, ut punitum maneret, ideo simpliciter periit per peccatum.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Perge quo tendis.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Item, ex quo Deus iudex iustus propter suum peccatum eum de Paradiso expulit, et viam ligni vite angelica custodia * et flammeo gladio  versatili ei preclusit, ne forte sumeret de ligno vite et viveret in eternum (sicut legitur in  Gen. iii. 22), ex sentencia ista iustissimi Iudicis atque sapientissimi, qui  falli non poterat,  videtur, tanquam forefactor, ligni vite atque Paradisi tocius prius acceptum a Deo perdidisse dominium. Cur  enim  a suo dominio alias  fuisset  expulsus, non videtur posse de facili reperiri. Cum igitur pari iure  seu unico cunctorum collatorum sibi dominium a  Deo  acceperat, omnino consequitur quod pari iusticia cunctorum dominium peccando  perdiderat. Aliam accipe racionem: Veritas ait, <hi rend="italic">Omnis qui</hi> <hi rend="italic">facit peccatum servus est peccati</hi> (Io. viii. 34); cuius dicti racionem Petrus 
+
+<pb xml:id="dps.liber2.Image094" n="354" />
+
+apostolus expressit, cum dixit, <hi rend="italic">A</hi> <hi rend="italic">quo  enim quis superatus est, eius et servus est</hi> (2  Pet. ii. 19): qui vero servus est peccati non  aliunde  videtur servus peccati, nisi quia in peccato et per peccatum servit  creature cui per  cupiditatem  inheret; unde cupiditas <hi rend="italic">radix  omnium malorum,</hi> <hi rend="italic">non</hi> solum ab apostolo, prima ad Thim. vi. 10, set eciam communiter ab omnibus  sanctis  doctoribus affirmatur. Qui autem servus est creature cui per amorem inheret,  nequaquam tunc dominus est  illius creature; cum nemo eiusdem rei  dominus sit et servus. Igitur, cum quis peccat mortaliter perdit peccando dominium naturale  saltem illius creature circa quam peccat. Cum igitur omnium propter hominem inferius creatorum fuerit illi simul et indivise collatum originale dominium, perdito per culpam unius creature  dominio,  omnium dominium est sublatum.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Hac racione poteris affirmare, cum  quis  circa rerum suarum dominium peccat mortaliter,  inaniter gloriando aut aliter, quod illarum rerum perdit dominium; et reddes hunc mundum quasi dominis  vacuatum.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Recte,  licet carnalibus dure, concludis, quod  clarius infra in huius quarto libro liquebit, ubi de  dominiis  adventiciis offeret se tractatus.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Quid si dixero quod usus seu abusus rerum sic perditur per peccatum, non tamen dominium?</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Quia hoc dicere obviat  racioni et facto, quoniam in paucioribus usus aut saltem abusus rerum remanet, ut videmus.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Cur non possum astruere quod, sicut  apud  homines, in tali casu  forefaccionis non perditur statim  dominium, set expectandum est super forefaccionis probacione iudicium.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Frustra apud Dominum, qui est iudex et testis omnia prospiciens, expectaretur probacio; et pariter per consequens apud  eum frustra expectaretur iudicium, quando nichil aliud exigi deberet ad ferendum iudicium, quam circumstancie in instanti commissi peccati presentis.</p></sp>
+</div2>
+
+<div2>
+<head>XIII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Perge ulterius.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Attende item  acucius  quid Achimalech Davidi responderit sibi  dicenti, <hi rend="italic">Nunc igitur, si quid  habes ad manum vel quinque</hi> <hi rend="italic">*panes</hi><hi rend="italic">, da michi aut  quicquid inveneris. Non habeo, inquit, panes laicos ad manum, set tantum panem  sanctum, si mundi sint pueri, maxime a mulieribus,</hi> I Reg.  xxi.  3, 4: in quo responso satis ostendit panem sanctum, scilicet, Domino specialiter consecratum, iure originalis  dominii, tempore indigencie mundis solis deberi, nequaquam inmundis. Aliud  accipe suasivum.</p></sp>
+
+<pb xml:id="dps.liber2.Image095" n="355" />
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Dic, donec  tedeat me audire.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Cum superius sit firmatum Deum  cuiuscunque creature a se primarium et inabdicabile habere dominium, nullus super creaturam, nisi de Dei beneplacito et ipso auctorizante et eciam approbante, auctoritatem poterit aut debebit accipere set tenere.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Ita videtur.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Putasne esse beneplacitum Deo, si eius mandatum contempnens sub eo sit suarum rerum  prepositus?</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Cur non? ex quo bonus Dominus est, <hi rend="italic">qui  solem suum oriri facit super bonos et malos, et pluit super iustos et iniustos<ref target="n0071">71</ref>,</hi> evangelio  attestante.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Quia bonitas non obviat iusticie  neque prudencie: et non ambigis quin  prudencie atque iusticie adversatur in  eo  qui potest continue sine mora omnia  maleficia debite ordinare, quod equa auctoritas super  res  dominii sui sit pio et impio, iusto et iniusto, nequam et bono, obedienti et contumaci, amico  et inimico, amanti suum dominium et suum dominium contempnenti; si vero dominium originale, admisso  peccato mortali, in potestate  maneret, hec cuncta contingerent: unde sequitur  quod  illud peccando amittitur; licet usum vel abusum rerum suarum peccatoribus Deus permittat, eorum penitenciam provocando. Item, supraposite raciones, que probant gratam accepcionem istius  dominii prevenisse, tanquam causam formalem ipsius, satis ostendunt istud  dominium in nullo homine posse sine gracia remanere. Ad  quod  enucliandum diligentibus tractatoribus Scripturarum, Spiritus sanctus quoad oblaciones Cayn et  Abel verba  aptavit, ut sequitur, <hi rend="italic">Factum est  autem ost multos dies ut offeret Cayn de fructibus terre munera Domino; Abel  quoque</hi> <hi rend="italic">optulit de primogenitis gregis sui et de adipibus eorum.</hi> Gen.  iv. 3: ubi Abel iusto dominium  rerum attribuit, inquiens, <hi rend="italic">gregis  sui;</hi> quod de Cayn impio, quia  dominium perdidit, non expressit, set ait de ipso, <hi rend="italic">de  fructibus terre.</hi></p></sp>
+</div2>
+
+<div2>
+<head>XIV.</head>
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Gratanter ista accepto: set quia Christus habuit humanum in  ortu  suo originale dominium, nunquid illud dominium Christus accepit in ortu iure hereditario sui primi parentis,  non ita  michi clarescit; quoniam michi videtur ex  hoc sequi  quod Adam peccando perdidit illud dominium pro Christo sicut  pro aliis,  sicut illud accepit pro ipso et Christo sicut  pro aliis;  quoniam alias Christus verus  Ade filius non fuisset.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Christus iure hereditario sui primi parentis dominium illud accepit, non  quia  filius aut heres primi * hominis  delinquentis, set quia filius et heres inforifactibilis primi hominis
+
+<pb xml:id="dps.liber2.Image096" n="356" />
+
+iusti in suo ortu illud dominium obtinentis. Grosso, si placet,  utamur exemplo. Rex quisquam dat uni strenuo militi comitatum tenendum ab eo  sibi et heredibus suis in forma iuris communis regni ipsius; hoc uno adiecto  quod, si genuerit unum filium tam elegantis forme quod a planta pedis usque ad  verticem non possit in eius corpore macula reperiri, talis filius, quamvis  pater forifacere possit pro se ac suis successoribus comitatum, inforifactibilis  et inexheredabilis remanebit. Hoc casu, patre forifaciente, ille filius pro quo  pater forifacere omnino non potuit, nichilominus comitatum iure hereditario  optinebit, quamvis pater eius pro se et pro illo filio inexheredabili, sicut  pro aliis filiis suis, comitatum accepit. Sic quamvis Adam primus parens  noster, factus de pulvere quoad corpus, in spiritu paulominus minutus: ab  angelis, non tantum comitatum set regnum mundi inferioris accepit, secundum  legem Dei communem, a Deo et sub Deo tenendum; et regnum istud peccando pro se  et suis posteris communiter forifecit: pro puero tamen Iesu, <hi rend="italic">specioso forma  pre</hi> <hi rend="italic">filiis</hi> <hi rend="italic">hominum, pleno veritatis et gracie,</hi> et ob hoc inexheredabili et inforifactibili, istud regnum sive  dominium forifacere non valebat; set patri suo, pro heredacionis tempore  innocenti, innocens in sua origine tanquam inexheredabilis, filius debuit in  hereditate paterna succedere. Et ob hoc, non obstante delicto per quod perdidit  istud originale rerum dominium, Christus a peccato exemptus parentis debuit in  sua origine istud originale dominium primi patris, sive in munus sive iure  hereditario, optinere; quamvis peccato sui parentis, sicut ceteri eius filii,  exheredari omnino non valuit. Nec ex hoc provide intulisti quod Christus verus  Ade filius alias non fuisset, sicuti (in supraposito familiari exemplo) illum  filium elegantem, propter inexheredabilitatem ipsius, potes recte arguere non  esse verum comitis filium patris sui.</p></sp>
+</div2>
+
+<div2>
+<head>XV.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Hec omnia recipio tanquam firma; scilicet, quod primus  homo fuit creatus in gracia, quod dominium illud graciam presupponit, et quod  dominium deficit in quocunque gracia ab eo sublata: set peto ut michi ostendas  an istud dominium nostro primo parenti aut suis posteris fuerat restitutum.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Videtur quod fuerat recollatum: primo quidem quoniam  inter penas sibi ac sue uxori a Deo pro suo peccato inflictas perpetua  sublacio huius dominii prius dati nequaquam exprimitur, licet labor, sudor, et  dolor, et in terram reversio (scilicet, mortis necessitas) sint expresse; nec  est verisimiliter estimandum quod tam gravem penam Spiritus sanctus in sua  Scriptura exprimere * omisisset, cum minus graves expressit
+ 
+<pb xml:id="dps.liber2.Image097" n="357" />
+
+unde videtur hoc  dominium Ade penitenti et graciam optinenti restitutum fuisse. Item, ipsa  malediccio pro peccato inflicta restitucionem huius dominii videtur supponere,  que formam hanc habet: Maledicta<hi rend="italic"> terra in opere tuo; in laboribus comedes  eam cunctis diebus vite tue. Spinas et tribulos germinabit tibi, et comedes  herbas terre. In sudore vultus tui vesceris pane tuo, donec revertaris in  terram de qua sumptus es; quia pulvis es et in pulverem reverteris. Et vocavit  Adam nomen uxoris sue Evam, eo quod mater esset cunctorum vivencium. Fecit  quoque Dominus Deus Ade et uxori eius tunicas pelliceas, et induit eos</hi> (Gen.  iii. 17-21). Ubi verba <hi rend="italic">pane tuo</hi> pretendunt panis dominium: verba  insuper Dei, comedes<hi rend="italic"> eam</hi> et comedes<hi rend="italic"> herbas terre</hi> et vesceris<hi rend="italic"> Pane tuo</hi> videntur supponere quod Adam iuste, licet cum pena sibi imposita,  hec erat acturus. Eandem restitucionem videtur pretendere verbum de Abel iusto  dictum, <hi rend="italic">Abel quoque optulit de Primogenitis gregis sui</hi> (Gen. iv. 4).  Ceterum, transacto diluvio et remanentibus de toto humano genere octo iustis,  dumtaxat rerum dominium eis fuerat recollatum, aut, eius restitucione  supposita, ipsius originalis dominii exercicium eis fuerat a Domino imperatum,  hoc modo Domino loquente ad Noe<ref target="n0072">72</ref> et suos, Crescite<hi rend="italic"> et multiplicamini, et replete terram: et terror vester ac  tremor sit super cuncta animancia terre at super omnes volucres celi, cum  universis que moventur in terra. Omnes pisces maris manui vestre traditi sunt;  at omne quod movetur<ref target="#_ft73">73</ref>  et vivit erit vobis in cibum: quasi olera virencia tradidi vobis omnia</hi> (Gen.  ix. 1-3). Ubi <hi rend="italic">terror ac tremor super cuncta ani­mancia,</hi> et quod <hi rend="italic">manui</hi> eorum (scilicet, potestati)  cuncta sunt tradita <hi rend="italic">quasi olera,</hi> satis ostendunt eos naturale rerum  dominium habuisse aut eis noviter restitutum aut prius habitum declaratum.  Item, ex quo Adam, commisso peccato, fuit creatura racionalis mortalis, et  gracia perdita per peccatum fuerat ei per penitenciam restituta, cum nichil  amplius videatur necessarium ad locum huic dominio preparandum, sequi michi  videtur quod Adam fuit aliquando ad istud dominium restitutus.</p></sp>
+</div2>
+
+<div2>
+<head>XVI.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Firma, si vales, quod gracia Ade fuerat restituta.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Quod Adam fuerat restitutus ad graciam ex hoc michi  videtur, quoniam non videtur consonum racioni quod tota creatura, facta propter  hominem Deo serviturum et per suum obsequium eternam beatitudinem habiturum,  aliquo tempore fuerit sic sua dignitate privata quod obsequium naturale solis  prestiterit perituris: unde presumitur Adam esse salvatum, et per ipsum, si non  alias, suam uxorem; ex quo vixit post peccatum cum ea annis nongintis et  amplius. Item, providencia Dei
+
+<pb xml:id="dps.liber2.Image098" n="358" />
+
+specialiter * circa Adam et eius uxorem in  faciendo eis tunicas pelliceas videtur pretendere quod ad Dei complacenciam  fuerant recollecti. Nec est verisimile quin<ref target="n0074">74</ref> ad tam amantis Domini Dei sui presenciam, qui in forma visibili, non dubium,  eis post peccatum apparuit, eos de peccato redarguit, pro peccatis suis penam  eis imposuit, et nichilominus bona sua eis terrena permisit, penituissent  lacrimabiliter de eius offensa. Hoc insuper quod de Eva legitur, Gen. iv. <hi rend="italic">i,</hi> <hi rend="italic">Adam</hi> <hi rend="italic">vero  cognovit Evam uxorem suam, que concepit</hi> <hi rend="italic">et</hi> <hi rend="italic">peperit  Caym<ref target="n0075">75</ref>, dicens, Possedi  hominem</hi> <hi rend="italic">per</hi> <hi rend="italic">Deum,</hi> gratum Eve amorem videtur pretendere erga Deum, scilicet beneficii  ab eo recepti viscerosa professio, <hi rend="italic">Possedi per</hi> <hi rend="italic">Deum.</hi> Nec est  verisimile quin ipsorum primorum parentum tam grandis et Deo tam accepta ac  suis parentibus grata progenies per nongentos annos viventibus graciam impetrasset,  eciam si ad hoc parentibus opera propria nullatenus suffecissent; ex quo id in  multis posteris minoris meriti ac paucioris numeri constat actum. Nec eciam  omnisapienti Artifici prescio omnium futurorum videtur congruere suum futurum  patrem carnalem, ac tam nobilis progeniei humane primum parentem, hominem  dampnandum perpetuo statuisse; cum sibi potencia nequaquam defuerat primo  confingere non perdendum, quoniam nec homo sapiens sic egisset. Constat igitur  Adam ad graciam et ad illud dominium consequendum restitutum fuisse.</p></sp>
+</div2>
+
+<div2>
+<head>XVII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Miser ex peccato effectus, comedens panem suum cum  sudore atque dolore, non habuit par imperium super necessariis vite sue,  sicuti cum innocens libere eis sine omni molestia imperabat; unde non videtur  fuisse plene ad dominium perditum restitutus.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Paris iuris, non paris exercicii, ante et post peccatum  admissum erat eius auctoritas super rebus pro ipso et pro progenie sua creatis;  quoniam et senex et infirmus dominus idem habet super sua bona dominium quod  ipse iuvenis et validus optinebat, nec<ref target="n0076">76</ref> indoctus dominus docto domino minus habet dominium, nec incarcerates quam liber  dominio<ref target="n0077">77</ref> suo amplius est privatus; quoniam par ius residet in utrisque, quamvis exerci­cium  dominii sui remaneat longe infirmius. Sic in Adam penas corporales suas  premissas pro senio statuere potes dominii sui exercicium restringentes, equali  tamen ut ante peccatum respectu rerum sibi dominio restituto.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Saltem constat eum ad equalem libertatem corporis nullatenus  restitutum, et pari iudicio racionis nec ad equalem graciam spiritus debebat  restitui, aut fuerat restitutus; et si 
+
+<pb xml:id="dps.liber2.Image099" n="359" />
+
+gracia sua originalis non tota set in  parte sibi fuerat recollata, cum gracia (iuxta premissa) sit principium  formale dominii, omnino consequitur quod dominium in restitucione fuerat sinco  *patum.</p></sp>
+
+<sp who="ric"><speaker>RIC.</speaker> <p>Non videtur michi par racio de gracia et corporis libertate:  primo quidem quoniam non tota corporalis eius libertas fuit per peccatum  amissa, set fuerat imminuta per mortem, scilicet, per mortis necessitatem,  sicuti Ade pro pena a Deo fuerat comminatum<ref target="n0078">78</ref>; <hi rend="italic">In</hi> <hi rend="italic">quacunque</hi> <hi rend="italic">die ex</hi> <hi rend="italic">eo comederis, morte morieris</hi> (Gen.  ii. 17): ex quo dicto, ut puto, accepit apostolus illud quod dicit, <hi rend="italic">Statutum  est hominibus</hi> <hi rend="italic">semel</hi> <hi rend="italic">mori</hi> (ad Hebr. ix. 27). Stante vero necessitate corporalis mortis, non  potuit libertas corporalis plena restitui: gracia vero, de qua loquimur,  scilicet, reddens hominem Deo gratum seu carum ad vitam eternam, fuit in toto  amissa per peccatum commissum; naturalis tamen fuit Ade pro peccato inflictum  sive minatum<ref target="n0079">79</ref>, quod istam graciam  necessario excluderet sive minueret, cum postmodum sibi ac suis fuerit  restituta. Quamvis enim dampnacio fuerit annexa peccato, tamen non necessario  nectebatur, set sub condicione satisfaccionis remansit postmodum per Dominum  nostrum Iesum Christum sublata; et ob hoc gracia debebat restitui, quia sine ea  salus esse non posset. Quod autem tota debebat restitui, inde patet, quoniam si  minor gracia sibi restituta fuisset quam in peccando perdiderat, tamen secundum  gradum et mensuram gracie debebatur gloria seu vita eterna, gloriam minorem  habuisset discedens in gracia secunda quam si decessisset in prima. Hoc autem  non potest convenire divine iusticie, quoniam pro peccato suo debuit in hac  vita per eum seu per alium satisfaccionem plenam inpendere; igitur non debuit  post satisfaccionem impensam pro commisso peccato puniri. Punitus autem  fuisset, si sic cum eo fuisset actum, quoniam perdidisset partem glorie sibi  prius debite per graciam prius habitam et amissam, quoniam minor gloria minori  gracie correspondet: immo, consequitur quod ante adepcionem glorie non fuisset  pro suo peccato integre satisfactum, set remaneret per subtraccionem glorie  puniendus; quorum utrumque repugnat divine iusticie. Unde consequitur quod  quiscunque et quicunque restitutus ad graciam restituitur ad minus ad prius  amissam. Adam ergo, quamvis non ad exercicium eque liberum sui dominii, tamen  ad idem dominium vel equale, sicut ad equalem graciam, penitendo fuerat  restitutus, et pariter fuerunt omnes iusti sui posteri restituti<ref target="n0080">80</ref>:  quam conclusionem ea que supra adduximus ad probandum quod Adam in sua origine  debuit a suo summe bono, summe potente, ac summe sapiente Artifice istud rerum  dominium ad
+
+<pb xml:id="dps.liber2.Image100" n="360" />
+
+suam perfeccionem acquirendam accipere, sicut de Adam, ita de  singulis posteris eius ad graciam restitutis affirmant.</p></sp>
+</div2>
+
+<div2>
+<head>XVIII.</head>
+
+<sp who="ric"><p>Quam graciam <hi rend="italic">baptismalem graciam sive primam</hi> vocamus et  equalem in omnibus estimamus, cui infimum gradum felicitatis humane future, et  singulis aliis gradibus caritatis seu gracie amplioris ampliorem  proporcionaliter* gradum felicitatis future, verisimiliter credimus  compensandum; quoniam, cum hec gracia gratum Deo efficiat, et quanto quis est  Deo gracior sive accepcior tanto erit glorie celsioris, consequitur quod  quanto plus quis ditatur hac gracia in presenti, tanto ampliori ditabitur  gloria in futuro. Item, esto quod gracia quam Adam perdidit sibi nunquam  restituta fuisset, minor tamen illi gracia recollata fuisset ei; dominium non  minus extitisset ex integro restitutum quam, sicuti in presenti, idem dominium  seu equale in diversos successive pertransiit gracie et eciam sciencie  inequalis. Nec quoad integritatem dominii gracia sive sciencia aut corporis  valitudo sive libertas certa requiritur, set sufficit qualiscunque; sic nec in  Adam aut in suis posteris aliud exigi est dicendum quoad graciam, quam quod  gratum facientem graciam habuerunt in restitucione dominii. Sic enim michi  videtur de gracia, formali quoquomodo causa, sicuti de materiali causa dominii,  scilicet, mortalitate corporis, quod nec eius augmentum nec eius imminucio  auget seu minuit ipsum dominium seu ius eius; sicut nec augmentum mortalitatis  aut decrementum ipsius minuit aut auget dominium: alioquin amplius corrupti in  corpore, qui ampliorem ex hoc necessitatem moriendi incurrunt, amplius in  rebus haberent dominium, quod a veritate est absonum. Nudam<ref target="n0081">81</ref> enim naturam iustam mortalem, tanquam proprietas eius, sequitur  dominium istud ex integro, non gradus eius varius gradum diversum in ipsis;  sicut nec variatur sic positivum sive positive legis dominium per variacionem  mortalitatis et gracie secundum magis aut minus; licet merito deberet eo modo  variari dominium quod prudenter ab aliquo deberet aliquibus pro se sive  singulariter impertiri, ubi gradus gracie et indigencie et diuturnitas vite et<ref target="n0082">82</ref> circumstancie alie essent plurimum attendendi. Set nequaquam sic  fieri posset in specifica proprietate, que in omnes debebat indistincte traduci  ex uno parente, sicut magis . clarescet inferius. Apostolus hoc sentire  videtur, ad Gal. iv. i, 2<hi rend="italic">,</hi> <hi rend="italic">Quanta,</hi> inquit, <hi rend="italic">tempore heres parvulus est nichil differt</hi> <hi rend="italic">a servo, cum sit</hi> <hi rend="italic">dominus omnium;</hi> <hi rend="italic">set sub</hi> <hi rend="italic">tutoribus</hi> <hi rend="italic">et</hi> <hi rend="italic">actoribus est usque ad prefinitum tempus</hi> <hi rend="italic">a</hi> <hi rend="italic">patre:</hi> volens nobis ostendere, ut michi videtur, quod  imbellia minoris etatis integritatem dominii non excludit, <hi rend="italic">cum sit</hi> (inquit) <hi rend="italic">dominus omnium,</hi> licet robur 
+
+<pb xml:id="dps.liber2.Image101" n="361" />
+
+corporis ac scienciam spiritus et libertatem  utriusque excludat. Adam ergo et sui ad dominium perditum per peccatum per graciam fuerant restituti.</p></sp>
+</div2>
+
+<div2>
+<head>XIX.</head>
+
+<sp who="ric"><p>Nec obstat quod creditur a plerisque, scilicet, quod pro statu innocencie Adam  poterat  volucres, pisces, ac bestias, solo verbo seu nutu parere sibi compellere, quod non reperio in sacris Scripturis  expressum; quoniam, posito ita fuisse, quia exercicium dominii hec<ref target="n0083">83</ref> * concernunt, non  immediate ipsum dominium, et ob hoc sine diminucione dominii poterat istam libertatem seu facultatem  animancia subiugandi amittere: levius enim aut gravius, facilius seu  difficilius, posse exercere  dominium, nec dominium auget nec minuit. Nequit tamen negari quin talis  facilitas vel naturalis potestas sive libertas fuit adiecta dominio, sine qua nichilominus dominium integrum poterat remanere. Noe enim et filiis eius,  transacto diluvio, fuerat istud dominium tam  integre  restitutum quam integre fuerat nostris parentibus primis collatum. Quod verba benediccionis ipsorum in  egressu  de archa declarativa dominii eis collati,  superius hic expressa<ref target="n0084">84</ref>, patenter affirmant: <hi rend="italic">Omnes,</hi> inquit, <hi rend="italic">pisces</hi> <hi rend="italic">maris,</hi> <hi rend="italic">manta  vestre traditi sunt, et omne</hi> <hi rend="italic">quod</hi> <hi rend="italic">vivit  et movetur erit vobis in cibum; quasi olera virencia tradidi vobis hec omnia</hi> (Gen. ix. 2). Verba enim <hi rend="italic">Manui vestre traditi sunt,</hi> et <hi rend="italic">Quasi olera virencia tradidi vobis omnia</hi> non minus dominium super res ipsas pretendunt quam verba benediccionis primorum  nostrorum parentum pretendant, que  similiter supra posuimus, scilicet, <hi rend="italic">Dominamini piscibus</hi> <hi rend="italic">maris,</hi> etc. <hi rend="italic">Ecce dedi vobis omnem herbam<ref target="n0085">85</ref>, etc.</hi> Nec minus pretendunt integrum rerum dominium verba dicta Noe et finis suis, <hi rend="italic">Terror  vester ac tremor sit</hi> <hi rend="italic">super</hi> <hi rend="italic">cuncta  animancia<ref target="n0086">86</ref>,</hi> etc., quam verba illa dicta nostris parentibus, <hi rend="italic">Replete</hi><hi rend="italic"> terram et subicite eam<ref target="n0087">87</ref>,</hi> etc. Immo, si illa libertas compellendi  animancia sibi parere (quam superius prelibavi) ex  Scripturis  affirmari deberet, ex istis verbis  dictis Noe et filiis suis, <hi rend="italic">terror</hi> et <hi rend="italic">tremor</hi> (que  sunt graviores passiones quam timor et  pavor,  cum in corpus nocive redundent atque aperte), et <hi rend="italic">Manui vestre traditi sunt</hi> (ubi grandis valde libertas imperandi exprimitur),  et <hi rend="italic">Quasi olera virencia,</hi> etc. (que nequaquam  valent<ref target="n0088">88</ref> effugere humanum  imperium), multo patencius meo iudicio quam ex  aliquibus  verbis in benediccione  primaria parentibus nostris primis expressis posset probabilius suaderi; cum nullum verbum ibi positum tantam facultatem exprimat collatum  dominium. exercendi. Cum igitur ex hiis verbis secunde seu renovate  benediccionis  appareat quod ita rerum plenum dominium erat restitutum Noe  et filiis  eius sicut Adam accepit, non  oportet  
+
+<pb xml:id="dps.liber2.Image102" n="362" />
+
+ambigere quin dominium istud non diminute set  integre fuit tam primis nostris parentibus quam omnibus posteris iustis integre  restitutum; quamvis, quoad modum ipsum dominium exercendi sive modum rebus  utendi, fuerat imminutum aut verius aggravatum; immo, ut apcius eloquar, quamvis  modus exercendi ipsum dominium pro pena peccati fuerat aggravatus, iuxta illud  Eccli. xl. i, 2: <hi rend="italic">Occupacio magna est omnibus hominibus, et iugum grave</hi> <hi rend="italic">super</hi> <hi rend="italic">filios Adam,</hi> * <hi rend="italic">a die  exitus de ventre matris eorum usque in diem sepulture in matrem omnium: cogitaciones  eorum, timores<ref target="n0089">89</ref> cordis, adinvenciones, expectaciones, et dies defunccionis;</hi> et infra statim, <hi rend="italic">Furor et zelus, tumultus, fluctuacio, et timor  mortis, iracundia perseverans, et contencio<ref target="n0090">90</ref>.</hi></p></sp>
+</div2>
+
+<div2>
+<head>XX.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Dic an istud originale dominium, quod ostendisti in Adam iustificato et in singulis eius filiis oriri  per graciam, possit ab aliquo abdicari.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Michi videtur quod istud  dominium, quia est originale, non potest ab aliquo, servata iusticia,  abdicari; sicut possunt dominia  positivis legibus acquisita. Nemo enim iustus est qui iuste possit facere quod res hic create inferius non sunt propter eum create; nec potest  iuste facere quin per naturam iustam habeat auctoritatem eis utendi, licet pro  voto suo eis varie uti possit (ut infra patebit) et ipsum dominium perdere per  peccatum. Unde istud dominium nec vendi potest nec donari, cum non possit in  quemquam transferri: quilibet enim iustus dominium istud habet, et ideo iustus  ab alio non potest illud nec empcione nec donacione recipere; nec impius, quia  illud non habet, non potest illud vendere aut emendo recipere, cum (iuxta premissa) sine iusticia non sit capax ipsius.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Ista breviter accipio: set quid si quisquam vel ex complexione  corrupta vel ex lesione in materno utero aut ex complexionis sue natura fatuus  nasceretur? Talis homo rerum, ut videtur, dominium non haberet, cum rebus uti  non posset.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Quia in tali, postquam graciam baptismi susciperet, esset  anima racionalis iusta, secundum quam homo ad ymaginem et similitudinem Dei  erat factus, et eciam propter talem res  facte fuerunt; in ipso esset tale originale dominium, licet de facto usum  dominii habere non posset: ita enim res assumeret, velut brutum; in eo tamen  originalis utendi auctoritas remaneret. Quod ex  hoc liquide potest apparere, quod, si  per medicinam sive per miraculum discrecionem acciperet, impedimentis  discernendi corporalibus propulsatis, rebus iuste seu auctorizabiliter uti  posset; et tamen nulla per amocionem impedimentorum huius ad usum auctoritas  preberetur, licet causa a medico 
+
+<pb xml:id="dps.liber2.Image103" n="363" />
+
+quoad usum auctoritatem prohibens tolleretur.  Unde, sicut in ebrio manet sciencia, nec potu digesto aliqua sibi de novo  sciencia confertur; ita videtur ei fatuo quoad istud dominium, quod sine nova  facultate recepta, impedimentis utendi rebus sublatis, uti possit rebus ex sua  prius habita facultate.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Iuxta racionem istam videtur quod in peccante mortaliter  remaneat integrum istud originale dominium; quoniam, amoto postmodum  impedimento peccati, sine nova auctoritate * recepta (quoniam nullus carens  tali auctoritate tenetur eam recipere nisi velit), potest (ut videtur) plenarie  uti ipso.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Oblivisceris antea ostensorum. Sicut enim peccando gracia,  principium formale dominii originalis, est perdita, ita cum gracia redditur,  necessario ipsum redit: et sic recipitur nova auctoritas, quam tamen nullus  libere voluntatis recipit nisi velit; quamvis quilibet teneatur eam recipere,  eciam si non velit, ex quo graciam a qua separari nequit tenetur habere. Verum  est tamen quod, perdito isto originali dominio per peccatum, eo quod Dei  similitudo amittitur et similitudo brutorum incurritur (quoniam <hi rend="italic">cum homo in  honore esset, non intellexit, comparatus est iumentis insipientibus et similis  factus est illis<ref target="n0091">91</ref>);</hi> nichilominus tamen<ref target="n0092">92</ref> materialis causa dominii ipsius remanet in peccante, quoniam quantumcunque  homo delinquat semper in ymagine pertransit (intelligo, Creatoris); ymago vero  cum indigencia corporali (ut superius est expressum) est causa quasi materialis  istius originalis dominii: et ob hoc quidam titulus naturalis licet deformis ad  usum rerum remanet in peccante, quamvis dominium per amissionem sui formalis  principii amittatur.</p></sp>
+</div2>
+
+<div2>
+<head>XXI.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Queso te ut firmius figas istam radicem, scilicet, quod  dominium originale super res inferius hic creatas abdicari non possit, ex quo  est donum sive donatum, quoniam donum videtur posse libere respui a quocunque;  et michi videtur quod pariter potuit abdicari receptum, sicut poterat respui  primo oblatum.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Gracia data primo homini in sua creacione aut (secundum  Magistrum Sentenciarum) innocencia sive iusticia potuitne respui cum dabatur?</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Si dixero, Sic, scio quod argues eam datam in primo instanti  existencie hominis, quia<ref target="n0093">93</ref> illud supponitur in verbo <hi rend="italic">dabatur,</hi> et non datam, quia eam ne acciperet  respuebat: que sibi mutuo contradicunt.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Prudenter repugnanciam istam advertis: si ergo originale  dominium necessario huic dono annectitur, non magis potuit ipsum respui cum  dabatur, quam donum illud, scilicet, gracia sive iusticia, ad cuius accepcionem  necessario sequebatur.</p></sp>
+
+<pb xml:id="dps.liber2.Image104" n="364" />
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Hoc sequitur.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Dic tu an graciam necessario sequatur huiusmodi donum, aut  aliud quicquam previum illi ut recipiatur exigetur<ref target="n0094">94</ref>.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Angeli in sua creacione hoc<ref target="n0095">95</ref> donum acceperant et sine isto dominio; igitur aliquid aliud in homine primum  esse debuit, preter istam iusticiam seu graciam, ad cuius presenciam non in  angelo set in homine hoc originale dominium sequebatur.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Provide iudicasti; et hoc est eius corporalis mortalitas, qua<ref target="n0096">96</ref> angeli caruerunt: enim naturalis mortalitas * sive resolucionis possibilitas  naturalis exigit ut summe sapiens Artifex sibi necessaria remedia provideret;  homo enim (iuxta superius affirmata) sic erat creatus quod pro necessariis  corporis corporalis creature necessarium illi erat obsequium.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Attendo quod mortalitas previa fuit collacioni istius  originalis dominii; hoc enim extat superius declaratum.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Recte attendis: set nec ista mortalitas, sicuti nec gracia,  potuit ab homine respui cum dabatur propter tuam racionem premissam, que ex  respuicione repugnanciam inferebat.</p></sp>
+</div2>
+
+<div2>
+<head>XXII.</head>
+
+<sp who="ioh"><speaker>IOHANNES. </speaker><p>Sic fateor: set dic cur ista gracia respui non potuit ne  daretur, ex quo in primo instanti sue originis homo habuit libertatem arbitrii,  qua potuit male velle, sicuti potuit bene velle.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Nimis difficilem ingeris questionem, in qua, si tibi dixero  quod nulla creatura potest a se in primo sui esse quicquam habere, et ob hoc,  si in primo instanti potuisset peccare, Deus potuisset fuisse auctor illius  peccati, quod esse non potest (quamvis hoc videatur in locis pluribus de  Civitate Dei et alibi fuisse sentencia patris nostri atque doctoris maximi  Augustini); nisi causam tibi reddidero cur creatura libere voluntatis actum  liberum in primo sui esse a se habere non possit, sicuti in quocunque instanti  sequente, michi<ref target="n0097">97</ref> nullatenus acquiesces.  Verum si tibi dixero, ut michi videtur probabile, quod actus voluntatis nature  est fluide, sicut motus et semper, tamen est sic et gignitur, unde nec primum  instans essencie<ref target="n0098">98</ref>, sicuti nec motus, potest  habere de insolito; fortassis dicto miraberis, et graviter forte feres: licet  illud probabile videri posset quod dominus noster lesus in primo instanti sui  esse in anima non fuit actu beatus, quia actu caruit voluntatis, licet  perfectus tunc fuerit carismatibus graciarum; quod insuper vera beatitudo  perpetuo permansura<ref target="n0099">99</ref>, que consistit in actu, nullum habeat omnino inicium, nec actus habeat primum  esse qui necessario ultimum esse habere convincitur: eciam censebis non esse solitum dici apud communiter disputantes, licet  hoc necessario consequatur ex eo quod 
+
+<pb xml:id="dps.liber2.Image105" n="365" />
+
+nulla creatura quicquam habere possit a  se ipso<ref target="n0100">100</ref> set a suo Factore in prima sua origine, et ob hoc sequatur eciam quod tunc  omnino peccare non possit. Ponendo autem econtra quod actus quiscunque libere  voluntatis instantaneum habeat<ref target="n0101">101</ref> inicium, quod michi visum est posse de difficili sustineri, ne ex illo sequatur  meritum continuatum per tempus esse premii infiniti, aut actum pro uno instanti  nullius esse meriti, cum proporcionem ad meritum continuatum in tempore nullam  (ut videtur) proporcionem possit habere; investi* ganda est causa cur actus  bonus possit in primo esse alicuius creature haberi, non malus, quod puto nimis  difficile aut impossibile reperiri, cum ad utrumque actum in voluntate sit  plena facultas, et equa aut quasi equalis: aut invenienda est causa alia cur  neuter actus possit esse in primo instanti. In quo probabiliter dici posse  videtur quod actus voluntatis in primo instanti sui esse a Deo, tanquam a causa  agente sufficiente, esse non potest, quoniam non actus voluntatis tunc, set  passio sola esset, nec a voluntate in sua origine esse potest propter racionem  permissam de merito. Et quia, secundum philosophum nostrum duodecimo  Metaphisice, hoc interest inter causam agentem et causam formalem, quod agens  semper precedit factum, forma nequaquam, set in articulo, ut michi videtur; a  nobis expectandus est doctor, et dicamus cum Augustino nostro doctore quod non  potuit in primo instanti respui ne daretur hec gracia, sicut nec respui potuit  corporalis mortalitas; quia totum necessario sufficienter a Deo fuit, quod in  origine homo acceperat.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Assencio.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Sicut igitur iste cause huius originalis dominii non poterant respui ne darentur, cum in origine homini dabantur; sic nec istud dominium  poterat tunc homo respuere, si ad has causas necessario sequebatur. Si vero dixeris has causas non esse causas dominii, set aut simul in creacione cum dominio concurrisse, aut causaliter sequi dominium ordine naturali, non minus  consequitur, immo magis, quod dominium tunc respui omnino non potuit, ex quo sibi coeva aut posteriora origine respui nuilatenus potuerunt. Dic quid tibi videtur.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Ostende, si nosti, quod istud dominium tempore non sequebatur hec bona.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Nonne superius habes ostensum ex serie Scripturarum quod Adam  in sua prima origine accepit istud dominium, quod propter mortalitatem corporis  naturalem necessarium erat illi, ne summus Artifex in necessariis defuisset?</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Non statim ipso  creato oportuit uti rebus; uncle non videtur necessitas istius dominii in prima  origine.</p></sp>
+
+<pb xml:id="dps.liber2.Image106" n="366" />
+
+<sp who="ric"><speaker>RIC.</speaker> <p>Non sequitur; quoniam alias fuisset homo in sua origine necessariis destitutus, aut saltem in necessariis diminutus amplius volatilibus  celi et bestiis, quod glorie tanti sui Artificis derogaret; et nichilominus  perfeccionem hominis in sua creacione habes superius affirmatam: satis ergo est firmum quod Adam istud dominium respuere non poterat ne daretur, nec semel  acceptum ipsum abdicare poterat, gracia ad quam necessario in homine mortali sequitur remanente.</p></sp>
+</div2>
+
+<div2>
+<head>XXIII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Video istud originale dominium non posse ab aliquo  abdicari: set dic nunquit potest in aliquo minui aut augeri; et, ut magis  aperte intelligam, si quo modo illud originale dominium sive ista auctoritas  possit imminui, * ecce<ref target="n0102">102</ref>,  ex quo homo potest racionabiliter rem tractare auctoritate originali absque hoc  quod sic rem illam tractare necessarium sit eidem, videtur quod per votum  possit auctoritas illa restringi. Verbi gracia, homo ieiunare propter Deum  potest, et ita cibi usum restringere, quamvis iuste cibo uti poterit ampliori;  sic potest vestibus paucis uti, licet iuste pluribus uti possit; et potest  castitatem servare, licet uti possit uxore: videtur consequi quod possit ex  voto suam auctoritatem originalem, que ad huiusmodi usum (non dubium) se extendit,  ad usum necessarium et eciam rerum necessariarum propter Dei amorem  restringere.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Ut tua conclusio sequeretur, deberes, ut michi videtur, adicere quod semper, cum quis usum rerum haberet, posset gradum necessitatis distincte agnoscere; quod nemo poterit in hac vita, cum voluptas et cupiditas, velimus, nolimus, sepissime in nobis necessitatis pallio vestiantur. Quomodo enim quis ex voto se ad id possit astringere quod non potest distincte agnoscere, non videtur.</p></sp>
+
+<sp who="ioh"><speaker>IOH.</speaker> <p>Saltem sequi videtur quod ex voto potest se homo ad  necessarium et rerum necessariarum usum, dumtaxat suo seu alterius quem  superiorem in hoc forsitan vult habere iudicem, suam originalem auctoritatem  restringere.</p></sp>
+
+<sp who="ric"><speaker>RIC.</speaker> <p>Fateor ita esse, secundum modum<ref target="n0103">103</ref> exponendi in sexto libro istius, dum tamen id fiat in genere, non ad creatarum  rerum usum in specie, ne forte illis rebus absentibus et rebus ex voto  abdicatis presentibus nomen solvere urgeretur, aut sui ipsius fieri homicida.  Sicut enim, iuxta decretalem domini Nicholai III, <hi rend="italic">Exiit qui seminat, Nulla  prorsus potest esse professio que</hi> <hi rend="italic">a se</hi> <hi rend="italic">usum  necessarium suslentacionis excludit</hi>(cuius  dicti causa videtur, puta, quod nemo debet se sponte necessaria sibi subtrahendo  occidere aut se districte vite committere, sicut ibi videtur ante innuere); sic  nullus iuste potest alicuius certi cibi aut 
+
+<pb xml:id="dps.liber2.Image107" n="367" />
+
+potus usum ex voto simpliciter  abdicare, ne pariter in casu sib necessaria subtrahendo se ipsum occidat in  corpore, quoniam sic obligaret se ipsum ut in casu se faceret homicidam: <hi rend="italic">Et scitis</hi> <hi rend="italic">quod omnis homicida</hi> <hi rend="italic">non</hi> <hi rend="italic">habet  vitam eternam</hi> <hi rend="italic">in se</hi> <hi rend="italic">manenten</hi> (I loh. iii. 15) et <hi rend="italic">foras</hi> <hi rend="italic">canes,</hi> <hi rend="italic">venefici, impudici,</hi> <hi rend="italic">homicide,</hi> etc (Apoc. ultimo<ref target="n0104">104</ref>). Set quicunque ex voto habent quod carnes nor comedant aut vinum  non bibant, aut aliud huiusmodi, non ea vovent simpliciter, set cum excepcione<ref target="n0105">105</ref> casus necessitatis; quo casu quilibet obligatur, ut homicidium  caveat, uti suo originali dominio rei presentis si possit impune: set de isto  in sexto huius diffusior erit tractatus. Unde consequitur quod in quolibet  viro iusto integrum manet originale dominium, scilicet, quoad omnia sibi  subiecta, licet quoad usum in aliquibus sit restrictum; sicuti in omnibus *  ecclesie episcopis qui succedunt Christi apostolis semper est integrum  apostolici ordinis sacramentum sive auctoritas, licet quoad actus diversos per  eum qui summam habet iurediccionis auctoritatem in pluribus sit restrictum:  unde in utrisque, laxata obligacione sive voti sive precepti, sine nova  auctoritate donata, vigere potest quoad omnia sibi subiecta primeva auctoritas  ex quo dinoscitur, non in se, aliqualiter minorata, set tantummodo quoad usum  restricta.</p></sp>
+</div2>
+
+<div2>
+<head>XXIV.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Dic planius et<ref target="n0106">106</ref> nunquit potest augeri aut minui: michi enim apparet quod potest  augeri et minui; quia, si omnes homines innocenciam tenuissent, aliqui aliis  naturaliter fuissent apciores ad regimen, et ita aliqui naturaliter aliis  prefuissent; et michi videtur quod presidentes amplius dominium quam ceteri  habuissent.</p></sp>
+
+<sp who="ioh"><speaker>RICARDUS.</speaker> <p>De isto dominio originali ultimum<ref target="n0107">107</ref> istud non sequitur, quoniam illud dominium sequitur ingenuitatem  nature iuste primitus institute, aut peccatricis nature ad illam ingenuitatem  in pluribus per graciam restitute (iuxta preostensa superius), non condiciones consequenti tempore accedentes. Quod enim aliqui tunc, ut nunc, fuissent aliis  ad regimen magis apti, hoc tunc, ut nunc, ex diversitate extrinseca impressa corporibus, non ex, diversitate donorum originalium, contigisset. Ingenia enim  et robur ac pulcritudo corporum ampliora in quibusdam quam aliis, que homines  aliquos ad regimen reddunt aliis apciores, non ab origine, set ex acre, aqua, nutrimentis variis, diversitate regionum, inpressionibus diversis, et variis  influenciis corporum celestium in concepcionibus, in nativitatibus, et in cursu  naturalis augmenti, preter aut ultra condicionem nature primitus institute,  tunc, ut nunc (sicut videtur), licet non ita varie, provenissent: et ob hoc  primum originale dominium non mutassent, quamvis 
+
+<pb xml:id="dps.liber2.Image108" n="368" />
+
+aptitudinem seu facultatem aliquam ampliorem ad regimen attulissent; unde habentes talem aptitudinem ampliorem de lege nature ceteris preesse debebant.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Ex istis me quadam perplexitate constringis, quoniam  presidencia unius super alios, quam dicis debere fuisse in eis <hi rend="italic">de</hi> <hi rend="italic">lege</hi> <hi rend="italic">nature,</hi> originalem  auctoritatem super creaturas quantum ad usum earum in subditis cunctis minuit et restringit; et ita lex illa adversatur dominio originali: unde lex nature  sive lex naturalis nullo modo videtur, set pocius violenta; quod enim originale  beneficium michi tollit aut minuit, violentum michi videtur, nullatenus  naturale.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Aliud est dominium ipsum restringere sive minuere, ut iam  dixi; et aliud suum actum, sicuti de fatuo et ebrioso superius est ostensum, in  quibus usus dominii tollitur, non ipsum dominium. Pariter, quod unus alteri  est prelatus nequaquam minuit in se originale dominium, set eius actum ex causa  iusta restringit, seu minuit<ref target="n0108">108</ref>,  * et facit eum per hoc alterius probioris regimini esse subiectum, non eius  dominio: sicuti nunc viventes communiter, sibi statuunt prelatum sive  magistrum, ut presit ipsorum regimini, non eis ullatenus dominetur; set  quisque in bonis communibus optinet et retinet titulum parem pretori. Non enim  tunc aliud dominium hominibus necessarium extitisset, quando quisque voluntate  gratuita legi racionis sine rebellione omnimoda paruisset. Unde improvide  intulisti quod lex illa originali dominio adversatur, aut quod originale  beneficium tollit aut minuit; quoniam rerum usus non est originale beneficium  set eius effectus, nec racionabilis unquam restRiccio ius aliquod naturale  tollit seu dirimit. Et si adhuc traheris quod talis lex effectum et fructum  benefici originalis minuit aut restringit, attende quod, quia hoc fit secundum  exigenciam racionis, ideo sic fit non nocive; preter, hoc quod in aliis  commodis affert et proficit: sic quod originali beneficio simpliciter omnino  non nocet in statu presenti nec in statu innocencie nocuisset.</p></sp>
+</div2>
+
+<div2>
+<head>XXV.</head>
+
+<sp who="ric"><p>Admisso enim a parentibus nostris peccato, statim necessitatem  moriendi et infeccionem carnis, quam apostolus vocat <hi rend="italic">legem membrorum,</hi> ad  Rom. viii<ref target="n0109">109</ref>., et ad Gal. v. 16, <hi rend="italic">concupiscenciam  carnis,</hi> eorum corpora contraxerunt; qua concupiscencia non tantum eorum  corpora set eciam spiritus sunt infecti, ut in spiritibus eorundem a carnis  concupiscencia fieret quedam affeccio, quin verius quedam infeccio,  indelebilis in hac vita: quam michi videtur, I ad Thim. vi. 10, cupiditatem  apostolus appellare, cum dicit, <hi rend="italic">Radix</hi> <hi rend="italic">omnium  malorum est cupiditas;</hi> ex qua  cupiditate omnium malorum genera oriuntur. <hi rend="italic">Manifesta</hi> <hi rend="italic">sun.,</hi> inquit 
+
+<pb xml:id="dps.liber2.Image109" n="369" />
+
+apostolus, <hi rend="italic">opera carnis, que sunt fornicacio, immundicia, impudicicia, luxuria, ydolorum servitus, veneficia, inimicicie, contenciones, emulaciones, ire,  rixe, dissensiones, secte, invidie, homicidia, ebrietates, commessaciones, et  hiis similia</hi> (ad Gal. v. 19-21). Unde primogenitus Adam Caym ex hac  cupiditate invidia stimulatus iustum Abel fratrem suum occidit: propter quem et  alios similes tunc futuros lex positiva necessaria extitit, qua<ref target="n0110">110</ref> in illis, quos non retraheret a malo amor iusticie, timor pene,  huiusmodi maleficia cohiberet<ref target="n0111">111</ref>; ut alii viam vite sequentes bonis propter eos creatis liberius  uti possent, qui hiis bonis, nisi lex talis occurreret, propter iniquorum maliciam aut omnino uti non possent sine peccato ire fortassis aut impaciencie  aut alterius talis reprobe passionis, aut saltem cum tedio distrahente a bono,  bonis illis ex originali dominio sibi debitis uti non possent; nec sine  presidentibus bonis ac doctis possunt tales leges necessarie vite nostre  debitam execucionem habere. Unde clarescit quod racio sive lex naturalis  exposcit ad hoc quod * originale nostrum dominium inter multitudinem impiorum <hi rend="italic">(stultorum</hi> enim <hi rend="italic">infinitus est numerus,</hi> Eccl. i. 15, et <hi rend="italic">Lata est via que  ducit ad perdicionem et multi intrant per</hi> <hi rend="italic">eam</hi><ref target="n0112">112</ref>) exerceatur utiliter, quod sunt aliqui aliis presidentes. Ad hoc  facit quod non omnes eque merentur rerum usum habere; et ob hoc necessarium  fuit vite humane, ad hoc ut populus Dei veram culturam unius Creatoris hanc  vitam miserabilem transigendo servaret, per aliquos digniores meritis  presidentes, ultra leges nature, aliis adiectis legibus, populos gubernari.  Unde Deus populo a se electo ante ingressum terre promisse eorum patribus  legem dedit, quam pro magna parte Abrahe, quem terram sue nativitatis eius amore exire impulerat, ante contulerat, sicut scribitur Gen. xxvi. 4, 5, isto  modo ad Ysaac, <hi rend="italic">Daboque posteris tuis universas regiones has, et benedicentur  in semine tuo omnes gentes terre, eo quod obedierit Abraham voci mee, et  custodierit precepta mea et mandata, et ceremonias legesque servaverit.</hi> Et  pariter, si nostri parentes cum posteris in innocencia permansissent, leges  directive communicacionis civilis (homo enim naturaliter animal est civile  secundum philosophos), licet non refrenative improbe accionis per apciores ad  regimen exercende necessarie hominibus extitissent propter informacionem in  speculativis et in legibus concernentibus culturam debitam Creatori et proximi caritatem atque agendorum ac providendorum prudenciam, licet non ita necessaria  sicuti in presenti statu post lapsum.</p></sp>
+</div2>
+
+<div2>
+<head>XXVL.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Ista auctoritas presidendi debuitne fuisse aut vocari vere dominium?</p></sp>
+
+<pb xml:id="dps.liber2.Image110" n="370" />
+
+<sp who="ric"><speaker>RICARDUS.</speaker><p> Nequaquam; quoniam ista presidencia hominum subditorum  non fuisset dominium,quoniam ad actusdominii exercendos in ipsos, scilicet, ad  eos donandos, vendendos, locandos, consumendos, impignorandos, aut alios actus  huiusmodi qui sunt proprii actus dominii, nullatenus suffecisset: nec fuisset  rerum usualium<ref target="n0113">113</ref> dominium vocandum, primo  quidem quoniam non fuisset auctoritas res huiusmodi libere possidendi. Non enim  rector, eo quod talis, scilicet, racione regiminis, potest subditorum bona  libere possidere: ad dominium vero pertinet dominata libere possidere, iuxta  descripcionem dominii post istam in proximo declarandam. Item, ista auctoritas  non fuisset ius rebus usualibus subditorum utendi, sicuti in presenti prelatus  seu rector non potest libere uti bonis propriis aut communibus subditorum.  Item, angelis presunt angeli et eos gubernant, ut constitit nobis supra<ref target="n0114">114</ref>;  nec tamen ipsorum rectorum auctoritas dominium dici debet aut potest: non  fuisset igitur in hominibus innocenter viventibus quevis presidencialis  auctoritas dominativa; set in omnibus presidentibus ac subiectis, ad omnes  actus dominii exercendos, originale ipsorum equale dominium in racione dominii  suffecisset.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Non ita videtur; * quoniam, ex quo innocenter viventes  superiores rectores propter regimen habuissent, ita videtur quod propter  regimen in temporalibus reges habentes regale dominium, sicut propter regimen  in spiritualibus prelatos sive episcopos, statuissent.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Falleris manifeste: quoniam, sublato peccato per regimen  puniendo, non erit necessitas aliqua per potenciam cohercendi; et sublata  potencia maliciam refrenandi sive scelera puniendi, regale civile dominium  cassum erit, cum causa statuendi regem dominantem in gentibus sit per potenciam  rebelles<ref target="n0115"> 115</ref> iusticie cohercere. Unde  populus Israeliticus volens regem habere Samueli prophete suadenti contrarium  sic respondit, <hi rend="italic">Nequaquam: rex enim erit</hi> <hi rend="italic">super</hi> <hi rend="italic">nos, et erimus nos<ref target="n0116">116</ref> quoque</hi> <hi rend="italic">sicut</hi> <hi rend="italic">omnes gentes; et iudicabit nos rex nester, et egredietur ante nos,  et pugnabit bella nostra pro nobis</hi> <hi rend="italic">(I</hi> Reg.  viii. 19, 20): ubi officium regis describitur ex iudicio faciendo in populo,  quale non fuisset inter innocenter viventes, et ex proteccione ab impiis et  invasione seu cohercione malorum. Item, in presenti sunt communitates  plurimorum laicorum dominum<ref target="n0117">117</ref> nullum habentes, set annuales rectores; et sunt collegia clericorum sine civili  dominio si libet<ref target="n0118">118</ref>, sicud sextus huius  ostendet, vitam istam mortalem<ref target="n0119">119</ref> non solum quiete set utilissime sive perfectissime transigentes: unde clarescit  quod innocentem vitam agentes non egent civiliter dominante, licet egeant  civiliter presidente. 
+ 
+<pb xml:id="dps.liber2.Image111" n="371" />
+
+Item, constat hunc  populum Dei per Moysem primitus gubernatum, non tanquam per dominum, set per  eum tanquam per Dei, qui eorum dominus erat, ministrum. Unde populo regem a  Samuele petente Dominus per Samuelem respondit, <hi rend="italic">Audi vocem populi in omnibus  que loquuntur tibi; non enim te abiecerunt, set me, ne regnem</hi> <hi rend="italic">super</hi> <hi rend="italic">eos<ref target="n0120">120</ref>.</hi> Unde constat aperte quod rex primus eorum non  erat datus eis auctoritate Dei preceptiva, set previa populi voluntate, et  auctoritate Dei quasi exacta a populo per peccatum. Nunquid non erat peccatum  Deum abicere ne super eos regnaret? Si igitur rex habens civile dominium super  gentes aut bona ipsorum non erat primo institutus nisi exacto a Deo, quin  pocius Deus voluit a sacerdotibus populum gubernari absque ipsorum civili  dominio super eum aut super terras aut alia bona ipsorum; quanto magis, quando  cuncti iusti fuerunt, nulla penali lege egentes, sed<ref target="n0121">121</ref> auctoritas presidencialis sufficiebat ad innocentes regendos, non erat  necessarium aliquod dominium civile. Nunquit autem tale dominium fuit postmodum  institutum a Deo, et quo tempore et propter quam necessitatem; aut a Deo aut ab  hominibus, an per tirannidem, fuerat primitus interductum civile dominium, et a  Deo postmodum tolleratum an approbatum an preceptum aliquibus gentibus, cum de  tali dominio infra in quarto huius tractabitur, tibi<ref target="n0122">122</ref>, si<ref target="n0123">123</ref> id necessarium operi nostro presenti censueris, li*cebit inquirere.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Sic fiat: set cum  Scriptura premissa exprimat isto modo, <hi rend="italic">Non enim te abiecerunt, set me, ne regnem</hi> <hi rend="italic">super</hi> <hi rend="italic">eos,</hi> videtur quod saltem regem Deum habebant.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Verum affirmas; et Deus eciam civiliter, scilicet, iuxta  leges civiles, quas per Moysem eis tradidit, eos rexit; et rex veraciter erat  ipsorum, habens plenum dominium in ipsis et in omnibus bonis eorum.</p></sp>
+</div2>
+
+<div2>
+<head>XXVII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Adhuc non ex toto quietor; quoniam si primi nostri parentes, ut videtur doctis  et sanctis hominibus, in innocencia permansissent, ipsi cum tota posteritate  sua in sua origine fuissent in iusticia confirmati, quod amplius peccare non  possunt, sicut credimus  in angelis esse factum; et sic sequi videtur quod nullus eorum alteri prelatus  fuisset. Quid tibi videtur?</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Angeli qui in prima temptacione steterunt<ref target="n0124">124</ref> ita fuerunt in iusticia confirmati quod in eternum peccare non possunt; et  tamen aliqui eorum aliis sunt prelati, iuxta Scripturam, Dan. X. 13 et Zach. ii. et iii; et  eciam aliqui eorum aliis sunt apciores ad regimen, licet sint angeli  confirmati.</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Angeli qui steterunt, sicut post confirmacionem in bono
+
+<pb xml:id="dps.liber2.Image112" n="372" />  
+
+diversam gloriam acceperant et diversas virtutes, sic suo mode ante  confirmacionem erant in diversis gradibus divine similitudinis constituti; et<ref target="n0125">125</ref> sic alii aliis erant ab origine ad regimen apciores: homines autem, ut videtur,  econtra; quoniam, si primi parentes nunquam peccassent, nunquam ex corrupcione  corporis fuisset in diversis complexio variata; et animas, ut credimus, equales  in bonitate nature Deus eis creasset. Unde non videtur quod a suo equissimo  Creatore atque Distributore bonorum impares magis in donis gratuitis quam in  natura fuissent. Profer ergo, si nosti, unde aliqui aliis ab origine fuissent  ad regimen apciores, quamvis hoc in angelis habeat veritatem.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Quamvis non ex corrupcione corporis fuisset variata complexio  in nostra progenie, si nostri primi parentes nunquam peccassent, tamen<ref target="n0126">126</ref> videtur quod, sicuti corpora celestia creata sunt<ref target="n0127">127</ref> propter hominem, scilicet<ref target="n0128">128</ref>,  ut faciant diem et noctem, menses et annos, et luceant<ref target="n0129">129</ref> super terram, iuxta Scripture sacre principium, ex quo ego intelligo quod  virtute lucis eorum ex variis coniunctionibus et ex variis motibus eorum  temporibus diversa temperamenta et diversas complexiones in ipsis<ref target="n0130">130</ref> inferioribus mixtis fecissent, sicut in animalibus, volucribus, et herbis  faciunt in presenti, sic quod diversas complexiones, eciam si homines nunquam  peccassent, in diversis hominibus, diversis temporibus, et diversis regionibus  effecissent: unde eo casu, ut in casu presenti, aliqui aliis nobilioris  complexionis, et per consequens apcioris ingenii, et ad regimen magis apti  fuissent. Et eo amplius hoc videtur, quod parvuli nati per temporum intervalla  corporum augmenta sump*sissent: unde in sciencia, quam longitudo dierum per  sensus et experienciam solet adducere, pariter ut in crementis corporalibus  profecissent et potuissent libere minus et amplius studio sapiencie indulgere,  sicuti corporaliter minus ac amplius laborare, et in diversis artibus, ut  videtur, tam phisicis quam mechanicis sua ingenia exercere. Quis enim negare  poterit quin in innocencia permanentes et terram subicientes suo dominio iuxta  divinum<ref target="#_ft131">131</ref> imperium poterant edificia maiora sive minora, vestes pro suis usibus, sellas  ac frena pro equis, aratra ac carectas, et huiusmodi alia innumerabilia, que ad  vitam utilia eis fuissent, sine<ref target="n0132">132</ref> <hi rend="italic">vultus</hi> tamen <hi rend="italic">tui sudore</hi> ac quavis fatigacione corporis, pro voto  suo, ut in presenti, efficere. Item, ex eo videtur probabile, quoniam corpora  possibilia ab extrinseco habuissent, et non omnes in Paradisi amenitate mansissent;  quoniam sic tota terra quasi ociosa fuisset: contra istud, <hi rend="italic">Hec dicit Dominus  creans celos, ipse</hi> <hi rend="italic">Deus</hi> <hi rend="italic">formans  terram, ipse plastes eius;</hi> <hi rend="italic">non in</hi> <hi rend="italic">vanum  creavit</hi> <hi rend="italic">eam<ref target="n0133">133</ref>, set</hi> <hi rend="italic">ut</hi> <hi rend="italic">inhabitetur</hi> <hi rend="italic">for-</hi>
+
+<pb xml:id="dps.liber2.Image113" n="373" />
+
+<hi rend="italic">mavit eam</hi>, Ysa. xlv. 18.Unde consequitur quod, passionibus elementorum expositi, indigenciam preveniendo sibi necessaria  providissent. Quomodo eciam alias de hominibus impleti fuissent diversi et  omnes ordines angelorum, quorum aliqui aliis ampliori sapiencia et gloria sunt  ornati, nisi de hominibus aliqui aliis in merito amplius profecissent, penitus  non videtur. Unde consequitur quod in innocencia permanentes alii aliis propter  maiorem profectum iuxta racionis exigenciam prelati fuissent; et in hominibus tunc, sicut nunc, ierarchia ecclesiastica celesti fuisset ierarchie conformis.  Quod insuper apostolus de muliere afirmat, quod <hi rend="italic">Adam non</hi> <hi rend="italic">est seductus, mulier autem<ref target="n0134">134</ref> seducta</hi> <hi rend="italic">in  prevaricacione</hi><hi rend="italic"> fuit</hi> (I ad Thim. ii. 14), videtur innuere quod mulier minonis iusticie<ref target="n0135">135</ref> in sciencia per doctrinam proficere potuisset, si in innocencia perstitisset,  ita ut post a serpente nequaquam seducta fuisset:sic enim in facti illius  circumstanciis auxit peccando scienciam, dicente Scriptura, <hi rend="italic">Qui<ref target="n0136">136</ref> comedit,</hi> <hi rend="italic">et</hi> <hi rend="italic">aperti sunt oculi amborum; cumque cognovissent</hi> <hi rend="italic">se</hi> <hi rend="italic">esse nudos, consuerunt </hi><hi rend="italic">folia</hi> <hi rend="italic">ficus,</hi> <hi rend="italic">et</hi> <hi rend="italic">inde  fecerunt sibi pizomata</hi> (Gen.  iii. 6, 7).</p></sp>
+</div2>
+
+<div2>
+<head>XXVIII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Videtur ex istis quod primi parentes nostri et eorum  posteri, si in innocencia permansissent, nichilominus proficere in sciencia  potuissent, immo in sciencia alii aliis amplius profecissent, ut faciunt in  presenti, et alii aliis iuxta racionis exigenciam prelati fuissent: set non  video esse firmum illud aliud quod tu superius posuisti, scilicet, quod, si stetissent in innocencia, confirmati fuissent, ita ut postmodum peccare nullatenus,  sicut nec post confirmacionem angeli, potuissent; quoniam, ut videtur, segnius  atque ardencius sua opera exequi potuissent, et voluntate libera forcius atque debilius velle poterant agere que egissent, aut * illa domnino omittere, ut videtur;  et sic malum committere et bonum omittere nequiter potuissent.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>In isto secundo doctorem libenter acciperem, quia vereor  meis maioribus obviare. Si tamen<ref target="n0137">137</ref> tibi respondero quod ita de cis, sicuti cum angelis quoad hoc ab aliquibus  creditur esse actum, scilicet, quod non obstante confirmacione in bono  proficere potuissent, Deo ita voluntatem eorum conservante et quodam modo alligante in bono, ut peccare non possent, sicut econtra demones obdurati possunt peccare, nequaquam tamen in bono proficere; quid censebis?</p></sp>
+
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Nullatenus valeo estimare quod filii Ade parvuli ignorantes in sua origine confirmati ita fuissent, quoniam sic illi ampliorem gloriam gratis omnino quam angeli aut sui primi parentes in sua origine accepissent; quod sapienciam omni-
+
+<pb xml:id="dps.liber2.Image114" n="374" />
+
+potentem, ut michi videtur, facere non deceret: sine merito enim previo quemquam confirmare in bono, que confinnacio, non dubium, grandis fuisset promocio, nescio qualiter congrueret sapienti; homines enim, cum utuntur prudencia, non sic agunt: et  multo est gloriosius fragilem indeclinabiliter ac fortiter operari quam firmum:  nec decuit, ut videtur, quod sapiencia summa filios parentibus pretulisset; parentes vero in Paradiso ante prevaricacionem veniale peccatum commiserunt, sicuti in quodam opusculo tuo de peccato primorum angelorum et hominum  suasisti.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Quid si tibi respondero filios ipsorum, non obstante  confirmacione in bono, venialiter potuisse peccare, sicut parentes in  innocencie statu potuerant?</p></sp>
+
+<sp who="ioh"><speaker> Ioh.</speaker> <p>Sic non michi via occurrit quovis in eis non fuisset  facultas, recepto mandato, peccandi mortaliter; quoniam actus sine precepto  venialis existens, recepta prohibicione efficeretur mortalis.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Quid si econtra quisquam astrueret quod in posteris Ade, si  innocens perstitisset, habita prohibicione actus qui sine peccato venialis  fuisset, voluntatem in eis cohibuisset ab illo actu confirmacio naturalis; quod  in eo casu, ut videtur, aliquibus probabiliter dici posset: et ita consequenter  esset dicendum quod posteri, ut parentes, in innocencia peccare venialiter, non  mortaliter, potuissent, confirmacione uni peccato obstante non alteri?</p></sp>
+
+<sp who="ioh"><speaker>Ioh.</speaker> <p>Quomodo in hominibus confirmatis et non in angelis  confirmatis fuisset, oporteret exprimere.</p></sp>
+
+<sp who="ric"><speaker>Ric.</speaker> <p>Ibi adhuc probabiliter dici posset quod, quia angeli non tantum sunt confirmati in bono originali, set in gloria cui omne peccatum  repugnat, ob hoc eorum confirmacio repellit omne peccatum; hominum vero  confirmacio, quia non fuisset in gloria, set in bono nature eis congenito, non necessario cuiuscunque peccati exclusiva fuisset. Si enim quisquam hec dixerit, tuis posset primis obiectibus<ref target="n0138">138</ref> respondere quod inconveniens non videtur quod filii ad maiorem gloriam quoad  hoc, licet non simpliciter, quam eorum parentes aut angeli * in sua origine, accepissent; dum tamen propter meritum suorum parentum id factum fuisset,  quoniam hoc in parentum gloriam redundaret; sicuti sapiencia atque diviciis  Deus, propter merita David servi sui, Salomonem suo patre David amplius  reddidit gloriosum, non tamen simpliciter, cum de David patre suo sit dictum, <hi rend="italic">Inveni virum secundum cor meum<ref target="n0139">139</ref>.</hi> Item, non recte appellas id promocionem in bono, si in filiis ab origine sua fuisset; cum  promocio in nullo valeat apte dici, nisi post carenciam dignitatis
+ 
+<pb xml:id="dps.liber2.Image115" n="375" />
+
+accepte; cum  promocio sit <hi rend="italic"></hi><hi rend="italic">procul mocio</hi> ab  extremo, scilicet, privato ad habituatum extremum. Item, non generaliter est  verum quod adicis, quod gloriosius est fragilem indeclinabiliter ac fortiter  operari quam firmum: sic enim Christi opera essent minus gloriosa dicenda, qui  fragilem voluntatem non habuit, quam opera infirmorum; illud enim veritatem  necessarium non habet nisi cetera paria supponantur.</p></sp>
+</div2>
+
+<div2>
+<head>XXIX.</head>
+
+<sp who="ric"><p>Verum, quia in isto nichil audeo certum astruere, ecce, aliud  michi probabile tibi promo: scilicet, quod, quamvis in statu innocencie filiis  confirmatis filii in sciencia potuissent proficere, diversa opera exercere  libere atque omittere, idem opus ardencius aut tepidius eciam pro voluntate  libera exercere, et ita minus aut amplius promereri (sicuti <hi rend="italic">Qui</hi> <hi rend="italic">virginem suam matrimonio iungit bene facit<ref target="n0140">140</ref>, qui non iungit  melius facit,</hi> secundum Apostolum,  I ad Cor. vii. 38); non propter hoc sequitur quod venialiter poterant peccare  obstante confirmacione ipsa<ref target="n0141">141</ref> veniali peccato sicud<ref target="n0142">142</ref> mortali. Unde ab aliquibus probabiliter estimatur quod angeli in merito  possunt proficere, licet peccare non possint. Item, si quis econtra astrueret  quod filii Ade, si ipse non peccasset, quamvis in sua origine fuissent habituri  iusticiam, nequaquam tamen<ref target="n0143">143</ref> fuissent sine suo certo merito in illa iusticia confirmati quin perverse agere  potuissent, licet de facto nullatenus peccavissent; quamvis venerabilis  Anselmus videatur in libello suo Cur Deus homo sentire contrarium: nunquid  posses eum remittere? Racio enim quam affert, quod meritum parentis non minus  est efficax ad confirmandum posteros eius in iusticia, quam sit peccatum  ipsius ad eos in iniusticia alligandos, non satis firma videtur; quoniam esto  quod illud habeat veritatem, cum peccatum eius non poterat sic in iniusticia  suos posteros alligare quin poterant veraciter penitere et ad graciam penitendo  restitui, quomodo credimus nos salvari, licet ad eos in iniusticia poterat  alligare<ref target="n0144">144</ref>, scilicet, donec possent  discrecionis tempus attingere? Ex alia parte econtra vel amplius sequi  videtur, nisi quod iusticia sua poterat suos posteros in iusticia alligare ad  tempus equale, scilicet, usque tempora indiscrecionis transigerent; preter hoc  quod peccatum mortale videtur gravius esse in malo quam meritum eius fuisset in  bono, cum peccato mortali * debeatur pena eterna, et gracia Dei vita eterna (ad  Rom. vi. 23).</p></sp>
+
+<sp who="ioh"><speaker>IOH.</speaker> <p>Istud ultimum michi multum probabile videtur, nisi quod ex hoc sequi videtur quod in genere hominum eo casu potuit evenisse nimis  inhonesta deformitas, si aliqui peccassent et Adam et aliqui alii ab eo progeniti in innocencia perstitissent;
+ 
+<pb xml:id="dps.liber2.Image116" n="376" />
+
+quoniam peccatores omnes necessitatem  mortis habuissent, sicud Adam et sui nunc pro scelere incurrerunt, et ceteri  immortales fuissent: et videretur in eo casu divina providencia defecisse in  una societate tam deformes in condicionibus statuendo.</p></sp>
+
+<sp who="ric"><speaker>RIC.</speaker> <p>A te ipso preter Scripturam istam mortis necessitatem  peccatoribus in casu predicto attribuis; cum ilia pena non fuerit generaliter  comminata cunctis hominibus, set solum primis nostris parentibus; nec illis pro  quocunque peccato, set pro sola comestione fructus prohibiti: <hi rend="italic">De</hi> <hi rend="italic">ligno,</hi> inquit, <hi rend="italic">sciencie  boni </hi><hi rend="italic">et</hi> <hi rend="italic">mali</hi><hi rend="italic">ne comedas;</hi> <hi rend="italic">in</hi> <hi rend="italic">quacunque  enim</hi> <hi rend="italic">die ex</hi> <hi rend="italic">eo  comederis morte morieris</hi> (Gen.  ii. 17).</p></sp>
+</div2>
+
+<div2>
+<head>XXX.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Si in casu perseverancie nostrorum primorum parentum in  bono aliqui eorum posteri aliis prelati fuissent, dominium istud originale amplius fuisset in prelatis quam in subditis; quia in ipsis fuisset maior  auctoritas rebus utendi.</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Non sequitur; quia auctoritas illa, ut claruit,  ministerialis dumtaxat et adventicia eis fuisset, non ex natura specifica eis  proveniens, scilicet, non ex iusta natura racionali mortali: sic quod,  supposito in presenti, donec discuciatur in tercio, quod in apcioribus ad  regimen fuisset duplex auctoritas rebus utendi, una originalis que ponitur in  descripcione dominii (cuius causa est cum iusticia racionalis mortalitas) et  alia personalis adiecta nature abextra (que, licet dici valeat naturalis, quia  ex cursu naturali agencium et paciencium, nequaquam tamen originalis seu  specifica dici deberet aut fuisse dominium poterit affirmari, ut superius est ostensum, set fuisset, ut ibi constitit, ministerium appellandum<ref target="n0145">145</ref>), quamvis eciam utramque auctoritatem terciam<ref target="n0146">146</ref> cum eis ac<ref target="n0147">147</ref> quartam, quam quis  suffragantibus sibi condicionibus naturalibus seu per eleccionem aut iure alio positivo aliquis acquisisset, unam auctoritatem appellare velimus: nequaquam  ex ampliacione illius tocius auctoritatis consequitur ampliacio originalis  dominii, pocius quam ampliacio recte racionalitatis mortalis quam immediate  consequitur; sicut nec in herede cuiusquam, qui sibi dominia nova seu alia iura  acquirit, sequitur propter hoc ampliacio hereditarii dominii patris sui.  Pariter videtur de primis coniugibus, quoniam maior auctoritas, ut videtur,  eciam naturalis fuit in viro quam in muliere rebus utendi propter eos creatis;  quoniam naturaliter ipsa debuit viro esse subiecta et minus apte disposicionis  erat ad regimen. Set quia maioritas causam accepit a natura corporis, nequaquam  mutare potuit sive minuere auctoritatem, que *causam habuit originalem naturam  specificam, scilicet, naturam racionalem iustam mortalem: sic quod michi  videtur quod in omnibus hominibus ac mulieribus
+ 
+<pb xml:id="dps.liber2.Image117" n="377" />
+
+in casu innocencie supradicto  dominium istud originale equale fuisset, supposito (ut tenemus communiter) quod  omnes humane anime in essencia fuerunt equales, sicuti equalis fuisset in eis  racionalitas mortalis aut racionalis iusta mortalitas.</p></sp>
+</div2>
+
+<div2>
+<head>XXXI.</head>
+
+<sp who="ric"><p>Quod eciam ex hoc valet adverti quod in fine seculi ultimus iustus  relictus, si solus fuerit, masculus aut femella, istud totum originale dominium  quod Adam habuit ante creacionem mulieris, sine omni novo iure adventicio quod  ipsum dominium augere valuerit, optinebit: ita quod tunc erit in actu  singulare, scilicet, uni soli conveniens, licet communicabile<ref target="n0148">148</ref> sit de sua<ref target="n0149">149</ref> natura, sicut humana  natura ad quam divina institucione consequitur, scilicet, racionalis mortalitas  sic erit tunc propria et communis.</p></sp>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>Quid si dixero quod ille ultimus iure hereditario et ita  iure adventicio illud tune dominium auctum post aliorum obitum recepisset, et  iam in cursu presenti forte recipiat?</p></sp>
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Illud minus prudenter astrueris; cum effectus cause  cuiusvis nunquam possit esse causa augende proprietatis originalis sive cause  prioris, quoniam effectus quiscunque cause cuiusque et sua originalis  proprietas aut coeve sequuntur ad causam, aut effectus posterius via nature eam  consequitur quam sua naturalis proprietas: dominium vero quodcunque adveniens  est nature racionalis mortalis effectus, et ob hoc non potest efficere nec  augere dominium originale, quod est proprietas nature racionalis mortalis; quod  exemplo tibi clarescit. Ecce, enim, risibilitas proprietas est nature humane,  ponamus, et primus effectus nature humane in statu creacionis videtur esse actus intellectivus<ref target="n0150">150</ref>:  constat autem quod non coeve, set prius naturaliter, sequitur risibilitas ad  naturam humanam quam actus intelligendi; nec ipse intelligendi actus unquam causa risibilitatis potest existere, nec eam potest augere: non dico quin  potest actum risibilitatis minuere seu augere; quoniam sicut natura est prior  causalitate proprietate sua, sic primus nature actus est prior actu  proprietatis ipsius, et ob hoc ordine nature potest et debet, prout congruit,  actum augere sive minuere.</p></sp>
+</div2>
+
+<div2>
+<head>XXII.</head>
+
+<sp who="ioh"><speaker>IOHANNES.</speaker> <p>In statu innocencie et in statu presentis miserie  diversi filii Ade et filie diversa corpora et varie per quattuor humores  corporis complexionata iuxta diversitatem suorum naturalium habuissent: unde  aliqui aliis rebus creatis pro sustentacione sua pluribus eguissent, nec  dubium quin ad omnia sibi necessaria de rebus sumenda auctoritatem ab origine  recepissent; unde sequi videtur quod illi ampliorem auctoritatem et amplius  dominium eciam originaliter habuissent.</p></sp>
+
+<pb xml:id="dps.liber2.Image118" n="378" />
+
+<sp who="ric"><speaker>RICARDUS.</speaker> <p>Non pro statu innocencie nec de dominio illo pri* mario,  set pro presentis statu miserie, et forte de adventicio, recte inferres;  quoniam primarium dominium Adam recepit, quia creatus fuit ad Dei ymaginem et  similitudinem in anima et in corpore, egens creaturarum obsequio propter  mortalitatem ipsius: unde<ref target="n0151">151</ref> ut vesceretur de lignis Paradisi preceptum acceperat, sic quod nudam naturam  iustam consequitur ista auctoritas; et ob hoc, quamvis in posteris personis  corporis natura, sicut et anime, ab ipsorum origine fuisset in accidentibus  variata, quia tamen in essencia nec corporis nec anime mutata fuisset essencia,  que essencia est causa immediata huius originalis dominii, ideo istud dominium  tunc mansisset et nunc manet in omnibus immutatum et in cunctis equale, sicut  michi videtur probabile; et probabilius suadentem contrarium libenter audirem ac  eius suasionibus quietarer. Nunquid vero ista condicio aut prioritas originis  seu quevis talis condicio ius aliquod proprium attulisset, proximus liber  ostendet. Perge ad nostrum propositum exequendum ulterius.</p></sp>
+
+<p><hi rend="italic">Explicit liber secundus.</hi></p>
+</div2>
+</div1>
+
+</body>
+
+<back>
+<div1>
+<note xml:id="n0001">1.B hoc</note>
+<note xml:id="n0002">2. B positum: M positis</note>
+<note xml:id="n0003">3. B In Adam quam in (bis scriotum est)</note>
+<note xml:id="n0004">4. B precedens</note>
+<note xml:id="n0005">5. Suus codd. Finis??</note>
+<note xml:id="n0006">6. M obstc: B obstat</note>
+<note xml:id="n0007">7. B et dominamini om.</note>
+<note xml:id="n0008">8. Lib. 1. 23. ??</note>
+<note xml:id="n0009">9. M quamcunque: B quam</note>
+<note xml:id="n0010">10. M commodatarius</note>
+<note xml:id="n0011">11. Gen 1:29</note>
+<note xml:id="n0012">12. Gen 1:27</note>
+<note xml:id="n0013">13. Gen 2:1</note>
+<note xml:id="n0014">14. B adibui</note>
+<note xml:id="n0015">15. Gen 2: 24</note>
+<note xml:id="n0016">16. Cap. i. 13, 14</note>
+<note xml:id="n0017">17. Gen 2:15</note>
+<note xml:id="n0018">18. B supposita</note>
+<note xml:id="n0019">19. Gen 1: 29, 30</note>
+<note xml:id="n0020">20. De postestate: B deposite</note>
+<note xml:id="n0021">21. Luc: codd. Matt??</note>
+<note xml:id="n0022">22. M magis apta: B quam apta</note>
+<note xml:id="n0023">23. Gen 11:6</note>
+<note xml:id="n0024">24. B racio om.</note>
+<note xml:id="n0025">25. B origi: M orii??</note>
+<note xml:id="n0026">26. Eccli. 17:4, 5</note>
+<note xml:id="n0027">27. B non urgeat om.</note>
+<note xml:id="n0028">28. Ps. 8:6, 7</note>
+<note xml:id="n0029">29. Ps. 8:8</note>
+<note xml:id="n0030">30. Gen 1:29</note>
+<note xml:id="n0031">31. ii. codd. I</note>
+<note xml:id="n0032">32. B posicio</note>
+<note xml:id="n0033">33. Gen 2:19</note>
+<note xml:id="n0034">34. M si</note>
+<note xml:id="n0035">35. B legatia</note>
+<note xml:id="n0036">36. B accepisse om.</note>
+<note xml:id="n0037">37. B gloriam</note>
+<note xml:id="n0038">38. B semparatim</note>
+<note xml:id="n0039">39. B dominio</note>
+<note xml:id="n0040">40. B stimus??</note>
+<note xml:id="n0041">41. B et om.</note>
+<note xml:id="n0042">42. Ps. 8:6</note>
+<note xml:id="n0043">43. Ipsum…affirmat (nfra, 1. 36) in M desunt</note>
+<note xml:id="n0044">44. Ps. 8:9</note>
+<note xml:id="n0045">45. B pluribus</note>
+<note xml:id="n0046">46. xiii: codd. 12.</note>
+<note xml:id="n0047">47. M tantum aut om.: B et cetera??</note>
+<note xml:id="n0048">48. B cum</note>
+<note xml:id="n0049">49. Ezechiel 28:14</note>
+<note xml:id="n0050">50. Ezechiel 28:16</note>
+<note xml:id="n0051">51. B poterat om.</note>
+<note xml:id="n0052">52. M tamen  (somewhere around here)</note>
+<note xml:id="n0053">53. M consetis ??</note>
+<note xml:id="n0054">54. Istud ??</note>
+<note xml:id="n0055">55. B eva indicis</note>
+<note xml:id="n0056">56. Matt: 1:16</note>
+<note xml:id="n0057">57. M quia: B quin</note>
+<note xml:id="n0058">58. B continebit</note>
+<note xml:id="n0059">59. Gen 1:28</note>
+<note xml:id="n0060">60. Gen 1:29</note>
+<note xml:id="n0061">61. B licet nominat om.</note>
+<note xml:id="n0062">62. Matt. 27:20</note>
+<note xml:id="n0063">63. B. cui9qz ??</note>
+<note xml:id="n0064">64. B quia…deitatis (ante aut) om.</note>
+<note xml:id="n0065">65. B humana om.</note>
+<note xml:id="n0066">66. Supra, lib.i. 4.</note>
+<note xml:id="n0067">67. M istud: B ad</note>
+<note xml:id="n0068">68. Supra, p. 347</note>
+<note xml:id="n0069">69. B inferius</note>
+<note xml:id="n0070">70. B previam</note>
+<note xml:id="n0071">71. Matt. 5:45</note>
+<note xml:id="n0072">72. Nie: codd. nos</note>
+<note xml:id="n0073">73. B movetur in terra</note>
+<note xml:id="n0074">74. B quia</note>
+<note xml:id="n0075">75. B Caym om.</note>
+<note xml:id="n0076">76. B sic</note>
+<note xml:id="n0077">77. B non</note>
+<note xml:id="n0078">78. B commutatum</note>
+<note xml:id="n0079">79. B minuatum, a autem eraso ??</note>
+<note xml:id="n0080">80. Supra, pp. 340 seqq. ??</note>
+<note xml:id="n0081">81. B mundam</note>
+<note xml:id="n0082">82. B et om.</note>
+<note xml:id="n0083">83. B hoc</note>
+<note xml:id="n0084">84. Supra p. 357</note>
+<note xml:id="n0085">85. Gen 1:28, 29</note>
+<note xml:id="n0086">86. Gen 9:2</note>
+<note xml:id="n0087">87. Gen 1:28</note>
+<note xml:id="n0088">88. B valet</note>
+<note xml:id="n0089">89. B tumores</note>
+<note xml:id="n0090">90. Eccli. 40:4</note>
+<note xml:id="n0091">91. Ps. 48: 13,21</note>
+<note xml:id="n0092">92. B cum</note>
+<note xml:id="n0093">93. B quin</note>
+<note xml:id="n0094">94. B exigitur</note>
+<note xml:id="n0095">95. B hic</note>
+<note xml:id="n0096">96. B quo</note>
+<note xml:id="n0097">97. B modo</note>
+<note xml:id="n0098">98. M existens</note>
+<note xml:id="n0099">99. B permansiva</note>
+<note xml:id="n0100">100. B ipso om.</note>
+<note xml:id="n0101">101. B habet</note>
+<note xml:id="n0102">102. B ecce om.</note>
+<note xml:id="n0103">103. B modum tamen</note>
+<note xml:id="n0104">104. Apoc. 22:15</note>
+<note xml:id="n0105">105. Cum excepcione: B ex concepcione ??</note>
+<note xml:id="n0106">106. M et om.</note>
+<note xml:id="n0107">107. B ultimo</note>
+<note xml:id="n0108">108. B se</note>
+<note xml:id="n0109">109. Rom. 7:23</note>
+<note xml:id="n0110">110. Codd. que</note>
+<note xml:id="n0111">111. Codd. Cohibet??</note>
+<note xml:id="n0112">112. Matt. 7:13</note>
+<note xml:id="n0113">113. B usu aliud</note>
+<note xml:id="n0114">114. Supra, pp. 292 seqq.</note>
+<note xml:id="n0115">115. B rebelles ??</note>
+<note xml:id="n0116">116. B nos om.</note>
+<note xml:id="n0117">117.  M doim: B dniu ??</note>
+<note xml:id="n0118">118. M si libet om.</note>
+<note xml:id="n0119">119. M moralem</note>
+<note xml:id="n0120">120. I Reg. 8:7</note>
+<note xml:id="n0121">121. B sed om.</note>
+<note xml:id="n0122">122. M tibi om.</note>
+<note xml:id="n0123">123. B set</note>
+<note xml:id="n0124">124. B fecerunt</note>
+<note xml:id="n0125">125. B et om.</note>
+<note xml:id="n0126">126. B cum</note>
+<note xml:id="n0127">127. B sunt om.</note>
+<note xml:id="n0128">128. B set</note>
+<note xml:id="n0129">129. B liceant</note>
+<note xml:id="n0130">130. M istis</note>
+<note xml:id="n0131">131. Codd. Dominum</note>
+<note xml:id="n0132">132. B siue</note>
+<note xml:id="n0133">133. B eam om.</note>
+<note xml:id="n0134">134. B autem om.</note>
+<note xml:id="n0135">135. B sciencie</note>
+<note xml:id="n0136">136. B Que</note>
+<note xml:id="n0137">137. B enim</note>
+<note xml:id="n0138">138. B obiectibus poterit</note>
+<note xml:id="n0139">139. Act. 8:21</note>
+<note xml:id="n0140">140. B facti om.</note>
+<note xml:id="n0141">141. B qn ??</note>
+<note xml:id="n0142">142. B sine</note>
+<note xml:id="n0143">143. B cum</note>
+<note xml:id="n0144">144. B licet… alligare om.</note>
+<note xml:id="n0145">145. Supra, p 371?</note>
+<note xml:id="n0146">146. B terciam tamen</note>
+<note xml:id="n0147">147. M aut</note>
+<note xml:id="n0148">148. Codd. communicabilis</note>
+<note xml:id="n0149">149. B sui</note>
+<note xml:id="n0150">150. Codd. Inte9 ??</note>
+<note xml:id="n0151">151. B et???</note>
+
+
+
+</div1>
+</back>
+
+</text>
+</TEI>

@@ -1,0 +1,14 @@
+*.svn
+figures/*
+audio/*
+config.xsl
+post.py
+data_theology/*
+search/*
+images/figures/*
+images/theo.dps.001/*
+images/theo.postilla.001/*
+images/theo.tri.001/*
+
+
+.DS_Store

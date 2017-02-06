@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="http://jetson.unl.edu/cdrh/schemas/tei_all.rng"  type="xml"?>
+
+<TEI.2>
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Links</title>
+      <author>Stephen Lahey</author>
+      <respStmt>
+        <resp>Text encoding by</resp>
+        <name>Laura Weakly, University of Nebraska-Lincoln</name>
+      </respStmt>
+    </titleStmt>
+    <publicationStmt>
+      <publisher>University of Nebraska-Lincoln</publisher>
+    </publicationStmt>
+    <sourceDesc>
+      <p>Original.</p>
+    </sourceDesc> 
+ </fileDesc>
+
+        <revisionDesc>
+            <change> <date when="2010-03-29" />  <name>Laura Weakly</name> Initial encoding</change>
+        </revisionDesc>
+
+
+</teiHeader>
+<text>
+<body>
+
+<list>
+
+<item><ref type="link" target="http://teca.bmlonline.it/TecaViewer/index.jsp?RisIdr=TECA0000256643">Ioannes Wyclyf De fundatione pseudofratrum</ref></item>
+
+<item><ref type="link" target="http://daten.digitale-sammlungen.de/~db/0002/bsb00029051/images/">1525 edition of Trialogus</ref></item>
+
+<item><ref type="link" target="http://www9.georgetown.edu/faculty/szittyap/wyclif/index.html">The Latin Works of John Wycliff </ref></item>
+
+<item><ref type="link" target="http://plato.stanford.edu/entries/wyclif/">Stanford Encyclopedia of Philosophy: Wyclif</ref></item>
+
+<item><ref type="link" target="http://plato.stanford.edu/entries/holkot/">Stanford Encyclopedia of Philosophy: Holkot</ref></item>
+
+<item><ref type="link" target="http://books.google.com/books?id=xWvoAAAAIAAJ&amp;pg=PA1&amp;dq=Richard+Fitzralph&amp;hl=en&amp;ei=gPuwS8joKoWuswObuNzcDA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=7&amp;ved=0CE0Q6AEwBg#v=onepage&amp;q=&amp;f=false">Richard Fitzralph as Commentator on the Sentences, Gordon Leff </ref></item>
+
+<item><ref type="link" target="http://books.google.com/books?id=wyzEYvPpJ04C&amp;pg=PA70&amp;dq=Richard+Fitzralph&amp;hl=en&amp;ei=D_ywS5W7Do_kswOImpCRDA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CDUQ6AEwADgK#v=onepage&amp;q=Richard%20Fitzralph&amp;f=false">Wyclif and the Oxford Schools, J.A. Robson</ref> </item>
+
+<item><ref type="link" target="http://books.google.com/books?id=DM8eAAAAIAAJ&amp;pg=PA75&amp;dq=Richard+Fitzralph&amp;hl=en&amp;ei=lfywS8uoA4bQtgPMyuH4Cw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=6&amp;ved=0CEsQ6AEwBTg8#v=onepage&amp;q=Richard%20Fitzralph&amp;f=false">Adam Wodeham, by William Courtenay</ref></item>
+
+<item><ref type="link" target="http://books.google.com/books?id=X80ap2CPoN0C&amp;pg=PA4&amp;dq=Richard+Fitzralph&amp;hl=en&amp;ei=9fywS62KIobKsAOnwYyVDA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=9&amp;ved=0CFoQ6AEwCDhk#v=onepage&amp;q=Richard%20Fitzralph&amp;f=false">Thomas Bradwardine, A Vision of Time and Eternity, Edith Wilks Dolnikowski</ref> </item>
+
+<item><ref type="link" target="http://books.google.com/books?id=AkJO3TAxMtwC&amp;pg=PA156&amp;dq=Richard+Fitzralph&amp;hl=en&amp;ei=Rv2wS4SIMIPwsQO3z5yHDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=9&amp;ved=0CFsQ6AEwCDiMAQ#v=onepage&amp;q=Richard%20Fitzralph&amp;f=false">The Early Oxford Schools, Vol7, History of the University of Oxford, J.Catto, ed.</ref></item>
+
+<item><ref type="link" target="http://www.digital-collections.de/index.html?c=autoren_index&amp;l=en&amp;ab=Richardus+%26lt%3BArmachanus%26gt%3B">Richard Fitzralph, Summa Quaestionibus Armenorum, digitized by the MunichState Library</ref></item>  
+
+<item><ref type="link" target="http://daten.digitale-sammlungen.de/~db/0003/bsb00034856/images/">Incipit</ref>
+</item>
+
+</list>
+
+</body>
+</text>
+</TEI.2>
