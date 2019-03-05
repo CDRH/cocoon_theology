@@ -55,6 +55,11 @@
                 <map:serialize type="xhtmlutf8" />
             </map:match>
             
+            <map:match pattern="theo.hus.cis.1.html">
+                <map:generate src="xml/theo.hus.cis.1.xml" />
+                <map:transform src="xsl/theo.tei.p5.xsl" />
+                <map:serialize type="xhtmlutf8" />
+            </map:match>
             
             <map:match pattern="*.p5.html">
                 <map:generate src="xml/{1}.xml" />
