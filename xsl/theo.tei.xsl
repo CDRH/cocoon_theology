@@ -90,7 +90,7 @@
     </h4>
   </xsl:template>
 
-  <xsl:template match="pb">
+  <!--<xsl:template match="pb">
 
     <span class="pageImage">
       <a href="images/{/TEI.2/@id}/{@id}.jpg">
@@ -98,7 +98,7 @@
       </a>
     </span>
 
-  </xsl:template>
+  </xsl:template>-->
 
   <xsl:template match="milestone">
     <div class="separator">

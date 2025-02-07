@@ -45,13 +45,13 @@
             </img>
           </a></div>
       </xsl:when>
-      <xsl:otherwise>
-        <span class="pageImage">
+      <xsl:otherwise/>
+        <!--<span class="pageImage">
           <a href="images/{/TEI/@xml:id}/{@xml:id}.jpg">
             <img src="images/{/TEI.2/@xml:id}/thumbs/{@xml:id}.jpg"/>
           </a>
         </span>
-      </xsl:otherwise>
+      </xsl:otherwise>-->
     </xsl:choose>
     
   </xsl:template>
