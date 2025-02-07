@@ -114,12 +114,12 @@ p,fieldset,table {
 /* Main page CSS */
 
 .main_header{
-	background-image:url(../images/topimage.jpg);
+	/* background-image:url(../images/topimage.jpg);
 	height:205px;
 	width:1024px;
 	background-position: left;
-	background-repeat: no-repeat;
-	float: left;
+	background-repeat: no-repeat; */
+	/* float: left; */
 	margin: 0px;
 	padding: 0px;
 	background-color: #000004;
@@ -142,7 +142,7 @@ p,fieldset,table {
 	width:1024px;
 	background-position: left;
 	background-repeat: no-repeat;
-	float: left;
+	/* float: left; */
 	margin: 0px;
 	padding: 0px;
 	background-color: #000004;
@@ -202,7 +202,7 @@ color:#fef7b7;
 text-decoration:none;
 }
 
-.main_background{
+/* .main_background{
 	background-color: #3F0101;
 	height: auto;
 	width: 1024px;
@@ -214,7 +214,7 @@ text-decoration:none;
 	bottom: 1%;
 	background-repeat: repeat-y;
 	float: left;
-}
+} */
 .main_border{
 	background-color: #000000;
 	height: 100%;
@@ -228,7 +228,7 @@ text-decoration:none;
 	 color: #f9f8bb;
 	 margin-top:200px;
     width: 999px;
-    float: left;
+    /* float: left; */
     padding-bottom: 25px;
     padding-left: 25px;
     padding-top:20px;
@@ -607,3 +607,120 @@ h2 {
 a.footnote {text-decoration:none;}
 
 a.footnote sup {text-decoration:underline;}
+
+.style8 {
+	color: #FFCC66
+}
+
+/* /////////////////
+Accessibility Fixes
+///////////////// */
+
+/* Skip to main content link */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+.sr-only-focusable:active, .sr-only-focusable:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  clip: auto;
+}
+
+a.sr-only-focusable:hover, a.sr-only-focusable:focus {
+  color: #345c87;
+  text-decoration: underline;
+}
+
+a.sr-only.skip-link {
+  background-color: white;
+}
+
+
+/* /////////////////
+New stuff
+///////////////// */
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  justify-items: space-between; 
+	padding-right: 1%;
+	padding-left: 5%;
+}
+
+.main_background_wrapper {
+	background-color: #3F0101;
+	width: 1024px;
+	float: left;
+}
+
+.header-image {
+  height: auto;
+  width: 1024px;
+  padding-bottom: 25px;
+  background-color: #000;
+  margin-top: -18px;
+}
+
+.home-nav {
+  position: relative;
+}
+
+.home-nav nav {
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+.banner-image {
+  background-color: #000;
+}
+
+main {
+  flex-grow: 1;
+}
+
+.main_content {
+  margin-top: 0px;
+  max-width: 1024px;
+  padding-right: 20px;
+  width: auto;
+}
+
+footer { 
+  flex-grow: 1;
+}
+
+.footer {
+  float: right;
+  margin-top: 0px;
+  margin-right: 50px;
+  width: 976px;
+}
+
+.footer a,
+.footer a:visited {
+  color: #F1AB6D;
+}
+
+.footer a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.footer .unl-logo {
+  float: right;
+}
+
