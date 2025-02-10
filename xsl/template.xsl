@@ -21,6 +21,7 @@
         </head>
         <body>
           <header>
+            <a class="sr-only sr-only-focusable skip-link" href="#main_content">Skip to main content</a>
             <div class="site-title sr-only">
               <div class="style7">14th Century Oxford Theology Online</div>
             </div>
@@ -43,10 +44,17 @@
               </nav>
             </div>
           </header>
-        <main>
+        <main id="main_content">
             <div class="works_background">
                 <div class="works">
-                    <h1 class="sr-only">Works</h1>
+                    <xsl:choose>
+                        <xsl:when test="//@xml:id">
+                        </xsl:when>
+                        <xsl:otherwise>
+                           <h1 class="sr-only"><xsl:value-of select="//titleStmt/title"/></h1>
+</xsl:otherwise>
+                    </xsl:choose>
+                    
                     <p class="style7">14th Century Oxford Theology Online</p>
                     <p>project director Stephen E. Lahey</p>
                </div>
