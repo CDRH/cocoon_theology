@@ -5,7 +5,7 @@
     <xsl:output method="xml" encoding="UTF-8" indent="no"/>
     
     <xsl:template name="maintemplate">
-    <html>
+    <html class="page" lang="en">
         <head>
             <title>14th Century Oxford Theology Online</title>
             <link rel="stylesheet" href="css/style.css" type="text/css"/>
@@ -20,57 +20,52 @@
             
         </head>
         <body>
-            <div class="works_background">
-                <div class="sidebar">
-                    <div class="side_nav">
-                        <ul>
-                            <li>
-                                <a href="index.html">Home</a>
-                            </li>
-                            <li>
-                                <a href="works.html">Works</a>
-                            </li>
-                            <li>
-                                <a href="about.html">About</a>
-                            </li>
-                            <li>
-                                <a href="links.html">Links</a>
-                            </li>
-                        </ul>
-                        
-                        <!-- <a href="works.html" class="selected">Works</a> -->
-                    </div>
-                </div>
-                <div class="works">
-                    
-                    <h2 align="center" class="style7">14th Century Oxford Theology Online</h2>
-                    <h3 align="center">project director Stephen E. Lahey</h3>
-                </div>
-                <div class="text_box">
-                    
-                    
-                    
-                    <xsl:apply-templates/>
-                    
-                    
-                    
-                    
-                </div>
-                <div class="works_footer">
-                    <a href="http://www.unl.edu">
-                        <img src="images/unl_logo.png" border="0"/>
-                    </a>
-                    <div class="works_footer2">
-                        <ul>
-                            <li>&#169; University of Nebraska&#8211;Lincoln</li>
-                            <li>
-                                <a href="http://cdrh.unl.edu">Center for Digital Research in the Humanities</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
+          <header>
+            <div class="site-title sr-only">
+              <div class="style7">14th Century Oxford Theology Online</div>
             </div>
-            
+            <div class="sidebar">
+              <nav class="side_nav">
+                <ul>
+                  <li>
+                    <a href="http://theology.unl.edu/index.html">Home</a>
+                  </li>
+                  <li>
+                    <a href="http://theology.unl.edu/works.html">Works</a>
+                  </li>
+                  <li>
+                    <a href="http://theology.unl.edu/about.html">About</a>
+                  </li>
+                  <li>
+                    <a href="http://theology.unl.edu/links.html">Links</a>
+                  </li>
+                </ul>
+              </nav>
+            </div>
+          </header>
+        <main>
+            <div class="works_background">
+                <div class="works">
+                    <h1 class="sr-only">Works</h1>
+                    <p class="style7">14th Century Oxford Theology Online</p>
+                    <p>project director Stephen E. Lahey</p>
+               </div>
+               <div class="text_box">
+                   <xsl:apply-templates/> 
+                </div>
+            </div>                  
+        </main>
+        <footer>
+            <div class="works_footer">
+              <div class="unl-logo">
+                <a href="http://www.unl.edu">
+                    <img src="images/unl_logo.png" alt="University of Nebraska–Lincoln logo"/>
+                </a>
+              </div>
+              <p><xsl:text>&#169;</xsl:text> <a href="http://www.unl.edu">University of Nebraska–Lincoln</a></p>
+              <p><a href="http://cdrh.unl.edu">Center for Digital Research in the Humanities</a></p>
+          </div>
+        </footer>
         </body>
     </html>
     
