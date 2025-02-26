@@ -649,6 +649,53 @@ a.sr-only.skip-link {
   background-color: white;
 }
 
+.static-banner-wrapper {
+  background-color: #cce5f2;
+  border-bottom: 1px solid #226e95;
+  padding-left: 60px;
+  position: relative;
+  z-index: 1;
+}
+
+.static-banner {
+  max-width: 100%;
+  padding: 15px 20px;
+  text-align: left;
+  width: 1024px;
+}
+
+.static-banner p {
+  font-size: 14px; /* Change to fit site */
+  margin: 0;
+}
+
+.sidebar-layout .static-banner-wrapper {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+.sidebar-layout .sidebar, #main_content {
+  margin-top: 30px;
+}
+
+.static-banner p a,
+.static-banner p a:visited {
+  color: #0000EE;
+  background: none;
+  margin: 0;
+  padding: 0;
+  text-decoration: underline;
+}
+
+.static-banner p a:hover {
+  background: none;
+  color: #010194;
+  margin: 0;
+  padding: 0;
+}
+
 
 /* /////////////////
 New stuff

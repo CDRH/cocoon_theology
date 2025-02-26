@@ -20,8 +20,13 @@
             
         </head>
         <body>
-          <header>
+          <header class="sidebar-layout">
             <a class="sr-only sr-only-focusable skip-link" href="#main_content">Skip to main content</a>
+            <div class="static-banner-wrapper">
+              <div class="static-banner">
+                <p>This version of the website was created in 2025. See the <a href="info.html">Site Information Page</a> for contact information, data downloads, and other details.</p>
+              </div>
+            </div>
             <div class="site-title sr-only">
               <div class="style7">14th Century Oxford Theology Online</div>
             </div>
